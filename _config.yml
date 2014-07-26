@@ -26,3 +26,6 @@ pages_list:
   Projects:       '/projects'
   Archive:        '/archive'
   RSS:            '/atom.xml'
+
+gems:
+  - jekyll-sitemap

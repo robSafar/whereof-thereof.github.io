@@ -10,5 +10,5 @@ This a straight-up, ongoing list of my projects. You can find most of these on [
 
 This is a little cybertext project, using the method of John Cayley's *Book Unbound* applied to Jorge Luis Borges' *Pierre Menard, Author of the Quixote*.
 
-* [Read the experiment](http://whereof.thereof.co.uk/MenardUnbound/)
+* [Read the experiment](http://whereof.thereof.co.uk/MenardUnbound)
 * [Read about the experiment](https://medium.com/@robsafar/pierre-menard-author-of-the-quixote-unbound-8604e8522806)

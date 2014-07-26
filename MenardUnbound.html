@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Pierre Menard, Unbound. | Whereof, Thereof.</title>
+        <link rel="icon" type="image/x-icon" href="https://whereofthereofmedia.s3.amazonaws.com/favicon.ico" />
+        <link rel="stylesheet" href="http://whereof.thereof.co.uk/public/css/poole.css" media="screen" />
+        <link rel="stylesheet" href="http://whereof.thereof.co.uk/public/css/syntax.css" media="screen" />
+        <link href="http://fonts.googleapis.com/css?family=Roboto:300|Roboto+Slab:300" rel='stylesheet' type='text/css'>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="description" content="The visible work left by this novelist is easily and briefly enumerated."/>
+        <link rel="author" href="https://plus.google.com/+robsafar"/>
+        <meta property="og:image" content="https://whereofthereofmedia.s3.amazonaws.com/DonQuixote-1-9.jpg"/>
+        <!-- Twitter Card -->
+        <meta name="twitter:card" content="summary_large_image"/>
+        <meta name="twitter:creator" content="@robsafar"/>
+        <meta name="twitter:title" content="Pierre Menard, Unbound."/>
+        <meta name="twitter:description" content="The visible work left by this novelist is easily and briefly enumerated."/>
+        <meta name="twitter:image:src" content="https://whereofthereofmedia.s3.amazonaws.com/DonQuixote-1-9.jpg"/>
+        <!-- Google Analytics -->
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+             (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+             m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+             })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+             ga('create', 'UA-50409670-1', 'thereof.co.uk');
+             ga('send', 'pageview');
+        </script>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script>
+            function addLexias()
+            {
+                var totalLexias = 145;
+                
+                // Hide selected lexias
+                var i = 0;
+                while (i<=totalLexias) {
+                    if ( document.getElementById('il'+i) !== null ) {
+                        var lexiaIsChecked = document.getElementById('il'+i).checked;
+                        if (lexiaIsChecked == true ) {
+                            document.getElementById('dl'+i).innerHTML = "";
+                        };
+                    };
+                    i++;
+                };
+                
+                // Add four lexias
+                var i = 1;
+                while (i<= 4) {
+                    
+                    // Identify a dormant lexia
+                    var randomId = Math.floor(Math.random() * totalLexias) + 1;
+                    var currentLexia = document.getElementById('l'+randomId).className;
+                    var attempts = 0;
+                    while (currentLexia !== "dormant") {
+                        attempts++;
+                        if (attempts > totalLexias) {
+                            window.alert("You have used all of the lexias in 'Pierre Menard, Author of the Quixote'. If you'd like to start again, just refresh the page.");
+                            return;
+                        };
+                        if (randomId == totalLexias) {
+                            var randomId = 0;
+                        };
+                        randomId++;
+                        var currentLexia = document.getElementById('l'+randomId).className;
+                    };
+                    var lexiaId = randomId;
+                    
+                    // Concat narrative with selected lexia
+                    var strtext = document.getElementById('narrative').innerHTML;
+                    var newtext = document.getElementById('l'+lexiaId).innerHTML;
+                    if (i==4) { // Add 'paragraph' breaks _within_ the last lexia
+                        newtext = '<input type="checkbox" id="il'+lexiaId+'"/><label id="dl'+lexiaId+'" for="il'+lexiaId+'">' + newtext + '<br><br>' + ' </label>';
+                    } else {
+                        newtext = '<input type="checkbox" id="il'+lexiaId+'"/><label id="dl'+lexiaId+'" for="il'+lexiaId+'">' + newtext + ' </label>';
+                    };
+                    var restext = strtext.concat(newtext);
+                    document.getElementById('narrative').innerHTML = restext;
+                    document.getElementById('l'+lexiaId).className = "deployed";
+                    
+                    i++;
+                }; // endwhile Add four lexias
+            };
+        </script>
+        <style>
+        #addbutton {
+                border: 2px solid;
+                padding: 2px;
+                border-radius: 10px;
+                text-decoration: none;
+                font-weight: bold;
+            }
+        input {
+            display: none;
+        }
+        input[type=checkbox]:checked + label {
+            color: #aaa;
+        }
+        label {
+            font-weight: normal;
+        }
+        .bottombar {
+            position: fixed;
+            width: 90%;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+            bottom: 0;
+            background-color: #000;
+            color: #fff;
+            z-index: 9999;
+            padding: 10px;
+            opacity: 0.8;
+        }
+        </style>
+    </head>
+    <body>
+        <div id="header">
+            <div class="home">
+                <h2><a href="http://whereof.thereof.co.uk" title="Whereof, Thereof."><span class="glyphicon glyphicon-home"></span>&nbsp;&forall;<em>x</em> (&exist;<em>x</em>)</a></h2>
+            </div>
+        </div>
+        <div class="full-hero">
+            <div class="column center" style="background-image: url('https://whereofthereofmedia.s3.amazonaws.com/DonQuixote-1-9.jpg');">
+                <h1 style="color: #fff; font-size: 3em; font-weight: 700;">Pierre Menard, Unbound.</h1>
+            </div>
+        </div>
+        
+        <div style="display: none;" id="arrayLexias">
+            <span id="l1" class="dormant">Impardonable, therefore, are the omissions and additions perpetrated by Madame Henri Bachelier in a fallacious catalogue which a certain daily, whose <em>Protestant</em> tendency is no secret, has had the inconsideration to inflict upon its deplorable readers &ndash; though these be few and Calvinist, if not Masonic and circumcised.</span>
+            <span id="l2" class="dormant">The true friends of Menard have viewed this catalogue with alarm and even with a certain melancholy.</span>
+            <span id="l3" class="dormant">One might say that only yesterday we gathered before his final monument, amidst the lugubrious cypresses, and already Error tries to tarnish his Memory&hellip;</span>
+            <span id="l4" class="dormant">Decidedly, a brief rectification is unavoidable.</span>
+            <span id="l5" class="dormant">I am aware that it is quite easy to challenge my slight authority.</span>
+            <span id="l6" class="dormant">I hope, however, that I shall not be prohibited from mentioning two eminent testimonies.</span>
+            <span id="l7" class="dormant"> I had the honor of meeting the lamented poet) has seen fit to approve the pages which follow.</span>
+            <span id="l8" class="dormant">The Countess de Bagnoregio, one of the most delicate spirits of the Principality of Monaco (and now of Pittsburgh, Pennsylvania, following her recent marriage to the international philanthropist Simon Kautzsch, who has been so inconsiderately slandered, alas! by the victims of his disinterested maneuvers) has sacrificed "to veracity and to death" (such were her words) the stately reserve which is her distinction, and, in an open letter published in the magazine <em>Luxe</em>, concedes me her approval as well.</span>
+            <span id="l9" class="dormant">These authorizations, I think, are not entirely insufficient.</span>
+            <span id="l10" class="dormant">I have said that Menard's visible work can be easily enumerated.</span>
+            <span id="l11" class="dormant">Having examined with care his personal files, I find that they contain the following items:</span>
+            <span id="l12" class="dormant">A Symbolist sonnet which appeared twice (with variants) in the review <em>La conque</em> (issues of March and October 1899).</span>
+            <span id="l13" class="dormant">A monograph on the possibility of constructing a poetic vocabulary of concepts which would not be synonyms or periphrases of those which make up our everyday language, "but rather ideal objects created according to convention and essentially designed to satisfy poetic needs" (N&icirc;mes, 1901).</span>
+            <span id="l14" class="dormant">A monograph on "certain connections or affinities" between the thought of Descartes, Leibniz and John Wilkins (N&icirc;mes, 1903).</span>
+            <span id="l15" class="dormant">A monograph on Leibniz's <em>Characteristica universalis</em> (N&icirc;mes 1904).</span>
+            <span id="l16" class="dormant">A technical article on the possibility of improving the game of chess, eliminating one of the rook's pawns. Menard proposes, recommends, discusses and finally rejects this innovation.</span>
+            <span id="l17" class="dormant">A monograph on Raymond Lully's <em>Ars magna generalis</em> (N&icirc;mes, 1906).</span>
+            <span id="l18" class="dormant">A translation, with prologue and notes, of Ruy L&oacute;pez de Segura's <em>Libro de la invenci&oacute;n liberal y arte del juego del axedrez</em> (Paris, 1907).</span>
+            <span id="l19" class="dormant">The work sheets of a monograph on George Boole's symbolic logic.</span>
+            <span id="l20" class="dormant">An examination of the essential metric laws of French prose, illustrated with examples taken from Saint-Simon (<em>Revue des langues romanes</em>, Montpellier, October 1909).</span>
+            <span id="l21" class="dormant">A reply to Luc Durtain (who had denied the existence of such laws), illustrated with examples from Luc Durtain (<em>Revue des langues romanes</em>, Montpellier, December 1909).</span>
+            <span id="l22" class="dormant">A manuscript translation of the <em>Aguja de navegar cultos</em> of Quevedo, entitled <em>La boussole des pr&eacute;cieux</em>.</span>
+            <span id="l23" class="dormant">A preface to the Catalogue of an exposition of lithographs by Carolus Hourcade (N&icirc;mes, 1914).</span>
+            <span id="l24" class="dormant">The work <em>Les probl&egrave;mes d'un probl&egrave;me</em> (Paris, 1917), which discusses, in chronological order, the different solutions given to the illustrious problem of Achilles and the tortoise.</span>
+            <span id="l25" class="dormant">Two editions of this book have appeared so far; the second bears as an epigraph Leibniz's recommendation <em>"Ne craignez point, monsieur, la tortue"</em> and revises the chapters dedicated to Russell and Descartes.</span>
+            <span id="l26" class="dormant">A determined analysis of the "syntactical customs" of Toulet (N. R. F., March 1921).</span>
+            <span id="l27" class="dormant">Menard &ndash; I recall &ndash; declared that censure and praise are sentimental operations which have nothing to do with literary criticism.</span>
+            <span id="l28" class="dormant">A transposition into alexandrines of Paul Val&eacute;ry's <em>Le cimiti&egrave;re marin</em> (N. R. F., January 1928).</span>
+            <span id="l29" class="dormant">An invective against Paul Val&eacute;ry, in the <em>Papers for the Suppression of Reality</em> of Jacques Reboul.</span>
+            <span id="l30" class="dormant">(This invective, we might say parenthetically, is the exact opposite of his true opinion of Val&eacute;ry. The latter understood it as such and their old friendship was not endangered.)</span>
+            <span id="l31" class="dormant">A "definition" of the Countess de Bagnoregio, in the "victorious volume" &ndash; the locution is Gabriele d'Annunzio's, another of its collaborators-published annually by this lady to rectify the inevitable falsifications of journalists and to present "to the world and to Italy" an authentic image of her person, so often exposed (by very reason of her beauty and her activities) to erroneous or hasty interpretations.</span>
+            <span id="l32" class="dormant">A cycle of admirable sonnets for the Baroness de Bacourt (1934).</span>
+            <span id="l33" class="dormant">A manuscript list of verses which owe their efficacy to their punctuation.</span>
+            <span id="l34" class="dormant">Madame Henri Bachelier also lists a literal translation of Quevedo's literal translation of the <em>Introduction &agrave; la vie d&eacute;vote</em> of St. Francis of Sales.</span>
+            <span id="l35" class="dormant">There are no traces of such a work in Menard's library. It must have been a jest of our friend, misunderstood by the lady.</span>
+            <span id="l36" class="dormant">This, then, is the <em>visible</em> work of Menard, in chronological order (with no omission other than a few vague sonnets of circumstance written for the hospitable, or avid, album of Madame Henri Bachelier).</span>
+            <span id="l37" class="dormant">I turn now to his other work: the subterranean, the interminably heroic, the peerless. And-such are the capacities of man!-the unfinished.</span>
+            <span id="l38" class="dormant">This work, perhaps the most significant of our time, consists of the ninth and thirty-eighth chapters of the first part of <em>Don Quixote</em> and a fragment of chapter twenty-two.</span>
+            <span id="l39" class="dormant">I know such an affirmation seems an absurdity; to justify this "absurdity" is the primordial object of this note.</span>
+            <span id="l40" class="dormant">I also had the secondary intention of sketching a personal portrait of Pierre Menard.</span>
+            <span id="l41" class="dormant">But how could I dare to compete with the golden pages which, I am told, the Baroness de Bacourt is preparing or with the delicate and punctual pencil of Carolus Hourcade?</span>
+            <span id="l42" class="dormant">Two texts of unequal value inspired this undertaking.</span>
+            <span id="l43" class="dormant">One is that philological fragment by Novalis-the one numbered 2005 in the Dresden edition &ndash; which outlines the theme of a <em>total</em> identification with a given author.</span>
+            <span id="l44" class="dormant">The other is one of those parasitic books which situate Christ on a boulevard, Hamlet on La Cannebi&egrave;re or Don Quixote on Wall Street.</span>
+            <span id="l45" class="dormant">Like all men of good taste, Menard abhorred these useless carnivals, fit only- as he would say-to produce the plebeian pleasure of anachronism or (what is worse) to enthrall us with the elementary idea that all epochs are the same or are different.</span>
+            <span id="l46" class="dormant">More interesting, though contradictory and superficial of execution, seemed to him the famous plan of Daudet: to conjoin the Ingenious Gentleman and his squire in <em>one</em> figure, which was Tartarin&hellip;</span>
+            <span id="l47" class="dormant">Those who have insinuated that Menard dedicated his life to writing a contemporary <i>Quixote</i> calumniate his illustrious memory.</span>
+            <span id="l48" class="dormant">He did not want to compose another Quixote &ndash; which is easy &ndash; but <em>the Quixote itself</em>.</span>
+            <span id="l49" class="dormant">Needless to say, he never contemplated a mechanical transcription of the original; he did not propose to copy it.</span>
+            <span id="l50" class="dormant">His admirable intention was to produce a few pages which would coincide &ndash; word for word and line for line &ndash; with those of Miguel de Cervantes.</span>
+            <span id="l51" class="dormant">"My intent is no more than astonishing," he wrote me the 30th of September, 1934, from Bayonne.</span>
+            <span id="l52" class="dormant">"The final term in a theological or metaphysical demonstration &ndash; the objective world, God, causality, the forms of the universe &ndash; is no less previous and common than my famed novel.</span>
+            <span id="l53" class="dormant">The only difference is that the philosophers publish the intermediary stages of their labor in pleasant volumes and I have resolved to do away with those stages."</span>
+            <span id="l54" class="dormant">In truth, not one worksheet remains to bear witness to his years of effort.</span>
+            <span id="l55" class="dormant">The first method he conceived was relatively simple.</span>
+            <span id="l56" class="dormant">Know Spanish well, recover the Catholic faith, fight against the Moors or the Turk, forget the history of Europe between the years 1602 and 1918, be Miguel de Cervantes.</span>
+            <span id="l57" class="dormant">Pierre Menard studied this procedure (I know he attained a fairly accurate command of seventeenth-century Spanish) but discarded it as too easy.</span>
+            <span id="l58" class="dormant">Rather as impossible! my reader will say.</span>
+            <span id="l59" class="dormant">Granted, but the undertaking was impossible from the very beginning and of all the impossible ways of carrying it out, this was the least interesting.</span>
+            <span id="l60" class="dormant">To be, in the twentieth century, a popular novelist of the seventeenth seemed to him a diminution.</span>
+            <span id="l61" class="dormant">To be, in some way, Cervantes and reach the <em>Quixote</em> seemed less arduous to him-and, consequently, less interesting-than to go on being Pierre Menard and reach the <em>Quixote</em> through the experiences of Pierre Menard.</span>
+            <span id="l62" class="dormant">This conviction, we might say in passing, made him omit the autobiographical prologue to the second part of <em>Don Quixote</em>.</span>
+            <span id="l63" class="dormant">To include that prologue would have been to create another character &ndash; Cervantes &ndash; but it would also have meant presenting the <em>Quixote</em> in terms of that character and not of Menard.</span>
+            <span id="l64" class="dormant">The latter, naturally, declined that facility.</span>
+            <span id="l65" class="dormant">"My undertaking is not difficult, essentially," I read in another part of his letter.</span>
+            <span id="l66" class="dormant">"I should only have to be immortal to carry it out."</span>
+            <span id="l67" class="dormant">Shall I confess that I often imagine he did finish it and that I read the Quixote &ndash; all of it &ndash; as if Menard had conceived it?</span>
+            <span id="l68" class="dormant">Some nights past, while leafing through chapter XXVI &ndash; never essayed by him &ndash; I recognized our friend's style and something of his voice in this exceptional phrase: "the river nymphs and the dolorous and humid Echo."</span>
+            <span id="l69" class="dormant">This happy conjunction of a spiritual and a physical adjective brought to my mind a verse by Shakespeare which we discussed one afternoon:</span>
+            <span id="l70" class="dormant"><blockquote>Where a malignant and a turbaned Turk&hellip;</blockquote></span>
+            <span id="l71" class="dormant">But why precisely the <em>Quixote</em>? our reader will ask.</span>
+            <span id="l72" class="dormant">Such a preference, in a Spaniard, would not have been inexplicable; but it is, no doubt, in a Symbolist from N&icirc;mes, essentially a devot&eacute; of Poe, who engendered Baudelaire, who engendered Mallarm&eacute;, who engendered Val&eacute;ry, who engendered Edmond Teste.</span>
+            <span id="l73" class="dormant">The aforementioned letter illuminates this point.</span>
+            <span id="l74" class="dormant"><em>The Quixote</em>, clarifies Menard, interests me deeply, but it does not seem &ndash; how shall I say it? &ndash; inevitable.</span>
+            <span id="l75" class="dormant">I cannot imagine the universe without Edgar Allan Poe's exclamation:</span>
+            <span id="l76" class="dormant"><blockquote>Ah, bear in mind this garden was enchanted!</blockquote></span>
+            <span id="l77" class="dormant">or without the <em>Bateau ivre</em> or the <em>Ancient Mariner</em>, but I am quite capable of imagining it without the <em>Quixote</em>.</span>
+            <span id="l78" class="dormant">(I speak, naturally, of my personal capacity and not of those works' historical resonance.)</span>
+            <span id="l79" class="dormant">The <em>Quixote</em> is a contingent book; the <em>Quixote</em> is unnecessary.</span>
+            <span id="l80" class="dormant">I can premeditate writing it, I can write it, without falling into a tautology.</span>
+            <span id="l81" class="dormant">When I was ten or twelve years old, I read it, perhaps in its entirety.</span>
+            <span id="l82" class="dormant">Later, I have reread closely certain chapters, those which I shall not attempt for the time being.</span>
+            <span id="l83" class="dormant">I have also gone through the interludes, the plays, the <em>Galatea</em>, the exemplary novels, the undoubtedly laborious tribulations of Persiles and Segismunda and the <em>Viaje del Parnaso</em>&hellip;</span>
+            <span id="l84" class="dormant">My general recollection of the <em>Quixote</em>, simplified by forgetfulness and indifference, can well equal the imprecise and prior image of a book not yet written.</span>
+            <span id="l85" class="dormant">Once that image (which no one can legitimately deny me) is postulated, it is certain that my problem is a good bit more difficult than Cervantes' was.</span>
+            <span id="l86" class="dormant">My obliging predecessor did not refuse the collaboration of chance: he composed his immortal work somewhat <em>&agrave; la diable</em>, carried along by the inertias of language and invention.</span>
+            <span id="l87" class="dormant">I have taken on the mysterious duty of reconstructing literally his spontaneous work.</span>
+            <span id="l88" class="dormant">My solitary game is governed by two polar laws.</span>
+            <span id="l89" class="dormant">The first permits me to essay variations of a formal or psychological type; the second obliges me to sacrifice these variations to the "original" text and reason out this annihilation in an irrefutable manner&hellip;</span>
+            <span id="l90" class="dormant">To these artificial hindrances, another &ndash; of a congenital kind &ndash; must be added.</span>
+            <span id="l91" class="dormant">To compose the <em>Quixote</em> at the beginning of the seventeenth century was a reasonable undertaking, necessary and perhaps even unavoidable; at the beginning of the twentieth, it is almost impossible.</span>
+            <span id="l92" class="dormant">It is not in vain that three hundred years have gone by, filled with exceedingly complex events.</span>
+            <span id="l93" class="dormant">Amongst them, to mention only one, is the <em>Quixote</em> itself.</span>
+            <span id="l94" class="dormant">In spite of these three obstacles, Menard's fragmentary <em>Quixote</em> is more subtle than Cervantes'.</span>
+            <span id="l95" class="dormant">The latter, in a clumsy fashion, opposes to the fictions of chivalry the tawdry provincial reality of his country; Menard selects as his "reality" the land of Carmen during the century of Lepanto and Lope de Vega.</span>
+            <span id="l96" class="dormant">What a series of <em>espagnolades</em> that selection would have suggested to Maurice Barr&egrave;s or Dr. Rodr&iacute;guez Larreta! Menard eludes them with complete naturalness.</span>
+            <span id="l97" class="dormant">In his work there are no gypsy flourishes or conquistadors or mystics or Philip the Seconds or <em>autos da f&eacute;</em>.</span>
+            <span id="l98" class="dormant">He neglects or eliminates local color.</span>
+            <span id="l99" class="dormant">This disdain points to a new conception of the historical novel.</span>
+            <span id="l100" class="dormant">This disdain condemns <em>Salammb&ocirc;</em>, with no possibility of appeal.</span>
+            <span id="l101" class="dormant">It is no less astounding to consider isolated chapters.</span>
+            <span id="l102" class="dormant">For example, let us examine Chapter XXXVIII of the first part, "which treats of the curious discourse of Don Quixote on arms and letters."</span>
+            <span id="l103" class="dormant">It is well known that Don Quixote (like Quevedo in an analogous and later passage in <em>La hora de todos</em>) decided the debate against letters and in favor of arms.</span>
+            <span id="l104" class="dormant">Cervantes was a former soldier: his verdict is understandable.</span>
+            <span id="l105" class="dormant">But that Pierre Menard's Don Quixote &ndash; a contemporary of <em>La trahison des clercs</em> and Bertrand Russell &ndash; should fall prey to such nebulous sophistries!</span>
+            <span id="l106" class="dormant">Madame Bachelier has seen here an admirable and typical subordination on the part of the author to the hero's psychology; others (not at all perspicaciously), a <em>transcription</em> of the <em>Quixote</em>; the Baroness de Bacourt, the influence of Nietzsche.</span>
+            <span id="l107" class="dormant">To this third interpretation (which I judge to be irrefutable) I am not sure I dare to add a fourth, which concords very well with the almost divine modesty of Pierre Menard: his resigned or ironical habit of propagating ideas which were the strict reverse of those he preferred.</span>
+            <span id="l108" class="dormant">(Let us recall once more his diatribe against Paul Val&eacute;ry in Jacques Reboul's ephemeral Surrealist sheet.)</span>
+            <span id="l109" class="dormant">Cervantes' text and Menard's are verbally identical, but the second is almost infinitely richer.</span>
+            <span id="l110" class="dormant">(More ambiguous, his detractors will say, but ambiguity is richness.)</span>
+            <span id="l111" class="dormant">It is a revelation to compare Menard's <em>Don Quixote</em> with Cervantes'.</span>
+            <span id="l112" class="dormant">The latter, for example, wrote (part one, chapter nine):</span>
+            <span id="l113" class="dormant"><blockquote>&hellip;truth, whose mother is history, rival of time, depository of deeds, witness of the past, exemplar and adviser to the present, and the future's counselor.</blockquote></span>
+            <span id="l114" class="dormant">Written in the seventeenth century, written by the "lay genius" Cervantes, this enumeration is a mere rhetorical praise of history.</span>
+            <span id="l115" class="dormant">Menard, on the other hand, writes:</span>
+            <span id="l116" class="dormant"><blockquote>&hellip;truth, whose mother is history, rival of time, depository of deeds, witness of the past, exemplar and adviser to the present, and the future's counselor.</blockquote></span>
+            <span id="l117" class="dormant">History, the <em>mother</em> of truth: the idea is astounding.</span>
+            <span id="l118" class="dormant">Menard, a contemporary of William James, does not define history as an inquiry into reality but as its origin.</span>
+            <span id="l119" class="dormant">Historical truth, for him, is not what has happened; it is what we judge to have happened.</span>
+            <span id="l120" class="dormant">The final phrases &ndash; <em>exemplar and adviser to the present, and the future's counselor</em> &ndash; are brazenly pragmatic.</span>
+            <span id="l121" class="dormant">The contrast in style is also vivid.</span>
+            <span id="l122" class="dormant">The archaic style of Menard &ndash; quite foreign, after all &ndash; suffers from a certain affectation.</span>
+            <span id="l123" class="dormant">Not so that of his forerunner, who handles with ease the current Spanish of his time.</span>
+            <span id="l124" class="dormant">There is no exercise of the intellect which is not, in the final analysis, useless.</span>
+            <span id="l125" class="dormant">A philosophical doctrine begins as a plausible description of the universe; with the passage of the years it becomes a mere chapter &ndash; if not a paragraph or a name &ndash; in the history of philosophy.</span>
+            <span id="l126" class="dormant">In literature, this eventual caducity is even more notorious.</span>
+            <span id="l127" class="dormant">The <em>Quixote</em> &ndash; Menard told me &ndash; was, above all, an entertaining book; now it is the occasion for patriotic toasts, grammatical insolence and obscene de luxe editions.</span>
+            <span id="l128" class="dormant">Fame is a form of incomprehension, perhaps the worst.</span>
+            <span id="l129" class="dormant">There is nothing new in these nihilistic verifications; what is singular is the determination Menard derived from them.</span>
+            <span id="l130" class="dormant">He decided to anticipate the vanity awaiting all man's efforts; he set himself to an undertaking which was exceedingly complex and, from the very beginning, futile.</span>
+            <span id="l131" class="dormant">He dedicated his scruples and his sleepless nights to repeating an already extant book in an alien tongue.</span>
+            <span id="l132" class="dormant">He multiplied draft upon draft, revised tenaciously and tore up thousands of manuscript pages.</span>
+            <span id="l133" class="dormant">He did not let anyone examine these drafts and took care they should not survive him.</span>
+            <span id="l134" class="dormant">In vain have I tried to reconstruct them.</span>
+            <span id="l135" class="dormant">I remember his quadricular notebooks, his black crossed-out passages, his peculiar typographical symbols and his insect-like handwriting.</span>
+            <span id="l136" class="dormant">In the afternoons he liked to go out for a walk around the outskirts of N&icirc;mes; he would take a notebook with him and make a merry bonfire.</span>
+            <span id="l137" class="dormant">I have reflected that it is permissible to see in this "final" <em>Quixote</em> a kind of palimpsest, through which the traces &ndash; tenuous but not indecipherable &ndash; of our friend's "previous" writing should be translucently visible.</span>
+            <span id="l138" class="dormant">Unfortunately, only a second Pierre Menard, inverting the other's work, would be able to exhume and revive those lost Troys&hellip;</span>
+            <span id="l139" class="dormant">Thinking, analyzing, inventing (he also wrote me) are not anomalous acts; they are the normal respiration of the intelligence.</span>
+            <span id="l140" class="dormant">To glorify the occasional performance of that function, to hoard ancient and alien thoughts, to recall with incredulous stupor that the <em>doctor universalis</em> thought, is to confess our laziness or our barbarity.</span>
+            <span id="l141" class="dormant">Every man should be capable of all ideas and I understand that in the future this will be the case.</span>
+            <span id="l142" class="dormant">Menard (perhaps without wanting to) has enriched, by means of a new technique, the halting and rudimentary art of reading: this new technique is that of the deliberate anachronism and the erroneous attribution.</span>
+            <span id="l143" class="dormant">This technique, whose applications are infinite, prompts us to go through the Odyssey as if it were posterior to the <em>Aeneid</em> and the book <em>Le jardin du Centaure</em> of Madame Henri Bachelier as if it were by Madame Henri Bachelier.</span>
+            <span id="l144" class="dormant">This technique fills the most placid works with adventure.</span>
+            <span id="l145" class="dormant">To attribute the <em>Imitatio Christi</em> to Louis Ferdinand C&eacute;line or to James Joyce, is this not a sufficient renovation of its tenuous spiritual indications?</span>
+        </div>
+        
+        <div class="container">
+            <div class="row clearfix">
+                <p id="jswarning"><sup>If you visit this page without JavaScript enabled, you're gonna have a bad time.</sup></p>
+            </div>
+            <div class="row clearfix">
+                <p id="narrative">
+                <input type="checkbox" id="il0"/><label id="dl0" for="il0">The <em>visible</em> work left by this novelist is easily and briefly enumerated. </label>
+                </p>
+            </div>
+            <div class="bottombar">
+                <p>Click on the lexias you want to discard and then click <a id="addbutton" href="javascript: addLexias(); ">add</a> to get more.</p>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row clearfix">
+                <div class="column two-thirds flow-opposite">
+                    <p><sub><a href="http://muse.jhu.edu/journals/postmodern_culture/v007/7.3cayley.html"><em>Book Unbound</em> by John Cayley</a>, the principle inspiration for this project, was published online in 1997.</sub></p>
+                    <p><sub><em>Pierre Menard, Author of the Quixote</em> by Jorge Luis Borges was first published in the journal <em>Sur</em> (1939). The text of this translation is by James E. Irby (1964).</sub></p>
+                </div>
+            </div>
+        </div>
+        <div style="text-align: center;">
+        	<p><sup><a href="https://github.com/whereof-thereof/MenardUnbound">Find this page on GitHub</a></sup></p>
+        </div>
+        <div id="footer"></div>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <script>
+            $("#footer").load("http://whereof.thereof.co.uk/_includes/footer.html");
+            $('p#jswarning').css('display', 'none');
+        </script>
+        <!-- Google Tag Manager -->
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WND96B"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                                                             new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                 })(window,document,'script','dataLayer','GTM-WND96B');</script>
+    </body>
+</html>

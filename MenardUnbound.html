@@ -103,7 +103,7 @@
         }
         .bottombar {
             position: fixed;
-            width: 90%;
+            width: 100%;
             margin-left: auto;
             margin-right: auto;
             text-align: center;
@@ -116,14 +116,18 @@
         }
         </style>
     </head>
-    <body>
-        <div id="header">
-            <div class="home">
-                <h2><a href="http://whereof.thereof.co.uk" title="Whereof, Thereof."><span class="glyphicon glyphicon-home"></span>&nbsp;&forall;<em>x</em> (&exist;<em>x</em>)</a></h2>
-            </div>
+    <body style="height: 100%;">
+        <div class="masthead">
+            <h3 class="masthead-title">
+                <a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a>
+                <small>{{ site.tagline }}</small>
+                <br><small>{% for page in site.pages_list %}
+                    <a href="{{ page[1]  }}">{{ page[0] }}</a>&nbsp;
+                    {% endfor %}</small>
+            </h3>
         </div>
         <div class="full-hero">
-            <div class="column center" style="background-image: url('https://whereofthereofmedia.s3.amazonaws.com/DonQuixote-1-9.jpg');">
+            <div class="column center" style="width:100%; height: 400px; background-image: url('https://whereofthereofmedia.s3.amazonaws.com/DonQuixote-1-9.jpg');">
                 <h1 style="color: #fff; font-size: 3em; font-weight: 700;">Pierre Menard, Unbound.</h1>
             </div>
         </div>
@@ -285,13 +289,12 @@
                 <input type="checkbox" id="il0"/><label id="dl0" for="il0">The <em>visible</em> work left by this novelist is easily and briefly enumerated. </label>
                 </p>
             </div>
-            <div class="bottombar">
-                <p>Click on the lexias you want to discard and then click <a id="addbutton" href="javascript: addLexias(); ">add</a> to get more.</p>
-            </div>
         </div>
         <div class="container">
             <div class="row clearfix">
-                <div class="column two-thirds flow-opposite">
+                <div>
+                    <p>&nbsp;</p>
+                    <hr>
                     <p><sub><a href="http://muse.jhu.edu/journals/postmodern_culture/v007/7.3cayley.html"><em>Book Unbound</em> by John Cayley</a>, the principle inspiration for this project, was published online in 1997.</sub></p>
                     <p><sub><em>Pierre Menard, Author of the Quixote</em> by Jorge Luis Borges was first published in the journal <em>Sur</em> (1939). The text of this translation is by James E. Irby (1964).</sub></p>
                 </div>
@@ -300,21 +303,17 @@
         <div style="text-align: center;">
         	<p><sup><a href="https://github.com/whereof-thereof/MenardUnbound">Find this page on GitHub</a></sup></p>
         </div>
-        <div id="footer"></div>
+        <div class="footer">
+            {% include footer.html %}
+        </div>
         <p>&nbsp;</p>
         <p>&nbsp;</p>
         <p>&nbsp;</p>
+        <div class="bottombar">
+            <p>Click on the lexias you want to discard and then click <a id="addbutton" href="javascript: addLexias(); ">add</a> to get more.</p>
+        </div>
         <script>
-            $("#footer").load("http://whereof.thereof.co.uk/_includes/footer.html");
             $('p#jswarning').css('display', 'none');
         </script>
-        <!-- Google Tag Manager -->
-        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WND96B"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                                                             new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                 })(window,document,'script','dataLayer','GTM-WND96B');</script>
     </body>
 </html>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Whereof, Thereof</title>
+ <link href="http://whereof.thereof.co.uk/atom.xml" rel="self"/>
+ <link href="http://whereof.thereof.co.uk/"/>
+ <updated>2014-07-26T17:30:27+01:00</updated>
+ <id>http://whereof.thereof.co.uk</id>
+ <author>
+   <name>Rob Safar</name>
+   <email>whereof@thereof.co.uk</email>
+ </author>
+
+ 
+
+</feed>

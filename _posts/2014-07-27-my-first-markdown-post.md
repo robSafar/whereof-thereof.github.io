@@ -3,6 +3,7 @@ layout: post
 title: "My first markdown post"
 permalink: my-first-markdown-post
 ---
+
 I spent yesterday setting up my GitHub Pages site to use Jekyll, rather than the custom Bootstrap static markup I was using previously. I had wanted more control (and less *clutter*) than provided by Blogger and Tumblr (paying a monthly fee to have a WordPress site seemed excessive for my requirements), so I had cobbled together a basic framework that I was manually copying across to new .html files when new pages needed to be made. It wasn't too conducive to mobile contributions.
 
 In fact, the last iteration of whereof.thereof.co.uk wasn't really a blog at all, rather a landing page with a link to my single completed project. I'd been blogging using Medium, which is a fine platform in itself, but for its simplicity and elegance I had sacrificed customisability. I'm thinking of bringing across a couple of select articles, and may well continue to use Medium for articles proper.
@@ -14,7 +15,9 @@ Does this matter at all in the hypertextual environment? Do people pay any atten
 ![A sample from Don Quixote volume 1, the 1928 Oxford University Press edition](https://whereofthereofmedia.s3.amazonaws.com/DonQuixote-1-9.jpg "A sample from Don Quixote volume 1, the 1928 Oxford University Press edition")
 
 ##Down is the new up
-{% highlight md %}##Down is the new up{% endhighlight %}
+{% highlight md %}
+##Down is the new up
+{% endhighlight %}
 
 I wanted this blog post to be especially rich in markdown, a fully-fledged test of my new blog. Frankly, I'm more used to using a WYSIWYG with a markup editor for backup but having found that often wanting (especially if the markup editor isn't forthcoming) I'm looking forward to using markdown regularly outside of Reddit comments.
 

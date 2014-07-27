@@ -15,9 +15,7 @@ Does this matter at all in the hypertextual environment? Do people pay any atten
 ![A sample from Don Quixote volume 1, the 1928 Oxford University Press edition](https://whereofthereofmedia.s3.amazonaws.com/DonQuixote-1-9.jpg "A sample from Don Quixote volume 1, the 1928 Oxford University Press edition")
 
 ##Down is the new up
-{% highlight md %}
-##Down is the new up
-{% endhighlight %}
+{% highlight %}##Down is the new up{% endhighlight %}
 
 I wanted this blog post to be especially rich in markdown, a fully-fledged test of my new blog. Frankly, I'm more used to using a WYSIWYG with a markup editor for backup but having found that often wanting (especially if the markup editor isn't forthcoming) I'm looking forward to using markdown regularly outside of Reddit comments.
 

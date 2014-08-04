@@ -6,7 +6,7 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Whereof, Thereof
+title:            Whereof, Thereof.
 tagline:          – ∀x (∃x) –
 url:              http://whereof.thereof.co.uk
 paginate:         2

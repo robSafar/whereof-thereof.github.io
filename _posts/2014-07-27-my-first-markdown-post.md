@@ -19,7 +19,7 @@ Does this matter at all in the hypertextual environment? Do people pay any atten
 
 I wanted this blog post to be especially rich in markdown, a fully-fledged test of my new blog. Frankly, I'm more used to using a WYSIWYG with a markup editor for backup but having found that often wanting (especially if the markup editor isn't forthcoming) I'm looking forward to using markdown regularly outside of Reddit comments.
 
-The biggest obstacle here, as far as I can currently perceive, is the absence of an easy image uploader. On the one hand, I could probably manage to upload images to the GitHub repository and reference them from there. For the previous incarnation of this site I'd been using Amazon S3 for speedy serving of larger images, and see no reason to discontinue for those. What I think I'm going to do is use Imgur for my image hosting, and reference any images for mobile posting from there. I've yet to place a Vine or use other social embedding via markdown, but I'm sure I'll get around to trying.
+The biggest obstacle here, as far as I can currently perceive, is the absence of an easy image uploader. On the one hand, I could probably manage to upload images to the GitHub repository and reference them from there. For the previous incarnation of this site I'd been using Amazon S3 for speedy serving of larger images, and see no reason to discontinue that. What I think I'm going to do is use Imgur for my image hosting, and reference any images for mobile posting from there. I've yet to place a Vine or use other social embedding via markdown, but I'm sure I'll get around to trying.
 
 ##Philosophy, media theory and code
 

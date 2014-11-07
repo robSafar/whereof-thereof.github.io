@@ -461,4 +461,6 @@ a.pagination-item:hover {
  * Keeping the custom whereof.thereof styling separate, pending better organisation
  */
  
-
+#feed { margin: 1rem; }
+#feed div { width: 17rem; height: 5rem; overflow: hidden; margin: 0.5rem; padding: 1rem; border-radius: 0.3rem; float: left; box-shadow: 3px 3px 7px #515151; }
+.feedMedium { background: url('https://s3-eu-west-1.amazonaws.com/whereofthereofmedia/icon_feed-medium.png') no-repeat right bottom; }

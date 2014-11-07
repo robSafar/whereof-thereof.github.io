@@ -22,7 +22,8 @@ Out of the box, you'll see that they provide [the code to load in the relevant X
 
 So what we're starting off with is:
 
-`function initialize() {
+{% highlight javascript %}
+function initialize() {
 var feed = new google.feeds.Feed("http://fastpshb.appspot.com/feed/1/fastpshb");
 feed.load(function(result) {
 if (!result.error) {
@@ -35,7 +36,8 @@ container.appendChild(div);
 }
 }
 });
-}'`
+}
+{% endhighlight %}
 
 Note that you'll need a somewhat dormant `<div id="feed"></div>` for this JS to populate, but it's also worth noting that if you have any contents in there already they won't be overwritten - the new content will be appended to the end.
 
@@ -53,7 +55,8 @@ The second line here is what's cutting out that pesky 'read more' text, but look
 
 The full code that I've used is this:
 
-`<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+{% highlight javascript %}
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
 <script type="text/javascript">
 
 google.load("feeds", "1");
@@ -80,7 +83,8 @@ container.appendChild(div);
 }
 google.setOnLoadCallback(initialize);
 
-</script>`
+</script>
+{% endhighlight %}
 
 I've also added a class to each entry-containing `<div>`, so I can style them a little easier. In my stylesheets, I've principally used a rule referring to `#feed div { }` to catch all feed entries in that space, but as I'll want to add other feeds in there in the future, this extra class will allow me to add styles for individual feeds/platforms.
 

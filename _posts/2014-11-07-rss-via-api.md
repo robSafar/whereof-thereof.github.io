@@ -43,13 +43,15 @@ Note that you'll need a somewhat dormant `<div id="feed"></div>` for this JS to 
 
 I'm not going to note which feed url you need to switch out (c'mon), but I will provide the JS to have this render as a linked title followed by the post description. I'll also demonstrate what I needed to do to get rid of the afore-mentioned "Continue reading on Medium" text.
 
-So firstly we want to wrap the inserted title with an `<a>` element so we can make it a link. You'll see above that the line `div.appendChild(document.createTextNode(entry.title));` adds the `title` to the `div`, which puts it at the top of that little hierarchy. Let's break that up a little. On the line above, we see that the entry's `<div>` is being created, so straight after that is where we want to insert our opening `<a>` with the following: `var link = div.appendChild(document.createElement("a"));`. All we need to do then is specify the address we want this `<a>` to direct towards, so we'll follow that line with `link.href = entry.link;`. All that's required now it to ensure that the title text is actually added inside the link rather than appended afterwards within the `<div>`, so we'll need to replace the 'entry.title' line as follows: `link.appendChild(document.createTextNode(entry.title));`.
+So firstly we want to wrap the inserted title with an `<a>` element so we can make it a link. You'll see above that the line `div.appendChild(document.createTextNode(entry.title));` adds the `title` to the `div`, which puts it at the top of that little hierarchy. Let's break that up a little. On the line above, we see that the entry's `<div>` is being created, so straight after that is where we want to insert our opening `<a>` with the following: `var link = div.appendChild(document.createElement("a"));`. All we need to do then is specify the address we want this `<a>` to direct towards, so we'll follow that line with `link.href = entry.link;`. All that's required now is to ensure that the title text is actually added inside the link rather than appended afterwards within the `<div>`, so we'll need to replace the 'entry.title' line as follows: `link.appendChild(document.createTextNode(entry.title));`.
 
 You'll see in that last instance we only replaced the first variable, from `div.` to `link.`. That's it - you've turned the title into a link to that particular item. Now the last line in this code is only rounding off the entry, so just before that you'll want to add your description. I used the following:
 
-`var span = div.appendChild(document.createElement("span"));
+{% highlight javascript %}
+var span = div.appendChild(document.createElement("span"));
 var info = entry.contentSnippet.replace("Continue reading on Medium", "");
-span.innerHTML = ' - ' + info;`
+span.innerHTML = ' - ' + info;
+{% endhighlight %}
 
 The second line here is what's cutting out that pesky 'read more' text, but looking at the first line you'll see that it's adding a `<span>` at the end of the `<div>`'s contents, and the last line specifies that the modified data from `entry.contentSnippet` should be inserted into that `<span>`.
 

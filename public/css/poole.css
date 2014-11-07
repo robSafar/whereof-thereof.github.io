@@ -465,6 +465,6 @@ a.pagination-item:hover {
 #feed { margin: 1rem auto; display: inline-block; }
 #feed div { width: 17rem; height: 7rem; overflow: hidden; margin: 0.5rem; padding: 1rem; border-radius: 0.3rem; float: left; box-shadow: 3px 3px 7px #515151; }
 .feedMedium { background: url('https://s3-eu-west-1.amazonaws.com/whereofthereofmedia/icon_feed-medium.png') no-repeat right bottom; }
-@media (max-width: 38em) {
-    #feed { width: 18.5rem; margin-left: auto; margin-right: auto; }
+@media (max-width: 48rem) {
+    #feed { width: 18rem; margin-left: auto; margin-right: auto; display: block; }
 }

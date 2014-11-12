@@ -6,7 +6,7 @@
   <body>
 
 
-<div class="masthead" {% if page.title == "Home" %}style="width: 100%; height: 90%; background-image: url('https://whereofthereofmedia.s3.amazonaws.com/reflection.jpg'); background-position: center top; background-attachment: fixed;"{% endif %}>
+<div class="masthead" {% if page.title == "Home" %}style="width: 100%; height: 90%; background-image: url('https://whereofthereofmedia.s3.amazonaws.com/reflection.jpg'); background-position: center top; background-attachment: fixed; background-repeat: norepeat;"{% endif %}>
     <h3 class="masthead-title" {% if page.title == "Home" %}style="background-color: #fff; border: 5px solid rgb(127, 127, 127); border: 5px solid rgba(255, 255, 255, .5); -webkit-background-clip: padding-box; background-clip: padding-box; margin-top: 200px; padding: 10px 0;"{% endif %}>
         <a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a>
         <small>{{ site.tagline }}</small>

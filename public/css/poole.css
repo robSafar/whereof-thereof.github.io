@@ -87,7 +87,7 @@ a:focus {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Lato", sans-serif;
-  margin-bottom: .5rem;
+  margin-bottom: 1rem;
   font-weight: bold;
   line-height: 1.25;
   color: #313131;
@@ -469,12 +469,5 @@ a.pagination-item:hover {
 }
 
 @media (min-width: 48rem) {
-    .page ul {
-    -moz-column-count: 2;
-    -moz-column-gap: 20px;
-    -webkit-column-count: 2;
-    -webkit-column-gap: 20px;
-    column-count: 2;
-    column-gap: 20px;
-    }
+    .page ul li { width: 47%; float: left; }
 }

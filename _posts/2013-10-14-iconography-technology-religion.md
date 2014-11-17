@@ -61,4 +61,4 @@ There’s something crucially different about a scientific humanism (a humanism 
 
 <hr>
 
-[Ed - Please note that any coherence in the above article is purely coincidental. These ideas are still metastable and in development.]
+*postscript: please note that any coherence in the above article is purely coincidental. These ideas are still metastable and in development.*

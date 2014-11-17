@@ -92,4 +92,4 @@ I've also added a class to each entry-containing `<div>`, so I can style them a 
 
 And that's it! You should be able to see my version in action at the bottom of the [whereof.thereof homepage](http://whereof.thereof.co.uk) and on the [Archive](http://whereof.thereof.co.uk/archive). 
 
-*I should also note that all of the above code works just fine in your `<body>` rather than in the `<head>` (as recommended on the [Feed API page](https://developers.google.com/feed/v1/devguide)), which I opted for as adding extra code to all of my pages might have been redundant.*
+*postscript: I should also note that all of the above code works just fine in your `<body>` rather than in the `<head>` (as recommended on the [Feed API page](https://developers.google.com/feed/v1/devguide)), which I opted for as adding extra code to all of my pages might have been redundant.*

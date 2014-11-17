@@ -3,11 +3,9 @@ layout: page
 title: Archive
 ---
 
-<div class="articlelist">
 {% for post in site.posts %}
-<li>[ {{ post.title }} ]({{ post.url }}) &raquo; {{ post.date | date_to_string }}</li>
+*[ {{ post.title }} ]({{ post.url }}) &raquo; {{ post.date | date_to_string }}
 {% endfor %}
-</div>
 
 <hr>
 

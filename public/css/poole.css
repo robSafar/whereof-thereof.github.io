@@ -469,6 +469,6 @@ a.pagination-item:hover {
 }
 
 @media (min-width: 48rem) {
-    .page ul li { width: 47%; float: left; }
-    .page ul { display: inline-block; }
+    .articlelist ul li { width: 47%; float: left; }
+    .articlelist ul { display: inline-block; }
 }

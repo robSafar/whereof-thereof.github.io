@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Mitchell Heisman's Masterpiece'"
+title: "Mitchell Heisman's Masterpiece"
 permalink: mitchell-heismans-masterpiece
 ---
 
 > On Sept. 18, Mitchell Heisman blew his brains out with a revolver on the steps of Harvard Memorial Church in front of a tour group of 30 people.
-
 > While not noteworthy in and of itself, suicides on college campuses not being totally unheard of, what is noteworthy about Mitchell Heisman is the 1,905-page suicide note he emailed to over 400 people in the hours before his exit.
+
 *Excerpt from “[Epic suicide note a masterful work of philosophy](http://cupwire.ca/articles/37979)” on Canadian University Press*
 
 Whether or not Mitchell Heisman’s Suicide Note is a “work of philosophy” is the question that can identify this document as either an informed challenge upon all of our continued decisions to remain alive or merely a long suicide note that has been academically referenced. It is to investigate this question that we must *treat* Suicide Note as philosophy.

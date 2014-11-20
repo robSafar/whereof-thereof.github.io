@@ -5,6 +5,7 @@ permalink: mitchell-heismans-masterpiece
 ---
 
 > On Sept. 18, Mitchell Heisman blew his brains out with a revolver on the steps of Harvard Memorial Church in front of a tour group of 30 people.
+
 > While not noteworthy in and of itself, suicides on college campuses not being totally unheard of, what is noteworthy about Mitchell Heisman is the 1,905-page suicide note he emailed to over 400 people in the hours before his exit.
 
 *Excerpt from “[Epic suicide note a masterful work of philosophy](http://cupwire.ca/articles/37979)” on Canadian University Press*

@@ -9,7 +9,7 @@ permalink:        /:title/
 title:            Whereof, Thereof.
 tagline:          ಠ_ರೃ
 url:              http://robsafar.co.uk
-paginate:         2
+paginate:         1
 baseurl:          /
 author:
   name:           Rob Safar

@@ -18,9 +18,13 @@ However, lacking the original *Book Unbound* from which to obtain that array, an
 Aarseth mentioned two different short stories by Jorge Luis Borges in his book, which is always a pleasure to see, but I was surprised when *Pierre Menard, Author of the Quixote* didn’t appear in his discussion of poststructuralism’s position that any text can be read subjectively. I can only assume that two Borges references was plenty for one chapter. The Menard recounts a story about the work of a 20th century author who takes it upon himself to write the *Quixote* — not to rewrite Cervantes’ *Quixote*, but to write it. Borges’ description goes well beyond any paultry poststructuralist statement of the subjectivity of reading and into the subjectivity of writing.
 
 > It is a revelation to compare Menard’s Don Quixote with Cervantes’. The latter, for example, wrote (part one, chapter nine):
+
 >>truth, whose mother is history, rival of time, depository of deeds, witness of the past, exemplar and adviser to the present, and the future’s counselor.
+
 > Written in the seventeenth century, written by the “lay genius” Cervantes, this enumeration is a mere rhetorical praise of history. Menard, on the other hand, writes:
+
 >>truth, whose mother is history, rival of time, depository of deeds, witness of the past, exemplar and adviser to the present, and the future’s counselor.
+
 > History, the mother of truth: the idea is astounding. Menard, a contemporary of William James, does not define history as an inquiry into reality but as its origin. Historical truth, for him, is not what has happened; it is what we judge to have happened. The final phrases — exemplar and adviser to the present, and the future’s counselor — are brazenly pragmatic.
 
 It made only too much sense to re-text the *Menard*. It’s well meta.

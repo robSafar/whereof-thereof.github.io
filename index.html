@@ -8,7 +8,7 @@ title: Home
 <div class="related">
     <h2>Recent Posts</h2>
     <ul class="related-posts">
-        {% for post in site.related_posts limit:5 %}
+        {% for post in site.posts limit:5 %}
         <li>
             <h3>
                 <a href="{{ post.url }}">

@@ -1,16 +1,838 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Whereof, Thereof</title>
- <link href="http://whereof.thereof.co.uk/atom.xml" rel="self"/>
- <link href="http://whereof.thereof.co.uk/"/>
- <updated>2014-07-26T17:30:27+01:00</updated>
- <id>http://whereof.thereof.co.uk</id>
+ <title>Rob Safar</title>
+ <link href="http://robsafar.co.uk/atom.xml" rel="self"/>
+ <link href="http://robsafar.co.uk/"/>
+ <updated>2014-12-07T22:13:47+00:00</updated>
+ <id>http://robsafar.co.uk</id>
  <author>
    <name>Rob Safar</name>
    <email>whereof@thereof.co.uk</email>
  </author>
 
+ 
+ <entry>
+   <title>Haraway's Theory of History in the Cyborg Manifesto</title>
+   <link href="http://robsafar.co.uk//haraways-theory-history-cyborg-manifesto"/>
+   <updated>2014-11-28T00:00:00+00:00</updated>
+   <id>http://robsafar.co.uk/haraways-theory-history-cyborg-manifesto</id>
+   <content type="html">&lt;p&gt;Donna Haraway’s approach to media history is characterised by both a rejection of technological determinism and a sensitivity to the ideological impacts that media have. Though still utterly anthropocentric, this approach doesn’t merely put humans at the centre of history but also begins to undermine the conception of an easily taxonomised and identified humanity. Human history for Haraway isn’t a rigid procession of cause determining effect, but a process of becoming that depends upon human history’s conception of itself, via the medium of myth.&lt;/p&gt;
+
+&lt;p&gt;The Cyborg Manifesto strikes a nuanced balance between the discourses of constructivism and determinism by integrating this unresolved contemporary question of agency and identity into a revolutionary body. This question, of whether we control our machines or if these media determine (the possibilities of) our behaviour, is far from clear-cut and so rather than playing partisan Haraway is more intrigued by the question itself. Though the reader may lean towards one position or the other, it is the ongoing debate of agency (both relative and absolute) that forms the quintessential characteristic of the human at the culmination of history which concerns her - the fact that our historical assumptions are disrupted as to where the line can be drawn delineating the human from nature and the external world.&lt;/p&gt;
+
+&lt;p&gt;She speaks of a cyborg world being “about lived social and bodily realities in which people are not afraid of permanently partial identities and contradictory stand-points”, referring to issues of gender, sexuality, race and class among others. However the principle identity crisis inherent to the cyborg, which then calls into question these other identities, is the human/technology division. When the once-sacred line between ‘me’ and the prosthetic is so heavily blurred, she argues that other questions of identity needn’t be resolved so cleanly and simply either. Where the modern existential crisis is one of choice (and by extension freedom, assuming agency), the postmodern crisis is one of identity (having questioned the former assumption) - the cyborg embraces this latter crisis in order to overcome it.&lt;/p&gt;
+
+&lt;p&gt;Qua manifesto this work is a statement of political intent more than it is a piece of archaeology or philosophy, though it contains both of these elements. The cyborg that is being manifested here is less a new kind of being, as surely the very first time a human thought to wield an object as instrument (phenomenologically &lt;em&gt;griffbereit: ready-to-hand&lt;/em&gt;) can be seen as the dawn of cyborg prosthesis, than it is a new kind of discourse.&lt;/p&gt;
+
+&lt;p&gt;This new cyborg discourse serves two main purposes. Firstly, it attempts at formalising some of the cultural implications of the accelerated and animated prosthesis that has characterised the late twentieth century, taking a McLuhan-influenced approach in seeing all technologies and media; whether intimately attached to a person, veritably invisible or monolithic and alien; as “extensions” of the body and ultimately prosthetic. Secondly, it challenges other discourses that characterise the cultures that have so far produced these technologies, discourses that are predominantly capitalist and patriarchal. This second purpose crucially assumes another very McLuhanist perspective, that the medium and meaning are tightly entangled - but where McLuhan asserts the causal primacy of the medium over the message, Haraway aims for a more balanced position:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Technologies and scientific discourses[…] should also be viewed as instruments for enforcing meanings. The boundary is permeable between tool and myth, […they] mutually constitute each other.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The central issue of contention, perhaps, is not that media enforce meanings, but which meanings we might want to be enforced. Logic languages are both technologies and discourses in this exact sense, and one might rightly regard questioning the enforced meaning of, for example, predicate calculus as problematic and untenable. The hard task is drawing a line somewhere, and it must be drawn somewhere in the middle. The instrumental social power in discourse is something of which Haraway is explicitly cognisant, advocating a feminist science in order to affect a more equitable influence over the culture of technologies.&lt;/p&gt;
+
+&lt;p&gt;Returning to the above quote, we can begin to see the cyborg as the myth that Haraway hopes to use to invigorate a new discourse (a feminist science), rather than the cyborg being the new discourse itself. This is especially interesting, as it seems as though Haraway sees this piece as creating mythology rather than directly influencing the discourses she is concerned with - and this suggests that Haraway’s history is a history of discourses rather than a McLuhanistic history of media.&lt;/p&gt;
+
+&lt;p&gt;A Foucauldian framework of discourses competing for dominance and power (or “subjugat[ing] knowledges”) comes the closest to Haraway’s intended exposition of history, claiming the feminist critique as being a contender in the “struggle for language”. This constitutes not a cyclical or teleological theory, nor does it insinuate a direction of progress excepting the progression of time through entropy. She states: “We cannot go back ideologically or materially,” indicating a cognisance of a linear, irreversible history, but she sees the struggle between ideologies for dominance as ultimately too chaotic to attribute the kind of determinism required of a teleology.&lt;/p&gt;
+
+&lt;p&gt;Like McLuhan she attributes a strong enabling power to technology, ultimately proposing that the cyborg perspective is made possible by only what media history is to hand. However too strong a comparison to McLuhan would be misleading - the cyborg follows from the history of technology but is not utterly defined by it. She emphasises this point by illustrating that the history of technology is so far mired in “militarism and patriarchal capitalism”, to which the cyborg identity resulting from it is “exceedingly unfaithful”. A hard determinism must on the contrary demand comprehensive faithfulness to its causes from its effects.&lt;/p&gt;
+
+&lt;p&gt;Although by extension not teleological, the fundamental materialism of the cyborg perspective (not to mention feminist-socialism) is crucial to her work and, qua post-Marxist critique, her manifesto describes a new discourse that is of its time - placed within an historical context, motivated by the past and looking towards the future. In a manner similar to Marx’s view of communism as an inevitable consequence of capitalism, Haraway’s cyborg is a consequence of the hyper-technological world that it now regards and seeks to change.&lt;/p&gt;
+
+&lt;p&gt;Haraway’s cyborg can be read as a “spectre” haunting a postmodernity that is being undermined and supplanted, a revolution brought about by the products of that age. However this cybernetic spectre must, within a materialist framework, retain a sense of its own agency or at least, to coin Weber and later Debord’s phrase, the sense of being a “creative historical force”. The revolutionary project is at odds with hard determinism, not least because the ruling bodies’ sense of agency over non-ruling and marginalised bodies is precisely what is to be challenged. This emphasis on relative agency prohibits the relinquishing of absolute agency to technological and other hard determinisms, else there can be no revolutionary project at all.&lt;/p&gt;
+
+&lt;p&gt;This spectre, this &lt;em&gt;myth&lt;/em&gt;, is that which occupies the space between a materially concrete and immovable history and the point at which our actions, and therefore the future, may yet be malleable. Qua myth, the cyborg is being proposed as the history upon which to base our future discourses, a perception of history that is as subjective as any other but just as influential in its consequence. It is our perception of history that governs our actions and culture more than any ontic facticity of history - and our perceptions can be altered by myth and ideology in contrast to a strict exchange of cause and effect. This is perhaps the theoretical crux of Haraway’s disavowal of technological determinism and teleology - myth can embrace ambiguity, introduce unpredictability and create a space from which radical change can grow.&lt;/p&gt;
+
+&lt;p&gt;Hence the central thesis of this manifesto - to undermine questions of human/machine, male/female, black/white or heterosexual/homosexual/bisexual/asexual/autosexual/et cetera not by attempting to resolve them but by acknowledging the increasingly apparent reality of the fluid, almost singular multiplicity of identity.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The machine is not an it to be animated, worshipped, and dominated. The machine is us, our processes, an aspect of our embodiment. We can be responsible for machines; they do not dominate or threaten us[…] we are they.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;To a view that treats the question of agency as a dualism, her rejection of determinism places her in the camp of the constructivists. Yet her treatments and integrations of Marxist and McLuhanist discourses suggest that neither she nor her view of history fits neatly into either.&lt;/p&gt;
+
+&lt;p&gt;Haraway’s cyborg; first as discourse, then as manifesto, finally as myth; denotes her efforts to rewrite history from a new perspective, thereby creating a new future. Though necessarily posited in such a way as to incline a sense of motivation and responsibility for this new future, it does not directly follow that this new myth can be taken objectively as a totally free human expression - the myth of the cyborg is, after all, a consequence or effect of the technologies that make us cyborgs.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>RSS via API</title>
+   <link href="http://robsafar.co.uk//rss-via-api"/>
+   <updated>2014-11-07T00:00:00+00:00</updated>
+   <id>http://robsafar.co.uk/rss-via-api</id>
+   <content type="html">&lt;p&gt;The latest addition to this site is another piece of rudimentary JavaScripting. The trouble with maintaining blogs with a particular remit is that it often makes sense to set up a new blog for every topic you want to write about. Sure - you can divide one blog into categories, but unless you’re an organisation with so much content that it would be impossible to navigate otherwise, there are advantages to having one place where you talk about one thing, and so on. If someone lands on my site to read a post about Drupal, they’re not really likely to then go on to read something I’ve written about technological determinism straight afterwards just because it’s on the same domain. Whatever, I’m sure there are counter-arguments on either side, but I’m very much used to having my digital footprint spread over several different sites.&lt;/p&gt;
+
+&lt;p&gt;That said, I do see advantages to being able to tie all these things together into some slightly more consistent ‘digital identity’. &lt;a href=&quot;http://twitter.com/robsafar&quot;&gt;My Twitter profile&lt;/a&gt;, &lt;a href=&quot;http://plus.google.com/u/0/+RobSafar&quot;&gt;my Google+ persona&lt;/a&gt;, &lt;a href=&quot;http://github.com/whereof-thereof&quot;&gt;my Github account&lt;/a&gt;, &lt;a href=&quot;http://medium.com/@robsafar&quot;&gt;my Medium blogs&lt;/a&gt; and so on all link to &lt;code&gt;whereof.thereof.co.uk&lt;/code&gt;, so it makes sense to have this as my &lt;em&gt;Rome&lt;/em&gt;, where all roads lead. As I’m preparing to set up another blog (though I’m undecided which platform will be best suited to it) there’s going to be a greater need to tie these things together.&lt;/p&gt;
+
+&lt;p&gt;I could just provide a link to my various other sites, which I do to some of my main social accounts in the footer, but when linking to other blogs it makes more sense to actually syndicate the content across. A reader is much more likely to want to click away to something else I’ve written if they know what it is, and RSS is pretty much the only way to get those details across platforms.&lt;/p&gt;
+
+&lt;p&gt;If you have &lt;a href=&quot;http://lmgtfy.com/?q=embed+rss+feed&quot;&gt;a wee Google around for embedding RSS feeds&lt;/a&gt;, you’ll find a host of ‘widgets’ (urgh) that will do the job for you, with varying amounts of customisability. By and large, they’ll have their own styles that you can adapt, and some will even provide you with some naked HTML to shove wherever you like. I must say that none of these really appealed to me that much as it was still quite closed off - if I want to change the &lt;em&gt;text&lt;/em&gt; of what comes through in the feed, I can’t do that.&lt;/p&gt;
+
+&lt;p&gt;A notable illustration of this is the RSS feeds that Medium now provides - by using the url &lt;code&gt;http://medium.com/feed/[USERNAME]&lt;/code&gt; you can draw a neat little feed from a Medium account or, I think, a collection. However, in the &lt;code&gt;&amp;lt;description&amp;gt;&lt;/code&gt; markup every field ends with &lt;em&gt;“Continue reading on Medium”&lt;/em&gt;, which I’d rather wasn’t there, frankly. A by-the-numbers RSS widget won’t grant me that control.&lt;/p&gt;
+
+&lt;h2 id=&quot;googles-feed-api&quot;&gt;Google’s Feed API&lt;/h2&gt;
+
+&lt;p&gt;Some further digging brought forward a forum post (possibly stackexchange, but it’s lost to me now) that mentioned &lt;a href=&quot;https://developers.google.com/feed/v1/devguide&quot;&gt;Google’s Feed API&lt;/a&gt; as a relatively light and simple solution. And it certainly is! Provided this API doesn’t go the way of Google Reader (yes, I’m still upset about that, Currents was almost up to scratch and Play Newsstand is just not the same by any stretch) this solution should have some longevity.&lt;/p&gt;
+
+&lt;p&gt;Out of the box, you’ll see that they provide &lt;a href=&quot;https://developers.google.com/feed/v1/devguide#usingApis&quot;&gt;the code to load in the relevant XML&lt;/a&gt; but that code will only display a list of titles. That’s no good - but they do provide the &lt;a href=&quot;https://developers.google.com/feed/v1/devguide#resultJson&quot;&gt;&lt;code&gt;json&lt;/code&gt; values&lt;/a&gt; for other elements in the RSS markup, which is what you’ll need.&lt;/p&gt;
+
+&lt;p&gt;So what we’re starting off with is:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;initialize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;feed&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;google&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;feeds&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Feed&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;http://fastpshb.appspot.com/feed/1/fastpshb&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;feed&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;load&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;container&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getElementById&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;feed&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;feed&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;entries&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;entry&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;feed&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;entries&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;div&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;createElement&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;div&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;div&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;appendChild&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;createTextNode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;container&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;appendChild&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;div&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Note that you’ll need a somewhat dormant &lt;code&gt;&amp;lt;div id=&quot;feed&quot;&amp;gt;&amp;lt;/div&amp;gt;&lt;/code&gt; for this JS to populate, but it’s also worth noting that if you have any contents in there already they won’t be overwritten - the new content will be appended to the end.&lt;/p&gt;
+
+&lt;p&gt;I’m not going to note which feed url you need to switch out (c’mon), but I will provide the JS to have this render as a linked title followed by the post description. I’ll also demonstrate what I needed to do to get rid of the afore-mentioned “Continue reading on Medium” text.&lt;/p&gt;
+
+&lt;p&gt;So firstly we want to wrap the inserted title with an &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt; element so we can make it a link. You’ll see above that the line &lt;code&gt;div.appendChild(document.createTextNode(entry.title));&lt;/code&gt; adds the &lt;code&gt;title&lt;/code&gt; to the &lt;code&gt;div&lt;/code&gt;, which puts it at the top of that little hierarchy. Let’s break that up a little. On the line above, we see that the entry’s &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt; is being created, so straight after that is where we want to insert our opening &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt; with the following: &lt;code&gt;var link = div.appendChild(document.createElement(&quot;a&quot;));&lt;/code&gt;. All we need to do then is specify the address we want this &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt; to direct towards, so we’ll follow that line with &lt;code&gt;link.href = entry.link;&lt;/code&gt;. All that’s required now is to ensure that the title text is actually added inside the link rather than appended afterwards within the &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt;, so we’ll need to replace the ‘entry.title’ line as follows: &lt;code&gt;link.appendChild(document.createTextNode(entry.title));&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;You’ll see in that last instance we only replaced the first variable, from &lt;code&gt;div.&lt;/code&gt; to &lt;code&gt;link.&lt;/code&gt;. That’s it - you’ve turned the title into a link to that particular item. Now the last line in this code is only rounding off the entry, so just before that you’ll want to add your description. I used the following:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;span&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;div&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;appendChild&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;createElement&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;span&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;info&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;contentSnippet&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;replace&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;Continue reading on Medium&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;span&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;innerHTML&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39; - &amp;#39;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;info&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;The second line here is what’s cutting out that pesky ‘read more’ text, but looking at the first line you’ll see that it’s adding a &lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt; at the end of the &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt;’s contents, and the last line specifies that the modified data from &lt;code&gt;entry.contentSnippet&lt;/code&gt; should be inserted into that &lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;The full code that I’ve used is this:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;script&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;text/javascript&amp;quot;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;https://www.google.com/jsapi&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;/script&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;script&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;text/javascript&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;google&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;load&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;feeds&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;1&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;initialize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;feed&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;google&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;feeds&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Feed&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;http://medium.com/feed/@robsafar&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;feed&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;load&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;container&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getElementById&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;feed&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;feed&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;entries&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;entry&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;feed&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;entries&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;div&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;createElement&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;div&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;div&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;className&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;feedMedium&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;link&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;div&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;appendChild&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;createElement&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;a&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;link&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;href&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;link&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;link&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;appendChild&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;createTextNode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;span&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;div&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;appendChild&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;createElement&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;span&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;info&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;contentSnippet&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;replace&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;Continue reading on Medium&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;span&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;innerHTML&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39; - &amp;#39;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;info&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;container&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;appendChild&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;div&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;google&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;setOnLoadCallback&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;initialize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;I’ve also added a class to each entry-containing &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt;, so I can style them a little easier. In my stylesheets, I’ve principally used a rule referring to &lt;code&gt;#feed div { }&lt;/code&gt; to catch all feed entries in that space, but as I’ll want to add other feeds in there in the future, this extra class will allow me to add styles for individual feeds/platforms.&lt;/p&gt;
+
+&lt;p&gt;And that’s it! You should be able to see my version in action at the bottom of the &lt;a href=&quot;http://whereof.thereof.co.uk&quot;&gt;whereof.thereof homepage&lt;/a&gt; and on the &lt;a href=&quot;http://whereof.thereof.co.uk/archive&quot;&gt;Archive&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;postscript: I should also note that all of the above code works just fine in your &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; rather than in the &lt;code&gt;&amp;lt;head&amp;gt;&lt;/code&gt; (as recommended on the &lt;a href=&quot;https://developers.google.com/feed/v1/devguide&quot;&gt;Feed API page&lt;/a&gt;), which I opted for as adding extra code to all of my pages might have been redundant.&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>My first markdown post</title>
+   <link href="http://robsafar.co.uk//my-first-markdown-post"/>
+   <updated>2014-07-27T00:00:00+01:00</updated>
+   <id>http://robsafar.co.uk/my-first-markdown-post</id>
+   <content type="html">&lt;p&gt;I spent yesterday setting up my GitHub Pages site to use Jekyll, rather than the custom Bootstrap static markup I was using previously. I had wanted more control (and less &lt;em&gt;clutter&lt;/em&gt;) than provided by Blogger and Tumblr (paying a monthly fee to have a WordPress site seemed excessive for my requirements), so I had cobbled together a basic framework that I was manually copying across to new &lt;code&gt;.html&lt;/code&gt; files when new pages needed to be made. It wasn’t too conducive to mobile contributions.&lt;/p&gt;
+
+&lt;p&gt;In fact, the last iteration of &lt;code&gt;whereof.thereof.co.uk&lt;/code&gt; wasn’t really a blog at all, rather a landing page with a link to my single completed project. I’d been blogging using &lt;a href=&quot;http://medium.com/@robsafar&quot;&gt;Medium&lt;/a&gt;, which is a fine platform in itself, but for its simplicity and elegance I had sacrificed customisability. I’m thinking of bringing across a couple of select articles, and may well continue to use Medium for articles proper.&lt;/p&gt;
+
+&lt;p&gt;But this is now my blog. Quick, off-the-cuff brain dumps and tailored, code-dependent pieces alike will find their home here - bearing in mind the medium itself. Blogging hosted on GitHub motivates a certain kind of writing, whereas hosting on Medium motivates something a little different. &lt;/p&gt;
+
+&lt;p&gt;Does this matter at all in the hypertextual environment? Do people pay any attention to the CMS or server software that the content they’re engaging utilises? I think it matters to me, in the same way a nice notebook inspires a different kind of writing than a napkin might. Medium tends towards the older, typewriter style approach to writing (while remaining authentically hypertextual and markup-cognizant), whereas GitHub and GitHub Pages tends much more towards writing prose and code texts using a &lt;em&gt;computer&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://whereofthereofmedia.s3.amazonaws.com/DonQuixote-1-9.jpg&quot; alt=&quot;A sample from Don Quixote volume 1, the 1928 Oxford University Press edition&quot; title=&quot;A sample from Don Quixote volume 1, the 1928 Oxford University Press edition&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;down-is-the-new-up&quot;&gt;Down is the new up&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;##Down is the new up&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;The biggest obstacle here, as far as I can currently perceive, is the absence of an easy image uploader. On the one hand, I could probably manage to upload images to the GitHub repository and reference them from there. For the previous incarnation of this site I’d been using Amazon S3 for speedy serving of larger images, and see no reason to discontinue that. What I think I’m going to do is use Imgur for my image hosting, and reference any images for mobile posting from there. I’ve yet to place a Vine or use other social embedding via markdown, but I’m sure I’ll get around to trying.&lt;/p&gt;
+
+&lt;h2 id=&quot;philosophy-media-theory-and-code&quot;&gt;Philosophy, media theory and code&lt;/h2&gt;
+
+&lt;p&gt;As a budding student of Python and JavaScript, I certainly hope that &lt;em&gt;&lt;a href=&quot;http://whereof.thereof.co.uk/MenardUnbound&quot;&gt;Pierre Menard, Unbound&lt;/a&gt;&lt;/em&gt; isn’t my last project that will feature here. In fact, I was especially intrigued by the SlackPropagation post &lt;em&gt;&lt;a href=&quot;https://slackprop.wordpress.com/2013/06/03/on-geek-versus-nerd/&quot;&gt;On “Geek” Versus “Nerd”&lt;/a&gt;&lt;/em&gt; that takes a distinctly Wittgensteinean approach to discovering meaning, so I’m trying to weigh up just how far outside my comfort zone a Twitter &lt;em&gt;meaning-as-use&lt;/em&gt; engine might be. As I’m approaching the next half of my second Master’s degree on Digital Media, this should continue to be my home for extra-curricular experimentation.&lt;/p&gt;
+
+&lt;p&gt;Perhaps if I can get the hang of integrating &lt;a href=&quot;https://support.google.com/webmasters/answer/99170?hl=en&quot;&gt;rich snippets and structured data&lt;/a&gt; into my blog, it may become worthwhile publishing some reviews and analyses of various media and items. Come to think of it, an idea is already forming about how I can achieve this, as well as other funky things like having custom Twitter Cards for each post. There’s a handy &lt;code&gt;head.html&lt;/code&gt; include file that I can use to call upon any special YAML front matter fields that I may be able to define per post…&lt;/p&gt;
+
+&lt;p&gt;I love the simple flexibility of Jekyll!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;postscript: I’ll also maintain a list of the crucial resources used to build this site in the &lt;a href=&quot;http://whereof.thereof.co.uk/about&quot;&gt;About&lt;/a&gt; page.&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>I have these memories from my life. None of them happened…</title>
+   <link href="http://robsafar.co.uk//i-have-these-memories-from-my-life-none-of-them-happened"/>
+   <updated>2014-07-10T00:00:00+01:00</updated>
+   <id>http://robsafar.co.uk/i-have-these-memories-from-my-life-none-of-them-happened</id>
+   <content type="html">&lt;h2 id=&quot;the-relationship-between-the-virtual-and-the-real&quot;&gt;The relationship between the virtual and the real&lt;/h2&gt;
+
+&lt;p&gt;Baudrillard proclaimed that “[t]he real [Vietnam] war is waged by Coppola as it is by Westmoreland” — entangling the ‘real’ war and the cinematic simulation of the war as virtually the same event. He goes further, saying that this profound entanglement inspires us to believe that “the war in Vietnam ‘in itself’ perhaps in fact never happened…”&lt;/p&gt;
+
+&lt;p&gt;The deeply faithful, yet fictional, war simulation of &lt;em&gt;Apocalypse Now&lt;/em&gt; provides emphasis to Baudrillard’s conception of simulation and how it colours our perception of what is being simulated. Like a cartoon caricature, the simulation brings forth elements from the real and draws particular focus on them. The same seminal work in which he discusses simulation also discusses simulacra — if a simulation is in some sense a caricatured copy of the real, a simulacrum is a caricatured copy without an original, a conception owing much to Benjamin’s ominous &lt;em&gt;The Work of Art in the Age of Mechanical Reproduction&lt;/em&gt; (1936). The core distinction made by Baudrillard between simulacra and simulation is one of originality and indexicality, of whether a ‘real’ correlative exists to anchor these virtual representations.&lt;/p&gt;
+
+&lt;p&gt;As similar sentiment to this philosophical approach can be found in the successful film &lt;em&gt;The Matrix&lt;/em&gt; (1999). Midway through the film, the protagonist Thomas Anderson returns to the virtual world of the Matrix after learning of its profound artificiality. He has seen the ‘desert of the real’ and this virtual world where he had spent his entire life is exposed as fraudulent, a ‘lie’. In a car, he passes a restaurant where he used to eat and laments;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I have these memories from my life. None of them happened…&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Even within the fantastic narrative of &lt;em&gt;The Matrix&lt;/em&gt;, we might not want to pardon Anderson for his assessment of the non-reality of virtuality. How Anderson treats his past life, once he learns that it is a virtual simulation, signifies a distinct line being drawn between the virtual and the real that echoes Baudrillard and Benjamin. It is a shift in perception catalysed by a disavowal, a negation that places the virtual in an affecting relationship with what we see as real, and vice versa.&lt;/p&gt;
+
+&lt;p&gt;This has very real implications for us, in our normal discourse and in our perceptions of the virtual media that increasingly surround us. If we were to agree with Anderson, we ought to extend this sentiment to many of our contemporary interactions — if we engage in some activity in a simulated space, does it really &lt;em&gt;happen&lt;/em&gt;? Do we feel comfortable saying that an interaction with another player in a Massively Multiplayer Online Role-Playing Game didn’t happen? What about a conversation with a friend on social media? And what about an exchange of letters with a distant pen-pal?&lt;/p&gt;
+
+&lt;p&gt;In this short essay, we will examine the dualism that is proposed in some of these philosophical frameworks. We will critically look at the inherent negation in the logic of virtual reality that affirms the distinction between the real and the virtual. We will also delve into the philosophy of virtuality, which deals with the intrinsic connections between the real and virtual. And ultimately, we hope to respond to Anderson’s lament.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;In &lt;em&gt;Times of the Technoculture&lt;/em&gt; (1999) Robins and Webster address the philosophy of Lévy as an example of an unquestioning distinction being made between the virtual and the real. The terminology shifts here towards a language of placed-ness, of being embodied or situated.&lt;/p&gt;
+
+&lt;p&gt;It is Lévy that introduces the discourse of placed-ness, but Robins and Webster want to temper Lévy’s somewhat utopian optimism. They cite Lévy for distinguishing the two worlds as follows, that orality in digital, virtual space differs from ‘archaic orality’ because:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;[T]he direct bearer of knowledge is not the physical community and its bodily memory, but cyberspace, the region of virtual worlds, through which communities discover and construct their own objectives, and come to know themselves as intelligent collectives.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Lévy is saying that the physical ‘real’ is not where knowledge is located in this new paradigm of orality, but rather in a much more malleable, virtual, imaginative world that permits knowledge to be more flexibly and progressively applied.&lt;/p&gt;
+
+&lt;p&gt;Robins and Webster want to apply a more skeptical approach than Lévy’s, they want to “question the unreflective assertion that the new, deterritorialised technological knowledge space is a ‘better’ space than the other (i.e. embodied and situated) spaces.” They point to the fact that these digital technologies that have enabled and distributed virtual worlds have been created by globalised corporate interests. They go further to remark that as the technologies themselves are not capable of contradicting the corporate interests that created them, neither can the cyberculture that has grown from them.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The corporate ideology of globalisation and the network society is the ideology of the ‘absentee’ class. It is an ideology, moreover, that disavows the realities of actual globalisation.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Robins and Webster exact a ‘real’ political analysis of the virtual as it exists, accounting for its historical foundations. In doing so, they acknowledge on the one hand the discrepancy between these realities (one “disavowing” the other) while on the other hand exercising a bio-political handling of cyberspace as simulacrum — a simulacrum created by a particular class for a particular agenda (not unlike the Matrix).&lt;/p&gt;
+
+&lt;p&gt;Rheingold writes extensively on the industry of virtual reality, framing his debate in the context of the real technicians who strive to create worlds that are convincingly separate from ‘reality’. Writing &lt;em&gt;Virtual Reality&lt;/em&gt;, he focuses more on how these worlds can exist, or at least be perceived, in separation. When discussing the visual requirements for virtual reality technology, he notes that “as long as you can detect an edge or boundary to what you can see, the size of the field is inadequate.” He acknowledges that virtual realities naturally strive to be immersive and immediate experiences and the extent to which a virtual reality can be seen as framed, cut or mediated is the extent to which it has fallen short of its aims. For Rheingold, virtual reality proper is nothing short of The Matrix, less of a medium and more an enveloping world where the suspension of disbelief is difficult to shake off.&lt;/p&gt;
+
+&lt;p&gt;A virtual reality for Rheingold is more than a Baudrillardian simulacrum or simulation and more than the culture or space that directly ‘disavows’ reality. He sees them as striving towards negating themselves as media in order to reassert themselves as realities. In this sense, the virtual disavows itself as a medium (and thence the ‘reality’ in which the medium exists) and the extent to which we buy into that disavowal, the extent to which we suspend our disbelief, is what can create a separation between the virtual and the real:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;One way to see VR is as a magical window into other worlds, from molecules to minds. Another way to see VR is to recognize that in the closing decades of the twentieth century, reality is disappearing behind a screen.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As virtual media are marketed and recognised as other realities, reality that is not mediated (insofar as it is only mediated by the body) becomes threatened. While Rheingold appears to acknowledge the foundation of virtual reality in the reality of industry, he recognises that the perception of the virtual can have a destructive influence on the perception of reality in a similar manner to Robins. The virtual is “behind a screen”, a screen that is growing so broad and crystal clear as to become a reality.&lt;/p&gt;
+
+&lt;p&gt;In both of the above philosophies of the virtual, framed particularly around virtual reality, we find a crucial logic of negation through disavowal. This, despite grounding their discourses on the virtual in very real political and industrial contexts, accentuates the dichotomy of the virtual versus the real. Where Thomas Anderson disavows the virtual having seen the real, Robins, Webster and Rheingold describe the virtual as disavowing the real. Though they might differ in approach, they concur in their separation of the virtual and nonvirtual.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;It may be the case that positing the virtual as a virtual reality is what creates this tension and resulting negation. Insofar as we conceive of digital media as striving to do away with their own borders, we may indeed feel threatened by a looming spectre putting our own world into retreat. Positing the virtual in a different way, however, may help us to see things differently — less antagonistically and with less apprehension.&lt;/p&gt;
+
+&lt;p&gt;Hayles interprets virtuality as “the cultural perception that material objects are interpenetrated by information patterns.” She frames the virtual not as another reality but as an integral part of our reality — it is the level on which we render our reality intelligible.&lt;/p&gt;
+
+&lt;p&gt;This conception of the virtual allows us to abstract it from a conception of virtual reality as a disavowal of itself as a medium. By re-placing virtuality as information and pattern, we also benefit from a genealogical view of virtual reality not as a haunting otherness that threatens us but as a permutation of the media on which we already depend. We might then begin to see virtual media in the same way that we regard a good book, a novel that we can get ‘lost’ in or an educational text that can instruct and prepare us for situations that we imagine we might face in the future.&lt;/p&gt;
+
+&lt;p&gt;For Hayles, the virtual is a kind of supervenient level of pattern or information over the material level of randomness. This distinction between pattern and randomness is a deeply perceptual one, introducing a more truly phenomenological interpretation of how we interact with reality. For her, the virtual and the real are not separate, any more so than the world of living cells is separate from the worlds of molecules or atoms. Accordingly, just as any changes or events in the world of living cells has its analogue in molecules and atoms, so too does the world of the Matrix have its analogue in the desert of the real — even if that analogue is only the interaction of data sets in the Matrix’s computing apparatus.&lt;/p&gt;
+
+&lt;p&gt;The virtual is generated by and exists within forces in the ‘real’ world, namely technology and media:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Only when technological infrastructures have developed sufficiently to make rapid message transmission possible does information come into its own as a commodity[…] From this we can draw an obvious but nonetheless important conclusion: &lt;em&gt;The efficacy of information depends on a highly articulated material base.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;She implicitly rejects the notion of the virtual as otherness via her synthesis of virtual and non-virtual cultures in the &lt;em&gt;posthuman&lt;/em&gt;, the point of view characterised by, amongst other things, thinking of “the body as the original prosthesis we all learn to manipulate”. Where other philosophers discussing virtuality have regarded the body as the quintessential example of the real, Hayles puts that too into question. By remarking on the prosthesis of the body we can begin to see it as another interface, where the prosthetic, mediatory role that a virtual reality plays between us and a computer database can be seen to reflect the prosthetic, mediatory role that our body plays between us and an otherwise inaccessible reality. Though this notion of the body as prosthetic leads to some problematic conclusions (is there a ghost in the bodily machine, to which prosthetics are attached?) this view would also lead us to conclude that interactions within either a real or virtual world can be phenomenologically the same.&lt;/p&gt;
+
+&lt;p&gt;In this supervenient relationship we can see the profound literalness of McLuhan’s refrain: the medium quite literally is the message — it constitutes it. In digital virtual realities, simulated media are the messages of the physical, ‘real’ silicon medium, in no more specially metaphysical a manner than if we encountered a photograph within a book. The difference can only be phenomenal — whether we see the book or only the photograph, if we see the computer or only the simulation — but we can only mistakenly perceive the message as separated from the medium in this manner. And this is the core fallacy of an immersed conception of virtual reality: it attempts to treat the message removed from the medium.&lt;/p&gt;
+
+&lt;p&gt;We can see that Hayles’ retort to Anderson’s lament would be a clear ‘no’ — his memories from his life &lt;em&gt;happened&lt;/em&gt;, whether they happened in a ‘real’ world or in the machinations of a real database medium — these are ultimately the same world, ultimately governed by the same definitions and taxonomies.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The reason why a single remark from &lt;em&gt;The Matrix&lt;/em&gt; is particularly relevant to this essay is primarily to illustrate the impact that philosophical debates can have upon popular culture and, with that, the prevalent discourse on such matters. The relationship between &lt;em&gt;Simulacra and Simulation&lt;/em&gt; and &lt;em&gt;The Matrix&lt;/em&gt; is mixed — on one hand the book gets a cameo in the film itself, on the other Baudrillard has publicly said that the film was based on ‘&lt;a href=&quot;http://www.ubishops.ca/baudrillardstudies/vol1_2/genosko.htm&quot;&gt;misinterpretations&lt;/a&gt;’ of his book — but still the film has to an extent served as a medium for such philosophies, however accurately, to be brought into popular culture. Philosophy not only has something to say about issues of virtuality but also sometimes the opportunity to affect prevalent conceptions.&lt;/p&gt;
+
+&lt;p&gt;Embedded deep within the narrative of &lt;em&gt;The Matrix&lt;/em&gt; there is a convenient (desert of the) real to provide contrast against the virtual Matrix. But this work of fiction has the luxury of being able to choose which way they create their definition — they are able, by virtue of creating (and defining, and hence &lt;em&gt;knowing&lt;/em&gt;) the film’s reality, to use it to illustrate the virtual in opposition to the really real. In our case we are condemned, by not knowing what our reality consists of but having created the virtual, to need to define reality by opposition. Reality is what we have found ourselves thrust into, abandoned, and we must come to terms with it through various virtual apparatus — be they cultural, physical or metaphysical.&lt;/p&gt;
+
+&lt;p&gt;All of our thinkers point out a dynamic change in our interactions and culture, ‘a new relation to knowledge’. Even Hayles states that “[t]he condition of virtuality implies[…] a widespread perception that presence/absence is being displaced and preempted by pattern/randomness.” In terms of the prevalence of virtual worlds, these thinkers all agree that something ‘new’ is happening, that the increasingly widespread ability to render artificial environments coincides with some new cultural permutations. However the important distinction to make in such an observation is that placing the virtual and nonvirtual in opposition to each other, through negation, disavowal or some other logic, implies some kind of neo-Benjaminian causation across the two worlds that would seem to be an untenable over-simplification.&lt;/p&gt;
+
+&lt;p&gt;The notion of virtual reality depicts a medium that seeks to negate itself — media that seek to become real. In this sense, the VR industry itself challenges our conceptions of media and reality that can only be addressed philosophically. As we continue to extend ourselves through media, we have to deal with the consequences of rendering the initial randomness of the reality we have been born into into something that serves our needs.&lt;/p&gt;
+
+&lt;p&gt;While we may be inclined to do away with Baudrillard’s emphasis on a separate, referential reality assigning credibility and authenticity to virtual simulation (and inauthenticity to simulacra), the way in which he illustrates &lt;em&gt;Apocalypse Now&lt;/em&gt; as deeply influencing our perception of the Vietnam war is still of great value to us in ascribing a strong, entangled relationship between the virtual and the real. Every interaction we have in virtual space — be it simulation or a simulacrum — has an impact on our ‘real’ and situated world.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pierre Menard, Author of the Quixote, Unbound</title>
+   <link href="http://robsafar.co.uk//pierre-menard-author-quixote-unbound"/>
+   <updated>2014-06-13T00:00:00+01:00</updated>
+   <id>http://robsafar.co.uk/pierre-menard-author-quixote-unbound</id>
+   <content type="html">&lt;h2 id=&quot;an-experiment-in-cybertext&quot;&gt;An experiment in cybertext&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The visible work left by this novelist is easily and briefly enumerated…&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;My new experiment, hopefully featuring a Twitter card too. Hopefully. Blog to follow.  &lt;a href=&quot;http://t.co/qyGmOztUgp&quot;&gt;http://t.co/qyGmOztUgp&lt;/a&gt;&lt;/p&gt;&amp;mdash; rob safar (@robsafar) &lt;a href=&quot;https://twitter.com/robsafar/status/477174747131052032&quot;&gt;June 12, 2014&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;I’d encountered &lt;em&gt;&lt;a href=&quot;http://muse.jhu.edu/journals/postmodern_culture/v007/7.3cayley.html&quot;&gt;Book Unbound&lt;/a&gt;&lt;/em&gt; by John Cayley when reading Espen Aarseth’s &lt;em&gt;Cybertext: Perspectives on Ergodic Literature&lt;/em&gt; as an example of a cybertextual narratonomy at play. Published online in 1997, the text can be divided into array and algorithm. The array is a collection of sentences and phrases that, by means of the algorithm, are assembled through some ‘non-trivial’ effort from the reader to make up the text. Upon reading about it, my first reaction was to check if there exists an iPhone app which simulates it. To my knowledge, no such app exists on any mobile platform. Rather than wait until I learn Objective-C or Java (likely many years ahead, if ever) I have opted to emulate this textonomy using JavaScript and HTML. At least no install is required.&lt;/p&gt;
+
+&lt;p&gt;However, lacking the original &lt;em&gt;Book Unbound&lt;/em&gt; from which to obtain that array, another source of content was needed. A result of lacking the original and having read some enthusiastic remarks about it, I was loathe to write my own. The romantic, perhaps naive, impression I have is of a work comprised of elements that are specifically designed to be encountered cybertextually, almost like the ‘fortunes’ from a cookie but more modular and poetic. My poetry is much worse than my prose.&lt;/p&gt;
+
+&lt;p&gt;Aarseth mentioned two different short stories by Jorge Luis Borges in his book, which is always a pleasure to see, but I was surprised when &lt;em&gt;Pierre Menard, Author of the Quixote&lt;/em&gt; didn’t appear in his discussion of poststructuralism’s position that any text can be read subjectively. I can only assume that two Borges references was plenty for one chapter. The Menard recounts a story about the work of a 20th century author who takes it upon himself to write the &lt;em&gt;Quixote&lt;/em&gt; — not to rewrite Cervantes’ &lt;em&gt;Quixote&lt;/em&gt;, but to write it. Borges’ description goes well beyond any paultry poststructuralist statement of the subjectivity of reading and into the subjectivity of writing.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It is a revelation to compare Menard’s Don Quixote with Cervantes’. The latter, for example, wrote (part one, chapter nine):&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;truth, whose mother is history, rival of time, depository of deeds, witness of the past, exemplar and adviser to the present, and the future’s counselor.&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Written in the seventeenth century, written by the “lay genius” Cervantes, this enumeration is a mere rhetorical praise of history. Menard, on the other hand, writes:&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;truth, whose mother is history, rival of time, depository of deeds, witness of the past, exemplar and adviser to the present, and the future’s counselor.&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;History, the mother of truth: the idea is astounding. Menard, a contemporary of William James, does not define history as an inquiry into reality but as its origin. Historical truth, for him, is not what has happened; it is what we judge to have happened. The final phrases — exemplar and adviser to the present, and the future’s counselor — are brazenly pragmatic.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It made only too much sense to re-text the &lt;em&gt;Menard&lt;/em&gt;. It’s well meta.&lt;/p&gt;
+
+&lt;p&gt;The result of this attempted synthesis is a division of the Menard into its 146 respective sentences and their treatment as lexias, or at least ‘sub-’lexias where opportunities for intervention are presented between them. The reader has the option to add more lexias or to remove lexias, creating their own reordered version of the original (translated) text. Arriving at a modified factorial of this arrangement*, we find that there are over &lt;strong&gt;1.6 × 10^252&lt;/strong&gt; permutations of this work — plenty to regard each journey through the text as unique. Even reading perpetually at 1 permutation per minute, it would still take more than 3.7 x 10^244 millennia to read every one, even if each possible permutation was encountered respectively and we treated as identical different ways of arriving at the same permutation.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Of 146 lexias, lexia[0] is always first, and can only be present or absent for any permutation: so double the factorial of the total lexias minus one gives us the number of possible permutations.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;145! x 2 = 1609585211494398388969805851559612554219994878015001232689490562094230824747293042821700963759679298454878596460597830039626216443303327319144883218817113835478298631811985622823733271572151049203671631285586605008486400000000000000000000000000000000000&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Once the experiment was made, it seemed appropriate to write some text about the (cyber-)re-texting of a text about a modernist re-texting of a text. Hence the piece you are reading now.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;This was a kind of examination into the singularity of lexias (to the point where we will now use the terms &lt;em&gt;lexia&lt;/em&gt; and &lt;em&gt;‘sub-’lexia&lt;/em&gt; interchangeably) and an illustration of the technical difference between cybertext and hypertext. We conclude, somewhat ontologically, that JavaScript applied in textology is more than hypertextual (unlike HTML which, somewhat ontologically, is little more than hypertextual). We might want to conclude that any programming language is by its nature cybertextual and that markup languages are hypertextual — this should not be controversial. What may be controversial is the criticism of hypertextual narratonomy that it merely ‘points’ (a very limited and directing form of interaction). Having devised an algorithm to open up more forms of interaction — based on a very syntactically stubborn artificial language — I am not so sure that cybertextual narratonomy, in fact any language, artificial or otherwise, doesn’t ‘merely’ point as well. Poststructuralism be fucked. That there is no fixed signified for a signifier doesn’t mean that the signifier doesn’t still &lt;em&gt;point&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;In terms of the utility of the articulated solution, it seems likely that a purely JS approach might have yeilded more elegant &amp;amp; efficient results. Short of defending any flaws in the scripts in this file, I do want to briefly state the rationales behind some of the technical decisions underpinning this piece.&lt;/p&gt;
+
+&lt;p&gt;The full list of lexia, from which random lexias are selected and added to the visible narrative, are stored in hypertext markup in the document. The principle reason for this was so that the original text is within the new document, rather than abstracted in an SEO-unfriendly array. An implication of this is that in a cybertext document the sub-lexias may be arranged by the reader but they do exist in some state of original linearity — arbitrarily pre-arranged. This may not be necessary for all cybertexts, but is inevitable for any cybertext that uses a computing device as its medium.&lt;/p&gt;
+
+&lt;p&gt;The first lexia of the &lt;em&gt;Menard&lt;/em&gt; in &lt;em&gt;Menard Unbound&lt;/em&gt; is fixed. It appears first, in fact it is already present, although it can be removed. This was a reflexive decision when building the code, but one that was maintained by the perfect introduction by way of a double-meaning it gave to this piece. The &lt;em&gt;“visible”&lt;/em&gt; work left by “this” novelist: a more appropriate description metatag was not forthcoming.&lt;/p&gt;
+
+&lt;p&gt;Once any lexia has been rendered visible after being randomly selected from the remaining invisible lexias, it cannot be moved. It can be removed, however. This decision was taken early and I am not sure if this is a feature of &lt;em&gt;Book Unbound&lt;/em&gt;. Nonetheless, as Creeley puts it: “As soon as / I speak, I / speaks”. Giving the impression that the reader can ‘undo’ what has been read would be misleading, I feel.&lt;/p&gt;
+
+&lt;p&gt;Editing down the sentences of the &lt;em&gt;Menard&lt;/em&gt; into appropriately marked-up lexias seemed a lengthy task but took less time than the programming process. A further decision was made regarding altering punctuation. In some cases where multiple sentences were contained within brackets, the brackets were removed in order to control the validity of the outputted punctuation — otherwise it was quite possible that a closing bracket could precede an open one. Additionally, an ordered list was butchered for its content and the remaining carcass of a. to s. was left unused. Exerting such an editorial influence over the original &lt;em&gt;Menard&lt;/em&gt; was not taken lightly.&lt;/p&gt;
+
+&lt;p&gt;The absence of transitional animations is something I have yet to resolve, a result of the way in which the lexias are placed as &lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt;s within the narrative &lt;code&gt;&amp;lt;p&amp;gt;&lt;/code&gt; and their removal is effected by reducing their content to nothing. In future I hope to redeploy this experiment in a tidier fashion, using markup that better allows for the CSS transition property to be applied.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The apparent absence of &lt;em&gt;Book Unbound&lt;/em&gt; is a deep shame. It would have been better, I feel, or more fitting with the ethos of the &lt;em&gt;Menard&lt;/em&gt;, to have rewritten &lt;em&gt;Book Unbound&lt;/em&gt; word for word, to see if I could mean something quite different in a textually identical re-telling. These two stories pivot against one another, the absence of one is the introduction of the other in the framework laid out in &lt;em&gt;Pierre Menard, Unbound&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;If anybody can point me in the direction of the original &lt;em&gt;Book Unbound&lt;/em&gt; HyperCard file, I would be extremely grateful.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://whereof.thereof.co.uk/MenardUnbound&quot;&gt;Read Pierre Menard, Unbound&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Biopolitics of the Panoptical 'Light' Web</title>
+   <link href="http://robsafar.co.uk//biopolitics-panoptical-light-web"/>
+   <updated>2014-04-21T00:00:00+01:00</updated>
+   <id>http://robsafar.co.uk/biopolitics-panoptical-light-web</id>
+   <content type="html">&lt;p&gt;Visiting a website is a complex undertaking, though less so for the visitor themselves. While retrieving information, making a purchase or disseminating your latest selfie is a task that website providers go to great lengths to make as easy to do as possible, the mechanics of what actually occurs during each of these tasks is growing increasingly intricate. The process by which the apparatuses are optimised is inherently responsive — and in order to respond one must first observe.&lt;/p&gt;
+
+&lt;p&gt;This observation qua data collection is largely automated, with visitor activities being recorded as meticulously as would be expected of a computational mechanism. Though mostly only trends are eventually viewed by a human being, this automated surveillance from an obfuscated position is an issue of biopolitical significance.&lt;/p&gt;
+
+&lt;p&gt;By looking at surveilled (light) and non-surveilled (dark) web paradigms we can make conclusions about the difference surveillance makes. In order to examine the biopolitical impact of surveillance, this essay will principally reference some crucial texts of Foucault (for an essential notion of biopower) and Hardt &amp;amp; Negri (for an expanded notion of biopower in a modern, global context).&lt;/p&gt;
+
+&lt;p&gt;The paradigm of the surveilled internet we will look at is quite conventional and commonplace — the use of user data and processing services that are implemented on many websites. Then we will look at the less common (though growing) phenomenon of open source cryptography technologies, in particular cryptocurrency, as paradigmatic of the anti-surveillance movement.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The Foucauldian paradigm of surveillance as biopower is a redescription of Bentham’s Panopticon. The Panopticon was designed and posited as a penal institution, whereby radially segmented areas in a circular structure can be totally observed from a position of total privacy via a central tower. The principle disciplinary advantage of this structure is that inhabitants of areas would be unaware at any point that they were being observed — reinforcing the idea that they could be being watched at any time. In this way, administrators could ensure that behavioural standards were maintained without the need for constant vigilance. In fact, the constant threat of vigilance serves this purpose adequately well.&lt;/p&gt;
+
+&lt;p&gt;As Foucault puts it, the Panopticon “is the diagram of a mechanism of power reduced to its ideal form” and is a structure that could be applied equally well to hospitals, schools, etc — any institution whereby control is exerted on behaviour relies on such a mechanism in order to manage a large ratio of observers to observees.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Panopticon[…] has a role of amplification; although it arranges power, although it is intended to make it more economic and more effective, it does so not for power itself, nor for the immediate salvation of a threatened society: its aim is to strengthen the social forces — to increase production, to develop the economy, spread education, raise the level of public morality; to increase and multiply.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Where the Panopticon is the ideal architecture of power mechanisms, either physically through a building like a prison or psychologically in an open city using the proliferation of CCTV, we can see surveillance and biopolitics as being intrinsically linked. Without surveillance, biopower can only be maintained by exercising punishment upon those who are ‘caught in the act’, whereas through surveillance the threat of observation and punishment has a more spectacular, but similar, effect.&lt;/p&gt;
+
+&lt;p&gt;Regarding the activities and interactions of the body as the conduit and flow of power has increased the value in knowing how these activities and interactions operate. Knowing &lt;em&gt;that&lt;/em&gt; bodily relations are decisive in the ebbs and flows of power is less potent, perhaps even useless, without having some ongoing perception of &lt;em&gt;what&lt;/em&gt; bodily relations are taking place and trending.&lt;/p&gt;
+
+&lt;p&gt;It is for this reason that “communication has increasingly become the fabric of production” — that what data assembling and processing technology produces (information) is of such growing political importance that it has a greater economic significance, with all of the social morphology that entails (without presupposing causation either way).&lt;/p&gt;
+
+&lt;p&gt;These flows of communication, upon which we now place increasing value, can be divided like any other mode of production — into raw material (randomness), process and processing equipment, and product (pattern). Like the automotive industry of the 20th century that broke down into steel and plastic, plant and workforce, and the vehicle product, the information industry can be broken down by relationships between bodies, information processing, and marked-up data. In the case of information flows, this division loops back on itself much more — information is processed and reprocessed in order to bring forth particular patterns and trends and to be of interest to particular audiences.&lt;/p&gt;
+
+&lt;p&gt;Such patterns and trends are of immense value to those seeking to affect behaviour changes, to engage in biopolitics. Governments, businesses and other parties and institutions, insofar as they are engaged in instigating social effects, use this information to make judgements about the behaviour changes they seek to promote. These sought behaviour changes are varied and are directly linked to the objectives of the institution, such as reducing the number of people who smoke tobacco, increasing the use of soap (or a particular brand of soap) or decreasing tolerance of immigration amongst a national population. In doing so, wider objectives can be measurably affected such as making long-term savings in the National Health Service, affecting the spread of certain diseases or creating an environment where a particular kind of ideology can grow. These objectives are often linked to larger, wider strategies still.&lt;/p&gt;
+
+&lt;p&gt;The rendering of the randomness of raw data into patterns that can be used to measure such objectives is a key concern in biopolitics, and so there is plenty of motivation to increase the application of quantitative data methods. This is made much easier where bodies enter into an information-processing environment where the modes of interaction are precisely mediated — where bodies interact with information processing machines &lt;em&gt;on the machines’ terms&lt;/em&gt; — such as the Internet.&lt;/p&gt;
+
+&lt;p&gt;Though a turn of phrase, interacting ‘on the machine’s terms’ means what Galloway refers to as protocol in controlled environments and networks, which he says is “related to a biopolitical production, a &lt;em&gt;production of the possibility for experience&lt;/em&gt;” (emphasis added). That the very possibility for experience in a virtual or constructed environment is produced by the establishing protocols further emphasises the determinism of interacting in predefined, marked-up ways.&lt;/p&gt;
+
+&lt;p&gt;In the virtual environment of the internet, not only can the interactions with information processing environments be carefully constructed and determined, but also the monitoring of behaviour within these processing environments can be conducted everywhere and invisibly. When ‘landing on’ a web page, a visitor has options to interact with the site’s databases in predefined ways like submitting personal information, making purchases and being audience to various media.&lt;/p&gt;
+
+&lt;p&gt;While interacting with the site in these prescribed ways, the site can also collect a range of other data that is completely automated and less based on explicitly requesting/volunteering. The precise journey the visitor takes through this environment is collected meticulously as a matter of course without the user being directly aware of this surveillance. What you do, whether or not your actions satisfy the objectives of the site and what may have motivated your behaviour, is recorded en masse to be periodically processed in an audit of the utility of this processing environment. It is, in this sense, a Panoptical web on which we surf, where while inhabiting the environment your every move is utterly visible to the administrator and invisible to your fellow site visitors.&lt;/p&gt;
+
+&lt;p&gt;Perhaps the most well-known single apparatus of the Panoptical web is a product which Google provides for anybody who manages a web presence capable of facilitating JavaScript: namely &lt;a href=&quot;http://www.google.com/analytics&quot;&gt;Analytics&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Using a short tracking code that interfaces with a much larger information system, granular and analysable records are kept for every visitor to a website. This data includes by default information about location of visitors (accessible down to the city level), the technology used to access the site (operating system, screen size, etc), which pages they visit and for how long, from where they arrive at the site and how they leave it, and the precise journey they take through the content of that site. The script can be customised in ways that allow web managers to monitor all kinds of interactions on the site, and of course other proprietary scripts can provide yet more data on users.&lt;/p&gt;
+
+&lt;p&gt;For the most part, Google Analytics provides a method for people to see how many people visit their site and what they do there. At a very basic level they can see how their content performs in terms of their aims; whether it is to gain exposure for particular media content, or to encourage the further exchange of information like email addresses, bank details for transactions and social media resources. At another level, Analytics provides an insight into the people who engage with the web content in order to reach conclusions about how to better meet their desires/needs. For instance, discovering that mobile visits in particular tend towards a low engagement level then perhaps investigation is warranted into making the site more mobile-friendly. Or discovering that a large number of visits are coming from a particular geographical area would indicate that providing more content in a particular language would be beneficial, and so on. The in-built assumption is that in order to create a more desirable and effective product, you need to know more about the people to whom you are marketing your product.&lt;/p&gt;
+
+&lt;p&gt;As far as the public use of this apparatus goes, its primary purpose is one of optimisation and responsiveness. Through observation, categorisation and the studying of visitor behaviour, a web manager can progressively tailor the website towards particular goals — be that facilitating online transactions, collecting information, increasing exposure to boost the value of advertising space and so on. In its most essential form, it allows producers to engineer the web environments to be as effective and enjoyable as possible — certainly valuable information.&lt;/p&gt;
+
+&lt;p&gt;As far as this contrasts with older, pre-digital marketing tools, the effect is significant. Instead of only investing in creative campaigns that may or may not lead to a long-term positive advocacy of a brand amongst a loosely-defined audience, the exact efficacy of individual digital marketing products can be assessed. If you are spending x on a particular advert for a web product and making y as a result of that advert (as tracking the journey directly from advert to action is now possible), if x &amp;gt; y then you can reassess and optimise your campaign to tailor your marketing to be at its most effective. While the older methods of long-term advocacy are still valuable and in use, the advantages of digital marketing provide a complementary insight that was previously unavailable. There is also the integrity of market data to be considered — while advocacy was measured through anecdotal interviews, actual engagement can now be measured without needing people to tell you what they think. The scope for white lies, telling the interviewer what they want to hear and the limiting effects of group sampling have been ameliorated by a second set of thorough, quantitative audience data based on total observation.&lt;/p&gt;
+
+&lt;p&gt;Once we recognise the opportunities for biopower to be exerted in a virtual space like the Internet, it is easy to see how the effects of this influence can be seen and felt in the ‘offline’, non-virtual world. There is a growing body of evidence to suggest that even a mere familiarity with interacting online has a measurable effect on the way a person thinks, and the opportunities for advertising and marketing are also significant. Add to that the fact that ‘Internet money’ is still ‘real’ money and we see an environment that provides ample opportunity for large institutions to exert a very real biopower — and biopolitical parties are taking those opportunities.&lt;/p&gt;
+
+&lt;p&gt;While it is true that a great number of parties are involved in the collection of this kind of surveillance data, it is not necessarily the case that all of the data goes to any one central store or is processed in any one particular way. In the case of Google Analytics, each website using the service has a blinkered view of user activity on that site but the providers of the Analytics service have the benefit of an overview of the user behaviour across all participating websites. There are other services, sometimes used in parallel and sometimes not, that can offer deeper behavioural insights or more optimisation options for the reporting itself. These different service providers don’t pool their data together, due to competition and compatibility issues, which might seem to contradict this picture of a Panoptical internet.&lt;/p&gt;
+
+&lt;p&gt;However, as the infamous &lt;a href=&quot;http://www.theguardian.com/world/edward-snowden&quot;&gt;Snowden leaks&lt;/a&gt; have revealed, there is certainly an extent to which data held by various disparate parties can be accessed by agencies of governments who legislate over territories where these service providers are physically based. Where illegal activities are sought to be conducted over the internet, whether ‘moral’ or otherwise, there is ample concern that surveillance data tantamount to legal evidence could end up in the hands of governments that might seek prosecution. Service providers often publish and share anonymised statistics in order to report on trends and establish themselves as authorities on their markets. Increasingly we see that the observers of the internet are a network themselves that can be seen as being at the centre of a grand Internet Panopticon, where the enormous quantity of data warrants that relevant data is mandated to relevant nodes.&lt;/p&gt;
+
+&lt;p&gt;The internet, insofar as it presents these opportunities for surveillance of varying degrees, has come to be defined in terms of an opposition. This opposition arose out of the development and proliferation of anti-surveillance tools, usually based on advanced encryption and peer-to-peer technologies that consumer products were increasingly able to utilise. What is especially notable about the way these technologies are used is that they have created another online space, essentially public in the same way that the internet under surveillance is public except that anonymity rather than privacy is the guarantor of liberty. On this “Dark Web” a space is created whereby the benefits of public interaction can be enjoyed while avoiding some of the drawbacks of being under surveillance. And it is the Dark Web that has given the surveilled internet the moniker of Light Web.&lt;/p&gt;
+
+&lt;p&gt;The language of light versus dark bears with it many connotations. In the classic religious or ‘Star Wars’ sense there is the implication of good versus evil. In perhaps a more descriptive sense this language depicts a contrast of being exposed versus being hidden. We may also infer an analogy of the pedestrian versus the arcane. The many connotations are probably equally valid, but they all tend towards a conception of seen versus non-seen, and this raises a pertinent question: &lt;em&gt;seen by whom&lt;/em&gt;?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Google isn’t the only organisation with a financial interest in big data. Many groups that offer ‘free’ online tools monetise this software-as-service by analysing and utilising the data they gain from the Panoptical user activity metrics enabled by a virtual environment, whether by selling targeted advertising space or by selling the data in some processed/mediated form. This raises the question of how/why there is such a tendency for this surveillance, why it is of such value in the current economy. This can partly be answered in terms of biopower, but can also be set in a global politico-economic context through an understanding of Hardt &amp;amp; Negri’s &lt;em&gt;Empire&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Empire, summarily, is the tendency afforded by global capitalism to transcend (or to imagine to be transcendent of) all boundaries. Where previously state imperialism, though widespread and with the goal of constant expansion, was still paradigmatically tied to the Other — the ‘enemy,’ barbarians’ or ‘people in need of democracy’ — postmodern empire ontologically moves towards a comprehensive hegemony. There is no constituted Other, only Empire; homogenous, ubiquitous and even axiomatic. In the new paradigm of Empire, “it is as if the new order were already constituted,” as the right to arbitrate over constituents is assumed from the outset rather than undertaking any process of seizure or subjugation.&lt;/p&gt;
+
+&lt;p&gt;Contemporary capitalism, in its project “to bring together economic power and political power,” assumes its position at the apex of Empire and the legitimacy to apply this project worldwide. If political biopower is enabled by surveillance so too must economic power be characterised by an omniscience in order to make the link between these powers inseparable and thus bring about an essentially economic biopower.&lt;/p&gt;
+
+&lt;p&gt;The silicon revolution took computing power and applied it to some of the largest and most embedded institutions first and foremost, with early computational power being prohibitively expensive for most individuals. Military and state-funded scientific communications took precedent, being the source of the technology itself, but not far behind were the financial institutions that depended on accurate calculations on vast amounts of data and the ability to share and exchange such data internationally. The digital economy was quickly born.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The money that banks create isn’t the paper money that bears the logo of the government-owned Bank of England. It’s the electronic money that flashes up on the screen when you check your balance at an ATM. Right now, this electronic money (bank deposits) makes up over 97% of all the money in the economy. Only 3% of money is still in that old-fashioned form of real cash that you can touch.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.positivemoney.org/how-money-works/how-banks-create-money&quot;&gt;Positive Money: How banks create money&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The bulk of transactions that take place within our cities are now digital, and worldwide the trend is growing more towards a digital economy over a ‘paper’ economy. This arguably benefits the financial institutions over the participants in these exchanges (it seems a mixed blessing for people, who are now potential victims of identity theft and other cybercrimes, whereas there appears to be no downside for the institutions that own the means of digital economic production), and the power to influence behaviours that encourage such a trend certainly lies with those institutions. While there will continue to be exceptions (the 3% of hard cash in the GBP economy, and varied proportions in other economies) the Pound Sterling certainly now has a digital, that is to say &lt;em&gt;virtual&lt;/em&gt;, aspect. It is this virtuality that enables such a degree of surveillance that can, in turn, bring about a similar flow of economic biopower.&lt;/p&gt;
+
+&lt;p&gt;Virtual currencies, entangled with their hard analogues, represent a shift in the ontology of economic exchange and practice. Where such exchange using a national currency is construed as participation in citizenship, virtual exchange can thus be construed as a kind of virtual citizenship.&lt;/p&gt;
+
+&lt;p&gt;It is, however, important to note that currency has always been virtual by its very nature. Whether exchange is mediated by a unitary denomination or takes a more direct approach, a certain comparison between items is necessarily made. This valuation can be (and often is) extremely relative, contingent and fluid as the agreed-upon equivalence of items for trade is always mediated by the imagination — positing the future worth of the items in exchange. This critical mediatory role of the imagination assures its core virtuality, and the proliferation of digital technologies for the purpose of facilitating exchange has only amplified that intrinsic relativity, contingency and fluidity, rather than having introduced it.&lt;/p&gt;
+
+&lt;p&gt;Nonetheless, it must also be accepted that digital technologies of exchange have somewhat brought into focus the virtuality of exchange. As far as we are concerned with the self-identities of the citizens of whom we speak, there is certainly reason to suppose that their citizenship has grown ‘more virtual’ with the increased proliferation of digital technologies for exchange. Where previously it was the abstract denomination or even simply the &lt;em&gt;value&lt;/em&gt; that was virtual, now the medium of currency itself has become virtual too.&lt;/p&gt;
+
+&lt;p&gt;Though alternative digital currency gained its first crucial boost in value largely from Dark Web exchanges, the public recognition of that value has enabled its ongoing foray into the Light Web. This makes a fascinating case of mediation as vital process, since it was the media event of the Bitcoin boom that facilitated continued appreciation (in both the emotional and the economic senses) of the currency, positioning it as a genuine intrusion of cryptocurrency into the panoptical Empire.&lt;/p&gt;
+
+&lt;p&gt;The question of to what degree Bitcoin represents a challenge to the panoptical Empire can be discovered using two complementary methods — firstly insofar as cryptocurrency seems contrary to the aims and methods employed by the Empire (as Hardt &amp;amp; Negri have posited the ‘global order’), and secondly insofar as governments and other representatives of this ‘global order’ have taken steps to either quell or recuperate it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://bitcoin.org/bitcoin.pdf&quot;&gt;A full explanation of Bitcoin&lt;/a&gt;, its origin, the nature of its algorithm and mining etc are of course relevant to any discussion of the biopolitical significance of cryptocurrency — but for brevity this essay will detail only some of its more social aspects.&lt;/p&gt;
+
+&lt;p&gt;Bitcoin is the currency that currently has the greatest exchange rate of all cryptocurrencies, accordingly because of its popularity. It doesn’t require centralised administration from a bank or similar body as it is administered by a network of independent computer systems using a common protocol. Various bitcoin transfer and other facilities exist, which tend to charge fees that are significantly lower (and less frequent) than the traditional currency equivalents.&lt;/p&gt;
+
+&lt;p&gt;All exchanges of Bitcoin are entirely public and are facilitated by what is known as the “block chain” network — the shared public ledger on which the entire Bitcoin network relies. Transactions between wallets are coordinated on this service, which is composed of a robust network of mining machines that is tremendously secure (to illustrate, any machine seeking to compromise the network would need to be capable of overwhelming every machine node in the network, rather than compromising a single, weaker node). This is reinforced with ‘military-grade’ cryptography, but this doesn’t mean that there is no fraud or theft that occurs. Any such robbery is (or, at least, has been so far) an unfortunate result of chicanery against the human element in the process.&lt;/p&gt;
+
+&lt;p&gt;What all this means in practice is that currency exchanges can take place, without the sole oversight of central or private banks and governments, in a genuinely peer-to-peer method of using software on one’s own computer to instigate the transaction. Instead of the intermediary being a bank, the intermediary ‘institution’ is the block chain, a network of computers that anyone can join with sufficient equipment and utilisation of the protocols. Despite current pushes for Bitcoin to be used in all manner of exchanges — from cars to computers to digital or editorial services — its surge in value was carried principally by its use in the exchange of generally illegal goods and services — from narcotics to stolen goods and even (apparently) assassination services. These exchanges take place using Bitcoin via the Dark Web, while extra measures must be taken to ensure a degree of anonymity from the block chain and hence a distancing from any Panoptical surveilling eye. These measures can be equated to laundering in the context of conventional currency, and usually involve the use of multiple transactions across multiple wallets in order to obfuscate the sources (in conventional, trackable, currency) and identities of the parties involved.&lt;/p&gt;
+
+&lt;p&gt;As Bitcoin moved into the mainstream it was no longer an underground alternative, and a number of nation states have questioned whether it should be prohibited. China and India have called this issue into question first, while the Russian Prosecutor General’s Office said on 6 February 2014:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Systems for anonymous payments and cyber currencies that have gained considerable circulation — including the most well-known, Bitcoin — are money substitutes and cannot be used by individuals or legal entities.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reported by &lt;a href=&quot;http://www.reuters.com/article/2014/02/09/us-russia-bitcoin-idUSBREA1806620140209&quot;&gt;Reuters&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Exercising state sovereignty over currency may seem like Hardt &amp;amp; Negri’s ‘old’ Imperial approach, but the collaboration of nation states for the dominance of inter-acknowledged and legitimated currencies is a distinct sign of Empire in action. Taking the ideology of Empire to its extreme, one might think that a single international currency would be agreeable — but there are significant excepting factors that mean Bitcoin cannot be legitimated currently. Firstly, that the nature of this cryptocurrency is antithetical to the privileged surveillance of economic exchange, secondly, that the ‘ground-up’ origins of this particular cryptocurrency means that control can’t be exerted on the full number of such currencies in use (LiteCoin and DogeCoin being only two of an already growing economy of yet more ground-up cryptocurrencies). It should be noted that not all state sovereignties have taken a similar stance against Bitcoin — although the USA has taken steps against Silk Road in the past (a narcotics trading platform in the Dark Web that uses cryptocurrency exchange) it is seen as comparatively ‘pro-‘ Bitcoin. The Bank of Cyprus also publicly acknowledged on Feb 25th 2014 that “&lt;a href=&quot;http://www.bitcoinx.com/central-bank-cyprus-bitcoin-illegal/&quot;&gt;Bitcoin is not illegal&lt;/a&gt;,” following an extended period of post-2008 crisis that left many Cypriots with little faith in their nationalist economic system.&lt;/p&gt;
+
+&lt;p&gt;However mainstream Bitcoin or other cryptocurrencies may become, their cryptographic (and yet open) nature prohibits the kind of rigorous surveillance that has become the standard for modern digital currency. As a result of the near-impossibility of the accurate surveillance of exchange, the principal (and possibly legitimate) concern raised — against which Bitcoin supporters and institutions are defending — is that of money laundering, a worry to those concerned with retaining control over modes of economy.&lt;/p&gt;
+
+&lt;p&gt;Bitcoin can be seen to represent a direct challenge to modern, multi-nationalist conceptions of economy, where all transactions are centrally monitored and economic citizens are accountable to their purchases. In an approach similar to the Spartacus defence, except multiplied as many times as a computer could fathom, cryptocurrency offers a contrast to and a different way of imagining how a global digital economy might work with a devolved, less concentrated, spread of biopower through surveillance.&lt;/p&gt;
+
+&lt;p&gt;So we have seen how surveillance is used on the internet and how it is countered, with reflections on the biopolitical context — what the implications are of this on the concentration or dispersal of biopower. Is this the whole story? If cryptocurrencies represent the antithesis of concentrated economic surveillance, are they also antithetical to the concentration of biopower? To what extent is Bitcoin really a challenge to the workings of biopolitical Empire?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;In cultural theory, it is often frowned upon to form dichotomies — and quite rightly. False dichotomies are not only rife but seem deeply appealing as a simple way of interpreting the world. Deconstructing these dichotomies remains fertile academic territory.&lt;/p&gt;
+
+&lt;p&gt;The dichotomy of Dark Web versus Light Web was established outside of this essay, even though only the term Dark Web has gained much prominence the dichotomy is already implied, with an array of connotations and a somewhat definite distinction made between them. It is a study of these connotations that is relevant to the study of digital media. How far this dichotomy can be deconstructed remains to be seen, and the cultural battles to do so are being fought on many fronts.&lt;/p&gt;
+
+&lt;p&gt;While Bitcoin appears to be growing in strength, with a number of prominent private investors taking an interest, the fact that its software philosophy seems so antithetical to that of global Empire as Hardt &amp;amp; Negri see it might make us question its longevity. If Bitcoin does prove to be a resilient alternative to the Panoptical nationalist economic norm, what kinds of attempts to undermine it might we expect?&lt;/p&gt;
+
+&lt;p&gt;Prohibition might be one reaction, one that we have seen some nation states adopt and others not. While growing in popularity, there is an extent to which it may not reach a ‘critical mass’ whereby it has any calculable effect on the prosperity and ubiquity of nationalist currencies, and thus such a direct intervention may not be warranted. Another possible reaction may be one of what the Situationists termed &lt;em&gt;recuperation&lt;/em&gt; — a more insidious undermining that involves a repressive system “projecting its own meanings and goals onto[…] oppositional activities”. This might involve, for instance, the mass buying of bitcoin by financial institutions in order to control its value followed by a callous promotion of Bitcoin as an approved alternative — an alternative that is under control.&lt;/p&gt;
+
+&lt;p&gt;Even if Bitcoin were recuperated or legitimised, there would still be an open question around the degree to which the open-source cryptography and digital counter-surveillance movement can be contrary to the Panoptical aims of Empire.&lt;/p&gt;
+
+&lt;p&gt;Žižek posits that “if you take away from our reality the symbolic fictions that regulate it, you lose reality itself,” suggesting that we cannot even &lt;em&gt;imagine&lt;/em&gt; a post-capitalist world, that this biopower extends deeper than merely into the biological. One might be tempted to call it phenomeno-political, as it not only concerns the body as capital but the entire Being — the soul that Foucault highlights as the contemporary object of discipline.&lt;/p&gt;
+
+&lt;p&gt;There is an extent to which Empire, the source of many of our regulatory symbolic fictions (such as individualist freedom as the morality of market liberalism), cannot be overcome using the same symbolic fictions it uses to sustain itself. Capitalism is in perpetual crisis and this crisis does not appear to be leading inextricably to global communism, as century-old Marxists once held true. The popularity of Bitcoin is arguably formed upon a foundation of the liberalist morality of free, unregulated trade. If that is the case, its presentation as being subversive against the global Empire morality may be unfounded and the promised redistribution of biopower becomes unimaginable.&lt;/p&gt;
+
+&lt;p&gt;This denotes a truly comprehensive dominance, an empire of imagination and not just culture, biopolitical in its most intimate sense, a sense that is ‘beyond measure’.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“[B]eyond measure” refers to the vitality of the productive context, the expression of labor as desire, and its capacities to constitute the biopolitical fabric of Empire from below[…] Beyond measure refers to a virtuality that invests the entire biopolitical fabric of imperial globalization[…] By the virtual we understand the set of powers to act (being, loving, transforming, creating) that reside in the multitude.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Through a reading of this passage and of Žižek, we bring forth a portrait of the malignancy of Empire — its postmodern ubiquity. Hardt &amp;amp; Negri’s notion of the postmodern “beyond measure”, as contrasted against their modern notion of “outside measure”, reveals a paradox worth mentioning. Outside measure refers to the excesses of imperialism that abide by a particular index of value. This modernist approach warranted a constant vigilance for contingencies that might turn subversive — that imperialism could be undermined was a real, though unlikely, possibility. Beyond measure, however, in its shirking of a single index or measure and its encompassing of all values, guarantees that such ‘subversive’ contingencies are necessary, accommodated and controlled.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Even if in postmodern capitalism there is no longer a fixed scale that measures value, value nonetheless is still powerful and ubiquitous.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The paradox here is that although there is no fixed scale of value with which to measure, the value of measurement through surveillance has only increased and can be seen quite clearly in the prevalence of monitoring faculties in digital virtual environments.&lt;/p&gt;
+
+&lt;p&gt;It is the degree of Bitcoin’s superficiality that is in question: though undermining the Panoptical surveillance of financial transactions, we might want to say that it does not — that it cannot — present any real challenge to the workings of Empire. If that is the case, if Bitcoin cannot effect a redistribution of biopower through antagonising its sustaining economic surveillance, then this calls into question how necessary the relationship is between surveillance and biopolitics.&lt;/p&gt;
+
+&lt;p&gt;Even though the core principles of denomination of value, wealth and gain, de-politicised investment and so on remain unscathed in the medium of Bitcoin, the surveillance of almost all possession and exchange that is prevalent in the digitised economy is still undermined, even if this doesn’t actually result in a drastic redistribution of biopower. Surely this is worth something?&lt;/p&gt;
+
+&lt;p&gt;Bitcoin in this respect presents a conundrum — as an example it suggests that surveillance, or at least total visibility, doesn’t necessarily equate to supplementing the paradigm of capitalist biopower.&lt;/p&gt;
+
+&lt;p&gt;In terms of dichotomies then, although the seen/unseen Light/Dark webs are real and accurate terms, trying to correlate that with a dichotomy of Empire/alternativism is problematic.&lt;/p&gt;
+
+&lt;p&gt;Surveillance does indeed contribute to the working of biopolitics however, and the extent to which Bitcoin can or cannot undermine Empire does not counter Foucault’s essential premise that observation and biopower are intrinsically linked. Surveillance and control can be managed through various methods and apparatus. Subverting one of these methods, as Bitcoin attempts, cannot constitute the subversion of control.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Creative Evolution: straddling the fence of positivism?</title>
+   <link href="http://robsafar.co.uk//creative-evolution-straddling-the-fence-of-positivism"/>
+   <updated>2014-02-28T00:00:00+00:00</updated>
+   <id>http://robsafar.co.uk/creative-evolution-straddling-the-fence-of-positivism</id>
+   <content type="html">&lt;p&gt;Vital process is the term used to describe what our understanding of media should shift to, away from a fascination with mere objects - phones, watches, TVs etc - and towards the social, biological and technical processes in which these objects are embedded. Vital process gives a more holistic picture of the ways of being that we find ourselves participating in when we engage with new media. This approach brings new and digital media study closer to anthropology, but with a particular (and conscientious) focus on ‘modern’ societies that have the economic power to wield these media technologies.&lt;/p&gt;
+
+&lt;p&gt;The term ‘vital process’ owes much, including its etymology, to the work of Henri Bergson who, in his 1907 publication called &lt;em&gt;Creative Evolution&lt;/em&gt; posits a metaphysical &lt;em&gt;élan vital&lt;/em&gt; (or vital impetus) as an alternative explanation to the nascent Darwinism that was being explored to describe the process of evolution. &lt;em&gt;Life after New Media&lt;/em&gt; comes to refer to Bergson a number of times, in a manner that is perhaps less crucial to the overall theme of the book than its name might suggest. But, where the notion of creative evolution does come into play, we find at certain times parallels and at other times carefully avoided conflicts with another field of study - this time from the other side of the positivist versus antipositivist divide, that of memetics.&lt;/p&gt;
+
+&lt;p&gt;Let’s quickly examine a short quote from &lt;em&gt;Life after New Media&lt;/em&gt;, where Sarah and Joanna quote from Gumpert and Cathcart’s essay &lt;em&gt;A theory of mediation&lt;/em&gt; (1990):&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;To the extent that human’s mental processes allow them to make complex and varied extensions of themselves, one might see the development of media technology, in the loosest sense, as a form of biological development. We may infer that the principles of biological evolution can be used to explain media evolution. We would call this a biotechnological explanation of mediation.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Taking ‘media technology’ as a form of social behaviour, as &lt;em&gt;Life after New Media&lt;/em&gt; recommends, we find here a postulation that the empirically-derived principles of evolution, as revealed in the natural sciences, look like they should be applicable to certain areas within the field of cultural study. Is this not the very essence of the practice of positivism, yet arising within the antipositivist field of cultural studies?&lt;/p&gt;
+
+&lt;p&gt;Let us quickly also refer to the firmly positivist counterpart to this claim, best highlighted at its origin - the 1976 publication by Richard Dawkins called &lt;em&gt;The Selfish Gene&lt;/em&gt;. Here is described biological evolution in terms of the Neo-Darwinian synthesis (combining the old Darwinism with modern Mendelian genetics) and a later chapter in the book coins the term, for the first time, of a meme. The meme, quite briefly, is a hypothetical unit of behavioural evolution that can be treated in the same way that genes can be regarded as the units of biological evolution - the study of which is called memetics.&lt;/p&gt;
+
+&lt;p&gt;The same conclusion, that this process called evolution arises in both the biological and cultural fields, seems to be coming from two very different camps. In the one camp, falsifiable empiricism is seen as the definitive source of ‘truth’ - or as close to truth as can be reached. The other camp rejects this notion, saying that the social realm may not be subject to the same methods of investigation as the natural world. Are these conclusions about evolution indeed the same, or is there something distinct about each? And, if a scholar seeks to avoid being partisan, is it possible to navigate this field while avoiding the obstacle course of making one claim or the other?&lt;/p&gt;
+
+&lt;p&gt;Sarah and Joanna’s book, as a contemporary utilisation of creative evolution, inevitably explores areas where assertions can be compared with contemporary understandings of biological evolution. Historically, creative evolution predates what is known as the Neo-Darwinian synthesis, where Darwinian evolution found its compatibility with Mendelian genetics and radically changed both the theoretical and empirical discourses of evolution in the natural sciences. This synthesis itself doesn’t contradict Bergsonian creative evolution, but it does set an interesting stage whereby empirically obtained learnings can be used directly alongside a generally anti-positivist, cultural theory.&lt;/p&gt;
+
+&lt;p&gt;We can see Sarah and Joanna’s cognisance of this fact as they approach these issues whereby passages descriptive of creative evolution come to resemble Neo-Darwinian descriptions of biological evolution. They speak of “the entanglement of the processes of natural and technical evolution” when addressing this resemblance.&lt;/p&gt;
+
+&lt;p&gt;Conscious of this close resemblance, but unwilling to take it further, they use qualifying words and phrases such as “hinting”, “without drawing any particular conclusions” or “scientific truth is of less interest to us”.&lt;/p&gt;
+
+&lt;p&gt;Yet, when addressing the above citation of Gumpert and Cathcart (making the comparison between biological and media evolution), they continue:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The literalness of this proposition, or its scientific “truth,” is of less interest to us than it’s conceptual and rhetorical force, the idea that looking at analogies between biological organisms and media in terms of their complexity, adaptability and specialisation may allow us to shift the perspective of what counts as media, or even lead to the recognition of the poetic, creative impulse, beyond that of human volition, in what Heidegger called “the growing things of nature as well as whatever is completed through the crafts and the arts.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Here we see a trajectory towards a unified, empirical approach to evolution in full throttle, only to narrowly miss in favour of a more analogous approach. The question arises, from this careful circumventing of anything bordering on a falsifiable empirical hypothesis, of in what way is evolution being treated here? Is it something in the world (a fact of our reality, like the conditions and process of combustion) or is it an amorphous and fluid signifier that may not point to anything in the world? Is evolution a thing, like fire, or just a word, like love?&lt;/p&gt;
+
+&lt;p&gt;Where evolution is mentioned in &lt;em&gt;Life after New Media&lt;/em&gt; we can find hints at two, seemingly opposing, positions in the positivist versus anti-positivist conflict. On the one hand, that evolution is a general process or activity - applicable to the surfacing of both biological and cultural novelty - that is supported by empirical evidence and therefore cultural versions of this theory should not contradict any evidence from the natural sciences. On the other hand, that not only do we not know (or have agreed upon, at least,) enough about biological evolution to make worthwhile cultural claims from it, but that regardless of its origin the word “evolution” has a meaning of its own - a meaning that is necessarily separate to the natural force. The distinction between these two positions is highlighted most simply by the acknowledgement of the difference between the signifier and signified that is pored over in cultural theory and virtually dismissed in the natural sciences.&lt;/p&gt;
+
+&lt;p&gt;My question of the book is this: in their dealing with creative evolution in this context, have they stepped into positivism (with one foot firmly rooted in anti positivism) or have they in fact not taken any such step at all? Do they need to, and does bridging the gap between positivism and antipositivism have any merit?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://mitpress.mit.edu/books/life-after-new-media-0&quot;&gt;Life after New Media&lt;/a&gt;&lt;/em&gt; (MIT Press, 2012) by Sarah Kember and Joanna Zylinska is a must-read for anyone interested in digital media. I’m very proud to be a student of theirs.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>On the arbitrariness of taxonomy</title>
+   <link href="http://robsafar.co.uk//arbitrariness-taxonomy"/>
+   <updated>2014-01-15T00:00:00+00:00</updated>
+   <id>http://robsafar.co.uk/arbitrariness-taxonomy</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;“All categorisation is arbitrary”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The teenage me would balk at the idea of arguing against nihilism, but here I am.&lt;/p&gt;
+
+&lt;p&gt;I’ll describe for you the situation where I encountered the paraphrased supposition above. This begins with a passage from &lt;em&gt;Discipline and Punish&lt;/em&gt;, addressing the concept of &lt;strong&gt;Panopticism&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Bentham does not say whether he was inspired, in his project, by Le Vaux’s menagerie at Versailles: the first menagerie in which the different elements are not, as they traditionally were, distributed in a park (Loisel, 104-7). .. But one finds in the programme of the Panopticon a similar concern with individualizing observation, with characterization and classification, with the analytical arrangement of space. The Panopticon is a royal menagerie; the animal is replaced by man,, individual distribution by specific grouping and the king by the machinery of a furtive power. With this exception, &lt;strong&gt;the Panopticon also does the work of a naturalist&lt;/strong&gt;. It makes it possible to draw up differences: among patients, to observe the symptoms of each individual, without the proximity of beds, the circulation of miasmas, the effects of contagion confusing the clinical tables; among school-children, it makes it possible to &lt;strong&gt;observe&lt;/strong&gt; performances (without there being any imitation or copying), to &lt;strong&gt;map&lt;/strong&gt; aptitudes, to assess characters, to &lt;strong&gt;draw up&lt;/strong&gt; rigorous &lt;strong&gt;classifications&lt;/strong&gt; and, in relation to normal development, to distinguish ‘laziness and stubbornness’ from ‘incurable imbecility’; among workers, it makes it possible to note the aptitudes of each worker, &lt;strong&gt;compare&lt;/strong&gt; the time he takes to perform a task, and if they are paid by the day, to &lt;strong&gt;calculate&lt;/strong&gt; their wages.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(Emphasis added.)&lt;/p&gt;
+
+&lt;p&gt;The comparison between the Panopticon and the Menagerie is a poignant and agreeable one, especially when set against an example of the practice of market research that takes place under similar conditions. Via some (likely JavaScript-based) tracking paraphernalia, many of the behaviours of visitors to websites can be monitored from a position of relative seclusion, for the ultimate purpose of classifying and quantifying behaviours in order to optimise whatever function that website serves. Although the environment is ultimately responsive (being engineered based on observed behaviours) the system of observation itself is not - it too is Panoptical.&lt;/p&gt;
+
+&lt;p&gt;Market analysts then take the pool of data that has been collected and categorise and quantify that data in order to be able to reach generalised, albeit qualified, statements. There is somewhat room in the example of market analysis to say that the categorisation is somewhat arbitrary - the taxonomy is imposed upon the data rather than emerging from it. We may also want to extend that statement to many other cases of Panopticism too, as it is certainly viable to assert that many social distinctions we can make between human beings, such as race, hair colour, star sign or first name, are also arbitrary. These distinctions generally have neither significance or utility.&lt;/p&gt;
+
+&lt;p&gt;However at this point the mistake may easily be made, given the categorisations we have described, of saying that all categorisations and taxonomies are arbitrary - extending this statement to apply to the techniques and findings of naturalism and the natural sciences. This mistake, though casual, was encountered in our conversation and it is that which I wish to challenge most vehemently, for the implications are that there is no truth to the genealogy of species, no truth to the astronomy discerned from recent data obtained through Hubble, no truth to the distinctions between chemical elements - all of the scientific categorisations obtained through the practice of clinical observation.&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;hr?&lt;/p&gt;
+
+&lt;p&gt;I oughtn’t need to explain that a Hydrogen atom still has a single orbiting electron, by any other name. I oughtn’t need to stipulate that differences between noumena can exist without their being perceived (phenomenal-ised) - otherwise we are left in a solipsistic position, no matter how social our solipsism might seem to be. Even if the noumena, the ontical and the thing-in-itself cannot be apprehended or perceived directly at all, no serious philosophy has been able to maintain that these do not independently exist. It is quite simply a position that is untenable.&lt;/p&gt;
+
+&lt;p&gt;So by what measure can we distinguish between arbitrary and non-arbitrary categorisations? This is hardly a new question, John Locke’s (the esteemed philosopher who invented semiotics) initial work on primary and secondary qualities was the beginnings of an answer that has certainly been built upon in the centuries since - essentially a question of practical epistemology that is obfuscated from those with an unhealthy obsession with postmodernism.&lt;/p&gt;
+
+&lt;p&gt;Let’s take the example of colour - while we can safely say that perceived colour is a secondary quality, that is human-imposed and potentially arguable on the ground of perception and perspective, we find it much more troublesome to assert the same for the wavelength of light. Even considering Heisenberg’s uncertainty principle here, that the act of observation (using light) has an impact upon that which is being observed, we must proceed with the understanding that something objective existed in the first place that was then impacted by observation - it wasn’t created by observation (which is the assertion that must be made if arguing from our paraphrased supposition).&lt;/p&gt;
+
+&lt;p&gt;When dealing with what are commonly the subject of the natural sciences we may find it somewhat easier to stick by our taxonomies. But when dealing with the human sciences or cultural studies, the likelihood of a taxonomy being arbitrary seems to grow. Are we, however, to assert that no taxonomy can be suitable when the subjects are humans?&lt;/p&gt;
+
+&lt;p&gt;Instinctively, I want to say no. There isn’t a good enough reason to say that humans are specially unquantifiable, and that human taxonomies can only be contingently useful and not ‘true’ (in the same sense that certain statements in the natural sciences can be true). This is the question of positivism exposed.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;While I will return to a full defence of positivism at a later point, I want to reaffirm the purpose of this article: the association of a comprehensively anti-positivist stance with nihilism. And the anti-positivity of postmodernism is markedly nihilistic, no matter how softly it is expressed as an “epistemological crisis”.&lt;/p&gt;
+
+&lt;p&gt;There is some reconciliation that needs to take place here. The postmodernist needs to acknowledge the nihilism that inevitably lies at the end of that road. The postmodernist seems unable to acknowledge, at least for the moment, that there is a world which exists independently of the human gaze that forms the basis of our existence and experience.&lt;/p&gt;
+
+&lt;p&gt;While I acknowledge, as I always have, that nihilism can be a useful mysticism that alludes to the “desert of the real” that we encounter when we try to connect directly with the noumenal, the ontical, and the thing-in-itself, extending this nihilism into the world of the phenomenal, ontological or the world of representation is effectively applying a mysticism that is unfounded. Not knowing the answers yet to questions about humans does not mean that these answers are unknowable - and to assert that they are either knowable or unknowable is baseless. The investigation must continue, utilising a qualification similar to the uncertainty principle whereby we can be conscious of the effect our observation has upon the object of our gaze.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;post-script: It is unfortunate that there is a need to explicitly condemn some of the old memes that have given rise to a moral anti-positivist sentiment, but the need does exist. I must state quite clearly that the kinds of ideologically-defined pseudo-sciences like phrenology and eugenics do exist and should be challenged at every encounter. But these are ideologically-defined in a way that the natural sciences aren’t - perhaps this will be the scope for another article. Positivism fails where bad science is practiced, but the failure here is at the level of failing to do science properly, rather than being a drawback of positivism itself. Properly - and morally.&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Iconography of the Technology Religion</title>
+   <link href="http://robsafar.co.uk//iconography-technology-religion"/>
+   <updated>2013-10-14T00:00:00+01:00</updated>
+   <id>http://robsafar.co.uk/iconography-technology-religion</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/zo3TEax.png&quot; alt=&quot;An iPhone Odyssey&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Margaret Wertheim posited famously the notion of the new religion of technology in &lt;em&gt;The Pearly Gates of Cyberspace&lt;/em&gt; and Brett Robinson in this rather entertaining article, &lt;a href=&quot;http://www.wired.com/opinion/2013/08/how-jobs-turned-technology-and-media-into-religion&quot;&gt;How Steve Jobs Turned Technology - and Apple - into Religion&lt;/a&gt;, does well to analogise Apple with a religious sect.&lt;/p&gt;
+
+&lt;p&gt;I’ll be clear - the notion of technologism as a religion doesn’t do anything for me. The fact that human beings have utilised technology of some sort for the entirety of the existence of such a creature (to the point of symbiotic dependence, perhaps a kind of co-definitive relationship), suggests to me that a technologist religion would never have not existed. This makes the idea impossible to disprove and barely warrant the status of a theory (or even of &lt;em&gt;sense&lt;/em&gt;, if you want to take the logical positivist route [a guilty pleasure of mine]).&lt;/p&gt;
+
+&lt;h4 id=&quot;however-that-doesnt-mean-that-the-idea-isnt-fun-to-play-with-it-can-be-after-all-simply-treated-as-a-metaphor&quot;&gt;However, that doesn’t mean that the idea isn’t fun to play with; it can be, after all, simply treated as a metaphor.&lt;/h4&gt;
+
+&lt;p&gt;So let’s compare Apple “fanboys” to evangelical zealots, Sony outlets as Lutheran churches and Mircosoft to Mormonism. Let’s suppose that the promise of heaven is similar, on some unique level, to the promises made by technology marketing departments. Just bear with me, anyway.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I heard today somebody claim that the difference between heaven and technology is that heaven was something you could get through repentance and strife, whereas technology is cheap. I beg to differ - buying your way into heaven has always been commonplace; from bequeathing your estate to the church on your deathbed to the well-known financial requirements when rising through the Scientology pyramid scheme.&lt;/p&gt;
+
+&lt;h4 id=&quot;but-the-notion-that-heaven-was-always-meant-as-something-distant-is-still-interesting-in-contrast-with-the-fact-that-everyone-can-everyone-should-be-hooked-into-the-smart-world&quot;&gt;But the notion that Heaven was always meant as something distant is still interesting, in contrast with the fact that everyone can, everyone &lt;em&gt;should&lt;/em&gt;, be hooked into the “smart” world.&lt;/h4&gt;
+
+&lt;p&gt;Heaven (and hell) were regularly depicted, alongside saints and demons, in the iconography that was heavily promoted through various religious institutions. An artist during certain periods in Europe could only make their career by portraying the other worlds that were the objects of desire and revulsion to the lay folk. Iconography held an influential position in these times, showing, as best they could, the glory of the divine - and these formed an important component of the carrot and stick tactic.&lt;/p&gt;
+
+&lt;p&gt;If the technologism advocated by our beloved adverts is at all similar in its social phenomena, it is by virtue of its depiction of the other, ‘better’ world. We’ve all seen those beautiful, happy people at leisure because their smart devices make Work &lt;i&gt;and&lt;/i&gt; Rest &lt;i&gt;and&lt;/i&gt; Play a pleasure and a doddle. The cool people who are confident enough in their own sexuality to have a brightly coloured mobile. The slick suit who flops out his Ultrabook and cums all over himself at the sheer power of what’s straddling his thighs. The 41,000,000 megapixel cameraphone for the photographer who is overcome by the fatigue of carrying around a DSLR. Whatever it is, more technology makes things brighter, last longer, and ultimately be plain better.&lt;/p&gt;
+
+&lt;div style=&quot;width: 250px; display: inline;&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/heV0CNzC9OI&quot; height=&quot;188&quot; width=&quot;250&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;div style=&quot;width: 250px; display: inline;&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/ZPauhuSvAGg&quot; height=&quot;188&quot; width=&quot;250&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;div style=&quot;width: 250px; display: inline;&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/WmjEOQaARVo&quot; height=&quot;141&quot; width=&quot;250&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;sup&gt;All of these individual cases of innocuous adverts are very similar social phenomena to the icons of old Christianity (and other religions). They tell something of the magic that you can reach towards and purchase.&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;But the analogy goes deeper still. Let’s take this notion of religious iconography applied to technology marketing and compare it with the other, contemporary use of the term, as found in operating systems and software. It’s not just the adverts that depict the heaven of the tech product - there are tech products that are simulacra in themselves, simulations without a real referent.&lt;/p&gt;
+
+&lt;p&gt;(For clarity, icons in software often do simulate real equivalent operations - this is the essence of skeuomorphism. But these icons, hypermediated together in the abstract environment of the window or the desktop, inhabit an environment without a referent.)&lt;/p&gt;
+
+&lt;p&gt;An operating system, iOS 7 or Ubuntu 13.10 for example, takes on a very special role that is also comparable to the iconography of religion. By their very nature they depict - after all, there isn’t a desktop inside your computer or a homescreen in your phone, these are conceptual depictions (&lt;i&gt;drawings&lt;/i&gt;, if you like) that provide a way for you to interact with the computing device. The depiction isn’t &lt;i&gt;of&lt;/i&gt; anything real, it exists as a simulacrum with a very functional role.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/3/3e/Pietro_da_Cortona_-_Il_martirio_di_Santo_Stefano.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/b/b2/Pantallazo-Ubuntu_Linux-Gnome.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sup&gt;Both of the above are simulacra - they have no real referents&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Putting aside the ways of interacting &lt;em&gt;within&lt;/em&gt; the OS, we can see that these simulacra are representing something to be desired that doesn’t really exist, much like the semblance of heaven painstakingly rendered across the arched roof of the cathedral. OSs are responsive and interactive simulacra that could compare, in the religious sense, to speaking with God or sitting on Santa’s lap to list your demands for this winter’s loot. The experience might be very real, but there is nothing behind the charade. It is only representation, only spectacle, but in each case the spectacle itself has a very specific function.&lt;/p&gt;
+
+&lt;p&gt;When you pray, there is no God listening to you and answering your prayers (even the act is inconsistent with the ideology, but that’s another discussion). But the act of praying has a very real function - people who pray often thereafter approach the world in a different way; they look out for particular signs, they may exhibit a kind of extra, renewed hope that may be the motivational boost they need to achieve their goals. Praying does not do what it seems to do, but it certainly does something else.&lt;/p&gt;
+
+&lt;p&gt;When you ‘drag and drop’, you are not grasping or dropping what it is you are seeking to manipulate. You are grasping a mouse, perhaps, that has no grappling apparatus. You are remotely manipulating a cursor, but even that cursor is not dragging anything in any real sense - the correlation between your cursor’s movement and the movement of the object is ensured by the operating system, it is another charade like the parent covertly steadying a child on a bike when the stabilisers come off. But the act of dragging and dropping has a very real function - it allows you to intuitively (and skeuomorphically) execute a rather simple command, often copy/move this file to this location. Dragging and dropping does not do what it seems to do, but it certainly does something else.&lt;/p&gt;
+
+&lt;p&gt;So if an OS is a simulacrum just like the religious iconography, we might want to say that the religion it is a part of is much more fluid in nature. Various OSs, in a technologically deterministic way, demonstrate different value structures in the very way that they are built. Open source Linux-based systems are embodiments of a very different ethic to OSX or Windows. If we try hard enough, we may even detect different moralities emerging from different versions of the same operating system.&lt;/p&gt;
+
+&lt;p&gt;But in common with each other is that they are all technologies, and whatever their differences they all espouse a technology morality (where it is common across all technologies).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;dont-be-fooled-though-this-technology-morality-may-have-many-of-the-hallmarks-of-religion-in-many-social-aspects-but-it-is-the-the-most-humanist-and-the-most-scientific-religion-of-which-we-could-possibly-conceive&quot;&gt;Don’t be fooled though. This technology morality may have many of the hallmarks of religion in many social aspects but it is the the most humanist and the most scientific religion of which we could possibly conceive.&lt;/h4&gt;
+
+&lt;p&gt;As discussed above, humans have used technology for as long as we were humans - ontologically and empirically. From the first moment that the pre-homo-sapien hominid wielded bone to wreak a greater destruction than it was otherwise able to muster, humans were veritably destined to use tools, media and technologies as a core part of our identity. A religion based around what humans essentially do and are seems somewhat appropriate to me, and forsaking that seems analogous to forsaking gravity or evolution for being “a theory”.&lt;/p&gt;
+
+&lt;p&gt;There’s something crucially different about a scientific humanism (a humanism that responds to the best information we currently have about what humans are - if it doesn’t allow for empirical evidence it’s just another ideology). Even if scientific humanism can function in some of the social phenomena in place of religion, it remains more adaptable, reasonable and, above all, accurate than anything other system of thought that could fill the role.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;postscript: please note that any coherence in the above article is purely coincidental. These ideas are still metastable and in development.&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Time Causes Yet More Controversy</title>
+   <link href="http://robsafar.co.uk//time-causes-yet-more-controversy"/>
+   <updated>2012-10-29T00:00:00+00:00</updated>
+   <id>http://robsafar.co.uk/time-causes-yet-more-controversy</id>
+   <content type="html">&lt;p&gt;As the title indicates, Time is creating quite a stir once again as disgruntled logical positivists have infiltrated the Greenwich Observatory and started mucking about.&lt;/p&gt;
+
+&lt;p&gt;In a move considered by many to be a coup launched by Greenwich on our religious freedoms, such as to worship any gods we please, halving the number of days in a week and using a 48hr clock whereby time will accelerate to be twice as fast on the last day of the week to accommodate the previous uneven (id est odd) system of day demarcation will begin effective Fourday at 47:58 (59 minutes past being a mere 30 seconds from Oneday in deprecated terms, but will be considered a round minute in relative Fourday measures). The four day week, they argue, may prove to be easier for future generations to comprehend as an understanding of Special Relativity becomes more commonplace and there are rudimentary plans for Fourday to gradually extend, without anyone noticing, to become the same absolute length as Oneday, Twoday and Threeday, though internally it will remain exactly the same.&lt;/p&gt;
+
+&lt;p&gt;Downing Street has stated that this might “harm international relations” but have yet to condemn the announcement. Further concerns from the technology journalism sector raise the issue of a potential “millennium bug times 3.5 -like catastrophe”. Google has yet to announce the solution to those concerns.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“times 3.5”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There are also growing rumours that numerous international physicists are investigating whether the enforcement of relative time shifts could cause the British Isles to exhibit different gravitational properties to the rest of the planet, causing England in particular to begin to take a different orbit around the Sun. Greenwich, however, insists that Britain will drag the world with it, kicking and screaming if necessary, along this new orbit rather than undergo the ardour of seceding from Earth.&lt;/p&gt;
+
+&lt;p&gt;The current twelve-month cycle will be retained in accordance with its concurrence to annual practicalities. Years will also continue to proceed in the same manner, but in their case due to sufficient degrees of existing arbitrariness.&lt;/p&gt;
+
+&lt;p&gt;Greenwich has yet to specify whether the first Oneday will replace the old Sunday or Monday, leading to further disconcert.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Dear Esther</title>
+   <link href="http://robsafar.co.uk//dear-esther"/>
+   <updated>2012-09-04T00:00:00+01:00</updated>
+   <id>http://robsafar.co.uk/dear-esther</id>
+   <content type="html">&lt;p&gt;There is a niche discipline amongst game makers that can be called Arthouse. While shooting, driving and galloping form the mainstay of interesting things to do in a video game, some try to give you something else to be impressed with, to compliment the instant gratification you need from caving in simulated people’s heads with all manner of simulated objects. Then, some choose to break from that trend and go further - perhaps just to see what would happen, perhaps out of an avant garde esteem for their craft - and strip out the worn old modes of action gratification altogether. Few video games strip away the action to such a degree as &lt;em&gt;Dear Esther&lt;/em&gt;, and fewer have the boldness to pursue such a minimalist course. But it certainly can pay off.&lt;/p&gt;
+
+&lt;p&gt;This game is a mod, an adaptation of another game engine to produce a story that is different from the original. Thankfully, it is common for some of the best game companies to intentionally allow people to modify the games as this tends to promote longevities of novelty and, resultingly, use. Many producers still take pride in the product as an artifact, one that can be appropriated by others and reused amongst a community. Having a community of players is also the best way to ensure that the sales of your game will continue beyond its release.&lt;/p&gt;
+
+&lt;p&gt;Half Life 2 was a big hit amongst the gaming community, one that was highly anticipated after the success of the first Half Life and, almost unilaterally, did not disappoint. Its biggest selling point, other than the continuation of a long-missed narrative, was the Source engine, the mechanics of the virtual physics world in which the game would unfold.&lt;/p&gt;
+
+&lt;p&gt;Since the age of Pong, we’ve been able to simulate solid objects colliding in a virtual environment, but for a long time it has proved very tricky to get certain worldly phenomena to render in a convincing way; like dust, mist, water and fire. Source provided a platform that could do that and the modding is well underway by indie games makers.&lt;/p&gt;
+
+&lt;p&gt;Dear Esther is one of those mods. You don’t need to buy any other game to add it onto, it can be downloaded as a standalone game too.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“A deserted island… a lost man… memories of a fatal crash… a book written by a dying explorer.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Dear Esther is an award winning, critically acclaimed, experimental first-person game.&lt;/p&gt;
+
+&lt;h2 id=&quot;scenery&quot;&gt;Scenery&lt;/h2&gt;
+
+&lt;p&gt;As you boot into its first chapter, you find yourself on a coastline. Fitting, as one of the selling points of the Source engine is the way it handles water. Fluid reflections of a looming, cloudy sky sway in the distance that somehow calls you nearer - and if the sublimity takes you, you can always wade into that water and drown. Doing so prompts an interesting short scene, like a dream, from which you are called back by the narrator.&lt;/p&gt;
+
+&lt;p&gt;You’re flanked by a moving, reflective ocean and surrounded by wind. Wind! As you move onward through the seemingly endless scenery, airborne seeds and leaves swirl about you as real objects that you can almost reach in and touch. Like every other aspect to the game, everything has been created as visual phenomena, present-at-hand: to be observed rather than interacted with.&lt;/p&gt;
+
+&lt;p&gt;Those gamers familiar with the platform, like myself, will intuitively expect to be able to point and click objects, either to engage them in combat or to activate them; but here no additional equipment is available to achieve some mission target. In fact, you’re equipped with a torch that automatically lights when you enter a dark area (why indeed would you need the user to simply press a button when it’s dark, when much more complex manoeuvres are so often automated?) - the only modes of interaction that are available to you are to walk and to see.&lt;/p&gt;
+
+&lt;p&gt;That, in itself, might seem restrictive to many gamers, but when approached in the manner that Dear Esther uses, it is incredibly enabling. There just isn’t a need to be able to shoot, use zip-wires, activate consoles or drive fantastic vehicles. Though a work of fantasy, of course, this work requires from you much less of a suspension of disbelief. You walk and look, much as you do in a museum, gallery, beach or island. This game is a showcase for the artistry involved in creating a seemingly-living island, and for the poetry that the narrative offers.&lt;/p&gt;
+
+&lt;h2 id=&quot;narration&quot;&gt;Narration&lt;/h2&gt;
+
+&lt;p&gt;The poetic narrative supplements the environment perfectly. A voiceover in a very British storytelling accent (reminds me of cuts from Radiohead’s &lt;a href=&quot;http://www.youtube.com/watch?v=ukythkK4EPQ&amp;amp;t=15m7s&quot;&gt;Scotch Mist&lt;/a&gt;) punctuates your exploration with subtle, almost whispered intonations to help sustain your inquisitiveness. As this is a game based on exploration, the narration itself is littered throughout the landscape. There’s no telling when the voiceover will commence, but each time it is relevant to your environment and signifies progression.&lt;/p&gt;
+
+&lt;p&gt;Dear Esther is a minimalist game, playing with space as an artefact to observe. That minimalism is used in the narration, which delicately reveals itself in due course. You find remnants on the island of a life spoken of in the story, with references to past encounters being told as you witness that history written into the landscape itself. You’ll also hear snippets of reflections upon looking across some of its vast scenery. These short poems coupled with the detail and astounding realism of the world make for a very peaceful play that you’ll lament at its brevity if you race through to complete.&lt;/p&gt;
+
+&lt;h2 id=&quot;exploration&quot;&gt;Exploration&lt;/h2&gt;
+
+&lt;p&gt;Peaceful loss and peacefully being lost are at the core of this work, though you may eventually realise your place at the end. As there is nothing to accumulate, you may feel throughout the entire game that its unfolding is just the beginning of a much larger story - until the end. That all you carry with you in the game is only what you remember of the narrative and scenery is crucial to its minimal realism. Every notion of growth and progression is very much in you, the gamer, not in the character that you play.&lt;/p&gt;
+
+&lt;p&gt;While there are a few areas where your route is not obvious and detouring from the shortest possible path is rewarded, the course you take is mostly linear. That makes Dear Esther much more like a traditional novel or short story than nonlinear open-world games. Except a story in this form is much more in-the-moment, almost more aural than print could ever be.&lt;/p&gt;
+
+&lt;p&gt;Your feeling of being lost is sustained throughout the entire adventure that borrows somewhat from its parent game, Half Life 2, in terms of regularly setting your destination as a looming backdrop. The huge Citadel in HL2 that is visible frequently in most chapters of the game, reminding you of where you are headed and who you are, is replaced in Dear Esther by a simple radio tower placed upon the island’s highest point. While you have no narrative prompt to head in that direction, there is a very well-inspired assumption that &lt;em&gt;you might as well&lt;/em&gt;, for both its distinctness from the rest of your surroundings (atop it is the most radiant, but still vague and faint, artificial light in the game), and for the lack of anything else to really interact with as far as you can perceive. Inevitably though your path will lead you there, as it is literally the only place to go.&lt;/p&gt;
+
+&lt;h2 id=&quot;gratification&quot;&gt;Gratification&lt;/h2&gt;
+
+&lt;p&gt;Dear Esther is not a hard game. There isn’t a notion of difficulty engineered into the system, and a systematic approach, similar to the way you might approach a maze, will lead you to complete it. Many games won’t let you progress until you’re skilled enough, but the point of Dear Esther is not to improve your control-pad handling. This is art. That is its point.&lt;/p&gt;
+
+&lt;p&gt;It certainly does something very different with the medium of the video game, something that may in fact colour your appreciation of other games. Starkly contrasting against every other game involving repetitive actions and bullet-time, this is something that will show you how the potential of the video game compares with what’s actually being made, predominantly. Do we really need another Modern Warfare?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://dear-esther.com&quot;&gt;http://dear-esther.com&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Nihilism and Suicide</title>
+   <link href="http://robsafar.co.uk//nihilism-suicide"/>
+   <updated>2012-06-05T00:00:00+01:00</updated>
+   <id>http://robsafar.co.uk/nihilism-suicide</id>
+   <content type="html">&lt;p&gt;In the second part of his introduction, titled &lt;em&gt;An experiment in Nihilism&lt;/em&gt;, Mitchell introduces the task at hand. This is perhaps the most crucial part of his piece, if it is to be treated with any seriousness. What is the philosophical problem that he intends to address, if any? We find what might be his crucial question in the following:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Unbelieving in nihilism, I confront unbelief without believing in it. Because unbelief, so defined, is a not an abstract position, but the result of discerning a lack of ground for the various instances of belief I encounter, an experiment in nihilism so conceived amounts, not to the paradoxes of rational argument, but an empirical demonstration of the lack of ground for instances of belief. So instead of a purely rational argument, I will design and conduct an experiment to test the proposition of the meaninglessness of life.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;From the outset he acknowledges the paradox inherent in nihilism, but unfortunately strives to resolve it. He rightly remarks: “How can I believe in disbelief?” only to redefine nihilism: “So called ‘nihilism’… is more unbelief than belief in disbelief.” This is somewhat disappointing, clumsily dodging the prominent issue of how does one talk &lt;em&gt;of&lt;/em&gt; nihilism, rather than about nihilism as if it is utterly opaque. He then supposes that philosophy aims to identify what questions are important (‘what is the meaning [or point] of life’ seems to be an appropriate example) and that his task, informed by nihilism, is to determine whether there are any important questions. “[T]he most important question is whether there is an important question. The only serious question is whether there is anything to take seriously.” This is truly his saving grace, the ingenious point at which we can begin to talk about nihilism. Prior to this question, all we could do was mention nihilism as a looming existential spectre haunting the Western zeitgeist. Now, thanks to Mitchell, we can &lt;em&gt;do nihilism&lt;/em&gt;, paradoxically though, because it has become important, it has value.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;It might seem that he enters into his treatise with an agenda when he dives straight into a virulent onslaught against the bias of the living against death. Quite rightly, he notes the lack of any non-circular recourse (as he terms it, a lack of &lt;em&gt;rationality&lt;/em&gt;) backing up the value invested in life by the living. He seems to somewhat gleefully leap from the supposition that rationality cannot attribute value in living to the supposition that rationality leads inexorably to nihilism. “Could suicide represent the pinnacle of the rational life realized?”&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If reason is incapable of deducing ultimate, nonarbitrary human ends, and nothing can be judged as ultimately more important than anything else, then freedom is equal to slavery; cruelty is equal to kindness; love is equal to hate; war is equal to peace; dignity is equal to contempt; destruction is equal to creation; life is equal to death and death is equal to life.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;An easy retort to this might be that totalitarian rationality may indeed draw us towards nihilism, but only if we accept rationality as our flawlessly comprehensive and dogmatic method of thought or behaviour. In effect, the nihilism here stems more from the totalitarian dogmatism being applied to rationality than it does from rationality itself. If, on the other hand, we take rationality as a method of thinking that proves useful to us in certain situations, but not all, we might find ourselves much more cautious about this point. For instance, we might want to take pity on the couple who procreate under purely rational auspices, or the child who doesn’t smile when playing and learning but completely and solely rationally embarks upon their development. We might feel that they had missed something important from living.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;He also looks to draw from a linear progression of liberationism, contrasting this against an “Aristotelian, teleological conception of nature; a nature of natural slaves, natural aristocracy, natural patriarchy, natural inferiority of women, natural racial kinds, natural heterosexuality and, finally, natural self-preservation.”&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Just as it was considered unnatural or even insane that men be loosed from “natural” subordination to their king, or that women be unchained from “natural” subordination to their fathers and husbands, today it is considered unnatural that death be liberated from its “natural” subordination to the tyranny of life.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;He sees liberationism as an unrelenting force, that subordination of all kinds can and will be culturally undermined. There is a strong implicit connection here that suggests that progressive liberation is a direct child of rationalist practice, a point which isn’t controversial at all. What is controversial, however, is the following notion – that if rationalism is inherently nihilistic and progressive liberationism is a direct practice of rationalism, then progressive liberation is a nihilistic practice – or is at least guided and, in a sense, motivated by nihilism. This supposition is very much to the contrary of virtually all philosophical, strategic and policy works on liberation – to suggest that the suffrage movement was working towards nihilism might be met with vehement, perhaps violent, denial. Indeed, it is not controversial at all to suppose that liberation movements have generally been guided by a strong sense of morality, importance and value, rather than its opposite. Is there any salvaging of this analysis of liberationism? Liberationism has taken more recently to right-to-die causes and, in the spirit of liberation and fundamental morality, a liberationist-minded individual might want to hold a person’s own choice as to whether they live or die as being tantamount to a sacred, privileged right. But that in itself is a long way from it being ‘right’ to self-annihilate. Is this not the point of Mitchell’s Suicide Note? Not that Mitchell was free to kill himself (this is evident from the fact that he did, nor is it within the field of philosophy), nor that death and life be held in equal regard – but that death ought to be held in higher regard than life. What would make this Suicide Note philosophical would be a text that a reader can confront, with the question in mind: &lt;em&gt;Should I too kill myself?&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Although Mitchell is quite adamant in this chapter that the roots of his philosophy are rationalism and liberationism, there are inconsistencies in marrying these two with nihilism. We have seen that rationalism cannot attribute value to living, but it is a non sequitur to say that rationalism favours death. We have also seen that liberationism is informed by a decidedly ethical approach and not by nihilism. But it is to nihilism that he returns and thereby redeems his task and experiment. His grounding in nihilism is so far sufficiently solid for us to continue with his work, if for any reason then to find out by what method he begins to search for the answer to the most important question – is there an important question?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Only by ruthlessly exposing the comfortable biases towards existence can one reckon with the implications of the valuelessness of existence.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Standing at the foot of his mountainous task, he is ready to shed the heavy load we all carry and stand before us naked but invulnerable. It matters less how he reached this point when we consider the heights he could reach.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Mitchell Heisman's Masterpiece</title>
+   <link href="http://robsafar.co.uk//mitchell-heismans-masterpiece"/>
+   <updated>2012-01-02T00:00:00+00:00</updated>
+   <id>http://robsafar.co.uk/mitchell-heismans-masterpiece</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;On Sept. 18, Mitchell Heisman blew his brains out with a revolver on the steps of Harvard Memorial Church in front of a tour group of 30 people.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;While not noteworthy in and of itself, suicides on college campuses not being totally unheard of, what is noteworthy about Mitchell Heisman is the 1,905-page suicide note he emailed to over 400 people in the hours before his exit.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;Excerpt from “&lt;a href=&quot;http://cupwire.ca/articles/37979&quot;&gt;Epic suicide note a masterful work of philosophy&lt;/a&gt;” on Canadian University Press&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Whether or not Mitchell Heisman’s Suicide Note is a “work of philosophy” is the question that can identify this document as either an informed challenge upon all of our continued decisions to remain alive or merely a long suicide note that has been academically referenced. It is to investigate this question that we must &lt;em&gt;treat&lt;/em&gt; Suicide Note as philosophy.&lt;/p&gt;
+
+&lt;p&gt;It is perhaps an unfair expectation to place on a writer, that they should live according to their writing. We’d of course expect a policeman, whose role involves the implementation of the condemnation of crimes against the public and state, to not engage in those crimes himself. And of a politician, campaigning against benefit fraud, we’d expect him not to be making fraudulent or excessive claims in a similar vein. But of an author, whose practice is to tell a story – true or otherwise – we are asking perhaps too much.&lt;/p&gt;
+
+&lt;p&gt;An author of fiction, for example crime fiction, will research their subject and hypothesise around tales that may be of interest without committing a single crime. In an author of non-fiction, however, we would expect to find some significant authority, beyond the fiction writer’s simple research. Anybody can research anything, it essentially involves reading, which the reader is (more than likely) already doing. From the author of non-fiction we would expect to see experience, privileged access to something that they can impart to us through their words.&lt;/p&gt;
+
+&lt;p&gt;And of the philosopher, what do we expect of them, the human?&lt;/p&gt;
+
+&lt;p&gt;It can often be difficult, at least controversial, to place philosophy under fiction or non-fiction. Mitchell Heisman, whether under either category, took it upon himself to write with the utmost earnestness. Performing serious philosophy into death and ultimately self-killing, Mitchell enacted his philosophy not despite but in spite of its being a danger to his health. It is for this reason that I must stipulate that by his ‘masterpiece’ I mean not his work or his life or his death but the logical form, the relationship, the sense that he made between them.&lt;/p&gt;
+
+&lt;p&gt;In respect of Mitchell’s commitment to his philosophy, it is necessary to provide here a serious commentary, dissection and criticism of the presented text. This document, into which he invested the rest of his life, may embody the nihilism that challenges us every authentic moment of our lives. Gaze into this darkness, beloved reader, as we lay down for you the ladder by which you may climb out.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.suicidenote.info/&quot;&gt;Join us as tourists of annihilation&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
 
 </feed>

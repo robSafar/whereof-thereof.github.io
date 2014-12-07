@@ -1,0 +1,87 @@
+---
+layout: home
+title: Home
+---
+
+<script type="text/javascript">
+    WebFontConfig = {
+        google: { families: [ 'Damion::latin' ] }
+    };
+(function() {
+ var wf = document.createElement('script');
+ wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+ '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+ wf.type = 'text/javascript';
+ wf.async = 'true';
+ var s = document.getElementsByTagName('script')[0];
+ s.parentNode.insertBefore(wf, s);
+ })(); </script>
+
+<p class="">Ceci n’est pas un site Web d'une page</p>
+
+<p>We are Rob Safar and we’re paying for the domain <code>situationi.st</code>. We’re not really proper situationists - like who doesn’t love a bit of Guy Debord anyway - but we totally like thinking outside the box and figured Hey! That’s loads in common. More than enough to use it as a catchy title. Not as a business name though.</p>
+
+<h3>We’re Rob Safar, and always will be.</h3>
+
+<div id="robs-staff">
+<label id="rob-director-image" class="staff"><img src=""></label>
+<input type="checkbox" id="rob-director-toggle"/>
+<div id="rob-director-overlay"><span>Rob Safar</span><br>Director</div>
+
+<label id="rob-promises-image" class="staff"><img src=""></label>
+<input type="checkbox" id="rob-promises-toggle"/>
+<div id="rob-promises-overlay"><span>Rob Safar</span><br>Head of Promises</div>
+
+<label id="rob-acronym-image" class="staff"><img src=""></label>
+<input type="checkbox" id="rob-acronym-toggle"/>
+<div id="rob-acronym-overlay"><span>Rob Safar</span><br>Acronym Manager</div>
+
+<label id="rob-postponement-image" class="staff"><img src=""></label>
+<input type="checkbox" id="rob-postponement-toggle"/>
+<div id="rob-postponement-overlay"><span>Rob Safar</span><br>Postponement Manager</div>
+
+<label id="rob-upsidedown-image" class="staff"><img src=""></label>
+<input type="checkbox" id="rob-upsidedown-toggle"/>
+<div id="rob-upsidedown-overlay"><span>Rob Safar</span><br>Upside-Down Manager</div>
+
+<label id="rob-techtoucher-image" class="staff"><img src=""></label>
+<input type="checkbox" id="rob-techtoucher-toggle"/>
+<div id="rob-techtoucher-overlay"><span>Rob Safar</span><br>Technology Toucher</div>
+</div>
+
+<p>We pride ourselves on our talent for micro-synergistic node linking solutions. Networked-communications, cyber-relationships, E-motions. Ever noticed that your pens weren’t neatly aligned with each other and couldn’t help but rearrange them? Imagine these pens aren’t pens but strategic decisions. Exactly. Where are your efficiencies at?</p>
+
+<p>We’re huge fans of <strike>parallax</strike>parallel stationary, and we can help you to get (and keep) a grip on your E-motional wellbeing.</p>
+
+<h2>Hereof:</h2>
+<div class="related">
+    <ul class="related-posts">
+        {% for post in site.posts limit:5 %}
+        <li>
+            <h3>
+                <a href="{{ post.url }}">
+                    {{ post.title }}
+                    <small>{{ post.date | date_to_string }}</small>
+                </a>
+            </h3>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+
+<!--<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h2 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
+  </div>
+  <hr>
+  {% endfor %}
+</div>-->

@@ -474,3 +474,25 @@ a.pagination-item:hover {
     .page ul li { width: 40%; float: left; margin-left: 5%; margin-right: 5%;}
     .page ul { display: inline-block; }
 }*/
+
+div#robs-staff input { display: none; }
+label.staff {
+    padding: 1px 5px 1px 5px;
+    border-radius: 5px;
+    border: 1px solid #007998;
+}
+label.staff:hover {
+    border-color: rgba(0, 121, 152, 0.5);
+}
+#rob-director-overlay, #rob-promises-overlay, #rob-acronym-overlay, #rob-postponement-overlay, #rob-upsidedown-overlay, #rob-techtoucher-overlay {
+    transition: opacity 1s;
+    -webkit-transition: opacity 1s;
+    opacity: 0;
+    height: 0;
+    overflow: hidden;
+}
+#rob-director-toggle:checked + #rob-director-overlay, #rob-promises-toggle:checked + #rob-promises-overlay, #rob-acronym-toggle:checked + #rob-acronym-overlay, #rob-postponement-toggle:checked + #rob-postponement-overlay, #rob-upsidedown-toggle:checked + #rob-upsidedown-overlay, #rob-techtoucher-toggle:checked + #rob-techtoucher-overlay {
+    height: auto;
+    opacity: 1;
+    padding: 20px 0 20px 0;
+}

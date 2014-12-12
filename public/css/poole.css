@@ -11,7 +11,7 @@
  *
  * Designed, built, and released under MIT license by @mdo. Learn more at
  * https://github.com/poole/poole.
- * 
+ *
  * Edits for http://whereof.thereof.co.uk by http://twitter.com/robsafar
  */
 
@@ -270,7 +270,6 @@ tbody tr:nth-child(odd) th {
   font-weight: 300;
 }
 
-
 /*
  * Messages
  *
@@ -462,7 +461,7 @@ a.pagination-item:hover {
  *
  * Keeping the custom whereof.thereof styling separate, pending better organisation
  */
- 
+
 #feed { margin: 1rem auto; display: inline-block; }
 #feed div { width: 17rem; height: 7rem; overflow: hidden; margin: 0.5rem; padding: 1rem; border-radius: 0.3rem; float: left; box-shadow: 3px 3px 7px #515151; }
 .feedMedium { background: url('https://s3-eu-west-1.amazonaws.com/whereofthereofmedia/icon_feed-medium.png') no-repeat right bottom; }
@@ -474,25 +473,3 @@ a.pagination-item:hover {
     .page ul li { width: 40%; float: left; margin-left: 5%; margin-right: 5%;}
     .page ul { display: inline-block; }
 }*/
-
-div#robs-staff input { display: none; }
-label.staff {
-    padding: 1px 5px 1px 5px;
-    border-radius: 5px;
-    border: 1px solid #007998;
-}
-label.staff:hover {
-    border-color: rgba(0, 121, 152, 0.5);
-}
-#rob-director-overlay, #rob-promises-overlay, #rob-acronym-overlay, #rob-postponement-overlay, #rob-upsidedown-overlay, #rob-techtoucher-overlay {
-    transition: opacity 1s;
-    -webkit-transition: opacity 1s;
-    opacity: 0;
-    height: 0;
-    overflow: hidden;
-}
-#rob-director-toggle:checked + #rob-director-overlay, #rob-promises-toggle:checked + #rob-promises-overlay, #rob-acronym-toggle:checked + #rob-acronym-overlay, #rob-postponement-toggle:checked + #rob-postponement-overlay, #rob-upsidedown-toggle:checked + #rob-upsidedown-overlay, #rob-techtoucher-toggle:checked + #rob-techtoucher-overlay {
-    height: auto;
-    opacity: 1;
-    padding: 20px 0 20px 0;
-}

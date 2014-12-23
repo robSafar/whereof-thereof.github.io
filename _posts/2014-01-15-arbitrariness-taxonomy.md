@@ -20,7 +20,7 @@ Market analysts then take the pool of data that has been collected and categoris
 
 However at this point the mistake may easily be made, given the categorisations we have described, of saying that all categorisations and taxonomies are arbitrary - extending this statement to apply to the techniques and findings of naturalism and the natural sciences. This mistake, though casual, was encountered in our conversation and it is that which I wish to challenge most vehemently, for the implications are that there is no truth to the genealogy of species, no truth to the astronomy discerned from recent data obtained through Hubble, no truth to the distinctions between chemical elements - all of the scientific categorisations obtained through the practice of clinical observation.
 
-<hr?
+<hr>
 
 I oughtn't need to explain that a Hydrogen atom still has a single orbiting electron, by any other name. I oughtn't need to stipulate that differences between noumena can exist without their being perceived (phenomenal-ised) - otherwise we are left in a solipsistic position, no matter how social our solipsism might seem to be. Even if the noumena, the ontical and the thing-in-itself cannot be apprehended or perceived directly at all, no serious philosophy has been able to maintain that these do not independently exist. It is quite simply a position that is untenable.
 

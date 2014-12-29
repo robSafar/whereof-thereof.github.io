@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        /:title/
 
 # Setup
-title:            Rob Safar
-tagline:          ಠ_ರೃ
-url:              http://robsafar.co.uk
+title:            situationi.st
+tagline:          :rob safar
+url:              http://situationi.st
 paginate:         1
 baseurl:          /
 author:
@@ -20,11 +20,10 @@ author:
 version:          1.0.0
 repository:       https://github.com/whereof-thereof/whereof-thereof.github.io
 
-pages_list:       
+pages_list:
   About:          '/about'
   Projects:       '/projects'
   Archive:        '/archive'
-  RSS:            '/atom.xml'
 
 gems:
   - jekyll-sitemap

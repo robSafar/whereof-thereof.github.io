@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Rob Safar</title>
- <link href="http://robsafar.co.uk/atom.xml" rel="self"/>
- <link href="http://robsafar.co.uk/"/>
- <updated>2014-12-12T22:13:04+00:00</updated>
- <id>http://robsafar.co.uk</id>
+ <title>situationi.st</title>
+ <link href="http://situationi.st/atom.xml" rel="self"/>
+ <link href="http://situationi.st/"/>
+ <updated>2014-12-29T13:23:50+00:00</updated>
+ <id>http://situationi.st</id>
  <author>
    <name>Rob Safar</name>
    <email>whereof@thereof.co.uk</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Haraway's Theory of History in the Cyborg Manifesto</title>
-   <link href="http://robsafar.co.uk//haraways-theory-history-cyborg-manifesto"/>
+   <link href="http://situationi.st//haraways-theory-history-cyborg-manifesto"/>
    <updated>2014-11-28T00:00:00+00:00</updated>
-   <id>http://robsafar.co.uk/haraways-theory-history-cyborg-manifesto</id>
+   <id>http://situationi.st/haraways-theory-history-cyborg-manifesto</id>
    <content type="html">&lt;p&gt;Donna Haraway’s approach to media history is characterised by both a rejection of technological determinism and a sensitivity to the ideological impacts that media have. Though still utterly anthropocentric, this approach doesn’t merely put humans at the centre of history but also begins to undermine the conception of an easily taxonomised and identified humanity. Human history for Haraway isn’t a rigid procession of cause determining effect, but a process of becoming that depends upon human history’s conception of itself, via the medium of myth.&lt;/p&gt;
 
 &lt;p&gt;The Cyborg Manifesto strikes a nuanced balance between the discourses of constructivism and determinism by integrating this unresolved contemporary question of agency and identity into a revolutionary body. This question, of whether we control our machines or if these media determine (the possibilities of) our behaviour, is far from clear-cut and so rather than playing partisan Haraway is more intrigued by the question itself. Though the reader may lean towards one position or the other, it is the ongoing debate of agency (both relative and absolute) that forms the quintessential characteristic of the human at the culmination of history which concerns her - the fact that our historical assumptions are disrupted as to where the line can be drawn delineating the human from nature and the external world.&lt;/p&gt;
@@ -59,9 +59,9 @@
  
  <entry>
    <title>RSS via API</title>
-   <link href="http://robsafar.co.uk//rss-via-api"/>
+   <link href="http://situationi.st//rss-via-api"/>
    <updated>2014-11-07T00:00:00+00:00</updated>
-   <id>http://robsafar.co.uk/rss-via-api</id>
+   <id>http://situationi.st/rss-via-api</id>
    <content type="html">&lt;p&gt;The latest addition to this site is another piece of rudimentary JavaScripting. The trouble with maintaining blogs with a particular remit is that it often makes sense to set up a new blog for every topic you want to write about. Sure - you can divide one blog into categories, but unless you’re an organisation with so much content that it would be impossible to navigate otherwise, there are advantages to having one place where you talk about one thing, and so on. If someone lands on my site to read a post about Drupal, they’re not really likely to then go on to read something I’ve written about technological determinism straight afterwards just because it’s on the same domain. Whatever, I’m sure there are counter-arguments on either side, but I’m very much used to having my digital footprint spread over several different sites.&lt;/p&gt;
 
 &lt;p&gt;That said, I do see advantages to being able to tie all these things together into some slightly more consistent ‘digital identity’. &lt;a href=&quot;http://twitter.com/robsafar&quot;&gt;My Twitter profile&lt;/a&gt;, &lt;a href=&quot;http://plus.google.com/u/0/+RobSafar&quot;&gt;my Google+ persona&lt;/a&gt;, &lt;a href=&quot;http://github.com/whereof-thereof&quot;&gt;my Github account&lt;/a&gt;, &lt;a href=&quot;http://medium.com/@robsafar&quot;&gt;my Medium blogs&lt;/a&gt; and so on all link to &lt;code&gt;whereof.thereof.co.uk&lt;/code&gt;, so it makes sense to have this as my &lt;em&gt;Rome&lt;/em&gt;, where all roads lead. As I’m preparing to set up another blog (though I’m undecided which platform will be best suited to it) there’s going to be a greater need to tie these things together.&lt;/p&gt;
@@ -150,9 +150,9 @@
  
  <entry>
    <title>My first markdown post</title>
-   <link href="http://robsafar.co.uk//my-first-markdown-post"/>
+   <link href="http://situationi.st//my-first-markdown-post"/>
    <updated>2014-07-27T00:00:00+01:00</updated>
-   <id>http://robsafar.co.uk/my-first-markdown-post</id>
+   <id>http://situationi.st/my-first-markdown-post</id>
    <content type="html">&lt;p&gt;I spent yesterday setting up my GitHub Pages site to use Jekyll, rather than the custom Bootstrap static markup I was using previously. I had wanted more control (and less &lt;em&gt;clutter&lt;/em&gt;) than provided by Blogger and Tumblr (paying a monthly fee to have a WordPress site seemed excessive for my requirements), so I had cobbled together a basic framework that I was manually copying across to new &lt;code&gt;.html&lt;/code&gt; files when new pages needed to be made. It wasn’t too conducive to mobile contributions.&lt;/p&gt;
 
 &lt;p&gt;In fact, the last iteration of &lt;code&gt;whereof.thereof.co.uk&lt;/code&gt; wasn’t really a blog at all, rather a landing page with a link to my single completed project. I’d been blogging using &lt;a href=&quot;http://medium.com/@robsafar&quot;&gt;Medium&lt;/a&gt;, which is a fine platform in itself, but for its simplicity and elegance I had sacrificed customisability. I’m thinking of bringing across a couple of select articles, and may well continue to use Medium for articles proper.&lt;/p&gt;
@@ -182,9 +182,9 @@
  
  <entry>
    <title>I have these memories from my life. None of them happened…</title>
-   <link href="http://robsafar.co.uk//i-have-these-memories-from-my-life-none-of-them-happened"/>
+   <link href="http://situationi.st//i-have-these-memories-from-my-life-none-of-them-happened"/>
    <updated>2014-07-10T00:00:00+01:00</updated>
-   <id>http://robsafar.co.uk/i-have-these-memories-from-my-life-none-of-them-happened</id>
+   <id>http://situationi.st/i-have-these-memories-from-my-life-none-of-them-happened</id>
    <content type="html">&lt;h2 id=&quot;the-relationship-between-the-virtual-and-the-real&quot;&gt;The relationship between the virtual and the real&lt;/h2&gt;
 
 &lt;p&gt;Baudrillard proclaimed that “[t]he real [Vietnam] war is waged by Coppola as it is by Westmoreland” — entangling the ‘real’ war and the cinematic simulation of the war as virtually the same event. He goes further, saying that this profound entanglement inspires us to believe that “the war in Vietnam ‘in itself’ perhaps in fact never happened…”&lt;/p&gt;
@@ -273,9 +273,9 @@
  
  <entry>
    <title>Pierre Menard, Author of the Quixote, Unbound</title>
-   <link href="http://robsafar.co.uk//pierre-menard-author-quixote-unbound"/>
+   <link href="http://situationi.st//pierre-menard-author-quixote-unbound"/>
    <updated>2014-06-13T00:00:00+01:00</updated>
-   <id>http://robsafar.co.uk/pierre-menard-author-quixote-unbound</id>
+   <id>http://situationi.st/pierre-menard-author-quixote-unbound</id>
    <content type="html">&lt;h2 id=&quot;an-experiment-in-cybertext&quot;&gt;An experiment in cybertext&lt;/h2&gt;
 
 &lt;blockquote&gt;
@@ -361,9 +361,9 @@
  
  <entry>
    <title>Biopolitics of the Panoptical 'Light' Web</title>
-   <link href="http://robsafar.co.uk//biopolitics-panoptical-light-web"/>
+   <link href="http://situationi.st//biopolitics-panoptical-light-web"/>
    <updated>2014-04-21T00:00:00+01:00</updated>
-   <id>http://robsafar.co.uk/biopolitics-panoptical-light-web</id>
+   <id>http://situationi.st/biopolitics-panoptical-light-web</id>
    <content type="html">&lt;p&gt;Visiting a website is a complex undertaking, though less so for the visitor themselves. While retrieving information, making a purchase or disseminating your latest selfie is a task that website providers go to great lengths to make as easy to do as possible, the mechanics of what actually occurs during each of these tasks is growing increasingly intricate. The process by which the apparatuses are optimised is inherently responsive — and in order to respond one must first observe.&lt;/p&gt;
 
 &lt;p&gt;This observation qua data collection is largely automated, with visitor activities being recorded as meticulously as would be expected of a computational mechanism. Though mostly only trends are eventually viewed by a human being, this automated surveillance from an obfuscated position is an issue of biopolitical significance.&lt;/p&gt;
@@ -520,9 +520,9 @@
  
  <entry>
    <title>Creative Evolution: straddling the fence of positivism?</title>
-   <link href="http://robsafar.co.uk//creative-evolution-straddling-the-fence-of-positivism"/>
+   <link href="http://situationi.st//creative-evolution-straddling-the-fence-of-positivism"/>
    <updated>2014-02-28T00:00:00+00:00</updated>
-   <id>http://robsafar.co.uk/creative-evolution-straddling-the-fence-of-positivism</id>
+   <id>http://situationi.st/creative-evolution-straddling-the-fence-of-positivism</id>
    <content type="html">&lt;p&gt;Vital process is the term used to describe what our understanding of media should shift to, away from a fascination with mere objects - phones, watches, TVs etc - and towards the social, biological and technical processes in which these objects are embedded. Vital process gives a more holistic picture of the ways of being that we find ourselves participating in when we engage with new media. This approach brings new and digital media study closer to anthropology, but with a particular (and conscientious) focus on ‘modern’ societies that have the economic power to wield these media technologies.&lt;/p&gt;
 
 &lt;p&gt;The term ‘vital process’ owes much, including its etymology, to the work of Henri Bergson who, in his 1907 publication called &lt;em&gt;Creative Evolution&lt;/em&gt; posits a metaphysical &lt;em&gt;élan vital&lt;/em&gt; (or vital impetus) as an alternative explanation to the nascent Darwinism that was being explored to describe the process of evolution. &lt;em&gt;Life after New Media&lt;/em&gt; comes to refer to Bergson a number of times, in a manner that is perhaps less crucial to the overall theme of the book than its name might suggest. But, where the notion of creative evolution does come into play, we find at certain times parallels and at other times carefully avoided conflicts with another field of study - this time from the other side of the positivist versus antipositivist divide, that of memetics.&lt;/p&gt;
@@ -565,9 +565,9 @@
  
  <entry>
    <title>On the arbitrariness of taxonomy</title>
-   <link href="http://robsafar.co.uk//arbitrariness-taxonomy"/>
+   <link href="http://situationi.st//arbitrariness-taxonomy"/>
    <updated>2014-01-15T00:00:00+00:00</updated>
-   <id>http://robsafar.co.uk/arbitrariness-taxonomy</id>
+   <id>http://situationi.st/arbitrariness-taxonomy</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;“All categorisation is arbitrary”&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -588,7 +588,7 @@
 
 &lt;p&gt;However at this point the mistake may easily be made, given the categorisations we have described, of saying that all categorisations and taxonomies are arbitrary - extending this statement to apply to the techniques and findings of naturalism and the natural sciences. This mistake, though casual, was encountered in our conversation and it is that which I wish to challenge most vehemently, for the implications are that there is no truth to the genealogy of species, no truth to the astronomy discerned from recent data obtained through Hubble, no truth to the distinctions between chemical elements - all of the scientific categorisations obtained through the practice of clinical observation.&lt;/p&gt;
 
-&lt;p&gt;&amp;lt;hr?&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;p&gt;I oughtn’t need to explain that a Hydrogen atom still has a single orbiting electron, by any other name. I oughtn’t need to stipulate that differences between noumena can exist without their being perceived (phenomenal-ised) - otherwise we are left in a solipsistic position, no matter how social our solipsism might seem to be. Even if the noumena, the ontical and the thing-in-itself cannot be apprehended or perceived directly at all, no serious philosophy has been able to maintain that these do not independently exist. It is quite simply a position that is untenable.&lt;/p&gt;
 
@@ -616,9 +616,9 @@
  
  <entry>
    <title>Iconography of the Technology Religion</title>
-   <link href="http://robsafar.co.uk//iconography-technology-religion"/>
+   <link href="http://situationi.st//iconography-technology-religion"/>
    <updated>2013-10-14T00:00:00+01:00</updated>
-   <id>http://robsafar.co.uk/iconography-technology-religion</id>
+   <id>http://situationi.st/iconography-technology-religion</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/zo3TEax.png&quot; alt=&quot;An iPhone Odyssey&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Margaret Wertheim posited famously the notion of the new religion of technology in &lt;em&gt;The Pearly Gates of Cyberspace&lt;/em&gt; and Brett Robinson in this rather entertaining article, &lt;a href=&quot;http://www.wired.com/opinion/2013/08/how-jobs-turned-technology-and-media-into-religion&quot;&gt;How Steve Jobs Turned Technology - and Apple - into Religion&lt;/a&gt;, does well to analogise Apple with a religious sect.&lt;/p&gt;
@@ -682,9 +682,9 @@
  
  <entry>
    <title>Time Causes Yet More Controversy</title>
-   <link href="http://robsafar.co.uk//time-causes-yet-more-controversy"/>
+   <link href="http://situationi.st//time-causes-yet-more-controversy"/>
    <updated>2012-10-29T00:00:00+00:00</updated>
-   <id>http://robsafar.co.uk/time-causes-yet-more-controversy</id>
+   <id>http://situationi.st/time-causes-yet-more-controversy</id>
    <content type="html">&lt;p&gt;As the title indicates, Time is creating quite a stir once again as disgruntled logical positivists have infiltrated the Greenwich Observatory and started mucking about.&lt;/p&gt;
 
 &lt;p&gt;In a move considered by many to be a coup launched by Greenwich on our religious freedoms, such as to worship any gods we please, halving the number of days in a week and using a 48hr clock whereby time will accelerate to be twice as fast on the last day of the week to accommodate the previous uneven (id est odd) system of day demarcation will begin effective Fourday at 47:58 (59 minutes past being a mere 30 seconds from Oneday in deprecated terms, but will be considered a round minute in relative Fourday measures). The four day week, they argue, may prove to be easier for future generations to comprehend as an understanding of Special Relativity becomes more commonplace and there are rudimentary plans for Fourday to gradually extend, without anyone noticing, to become the same absolute length as Oneday, Twoday and Threeday, though internally it will remain exactly the same.&lt;/p&gt;
@@ -705,9 +705,9 @@
  
  <entry>
    <title>Dear Esther</title>
-   <link href="http://robsafar.co.uk//dear-esther"/>
+   <link href="http://situationi.st//dear-esther"/>
    <updated>2012-09-04T00:00:00+01:00</updated>
-   <id>http://robsafar.co.uk/dear-esther</id>
+   <id>http://situationi.st/dear-esther</id>
    <content type="html">&lt;p&gt;There is a niche discipline amongst game makers that can be called Arthouse. While shooting, driving and galloping form the mainstay of interesting things to do in a video game, some try to give you something else to be impressed with, to compliment the instant gratification you need from caving in simulated people’s heads with all manner of simulated objects. Then, some choose to break from that trend and go further - perhaps just to see what would happen, perhaps out of an avant garde esteem for their craft - and strip out the worn old modes of action gratification altogether. Few video games strip away the action to such a degree as &lt;em&gt;Dear Esther&lt;/em&gt;, and fewer have the boldness to pursue such a minimalist course. But it certainly can pay off.&lt;/p&gt;
 
 &lt;p&gt;This game is a mod, an adaptation of another game engine to produce a story that is different from the original. Thankfully, it is common for some of the best game companies to intentionally allow people to modify the games as this tends to promote longevities of novelty and, resultingly, use. Many producers still take pride in the product as an artifact, one that can be appropriated by others and reused amongst a community. Having a community of players is also the best way to ensure that the sales of your game will continue beyond its release.&lt;/p&gt;
@@ -760,9 +760,9 @@
  
  <entry>
    <title>Nihilism and Suicide</title>
-   <link href="http://robsafar.co.uk//nihilism-suicide"/>
+   <link href="http://situationi.st//nihilism-suicide"/>
    <updated>2012-06-05T00:00:00+01:00</updated>
-   <id>http://robsafar.co.uk/nihilism-suicide</id>
+   <id>http://situationi.st/nihilism-suicide</id>
    <content type="html">&lt;p&gt;In the second part of his introduction, titled &lt;em&gt;An experiment in Nihilism&lt;/em&gt;, Mitchell introduces the task at hand. This is perhaps the most crucial part of his piece, if it is to be treated with any seriousness. What is the philosophical problem that he intends to address, if any? We find what might be his crucial question in the following:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -805,9 +805,9 @@
  
  <entry>
    <title>Mitchell Heisman's Masterpiece</title>
-   <link href="http://robsafar.co.uk//mitchell-heismans-masterpiece"/>
+   <link href="http://situationi.st//mitchell-heismans-masterpiece"/>
    <updated>2012-01-02T00:00:00+00:00</updated>
-   <id>http://robsafar.co.uk/mitchell-heismans-masterpiece</id>
+   <id>http://situationi.st/mitchell-heismans-masterpiece</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;On Sept. 18, Mitchell Heisman blew his brains out with a revolver on the steps of Harvard Memorial Church in front of a tour group of 30 people.&lt;/p&gt;
 &lt;/blockquote&gt;

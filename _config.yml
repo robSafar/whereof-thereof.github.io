@@ -9,7 +9,6 @@ permalink:        /:title/
 title:            situationi.st
 tagline:          :rob safar
 url:              http://situationi.st
-paginate:         1
 baseurl:          /
 author:
   name:           Rob Safar

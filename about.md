@@ -4,7 +4,7 @@ title: About
 ---
 
 <div itemscope itemtype="http://data-vocabulary.org/Person">
-  I'm <span itemprop="name">Rob Safar</span> and <a href="http://whereof.thereof.co.uk" itemprop="url">whereof.thereof.co.uk</a> is my home. I'm based in <span itemprop="address" itemscope itemtype="http://data-vocabulary.org/Address"><span itemprop="locality">London</span>, <span itemprop="region">UK</span></span> and do Internet things as a <span itemprop="title">Digital Producer</span>.
+  I'm <span itemprop="name">Rob Safar</span> and <a href="http://situationi.st" itemprop="url">situationi.st</a> is my home. I'm based in <span itemprop="address" itemscope itemtype="http://data-vocabulary.org/Address"><span itemprop="locality">London</span>, <span itemprop="region">UK</span></span> and do Internet things as a <span itemprop="title">Digital Producer</span>.
 </div>
 
 <hr>

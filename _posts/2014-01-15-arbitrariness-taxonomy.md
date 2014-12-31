@@ -2,6 +2,7 @@
 layout: post
 title: "On the arbitrariness of taxonomy"
 permalink: arbitrariness-taxonomy
+tags: theory
 ---
 
 > "All categorisation is arbitrary"

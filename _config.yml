@@ -22,6 +22,7 @@ repository:       https://github.com/whereof-thereof/whereof-thereof.github.io
 pages_list:
   About:          '/about.html'
   Projects:       '/projects.html'
+  Tags:           '/tags/'
   Archive:        '/archive.html'
 
 gems:

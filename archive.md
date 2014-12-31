@@ -7,35 +7,22 @@ I had the pleasure of being interviewed by *Det Kreativa Facket* about using ope
 
 <hr>
 
-{% for post in site.posts %}
-* [ {{ post.title }} ]({{ post.url }}) &raquo; {{ post.date | date_to_string }}
-{% endfor %}
 
-<div id="feed"><h2>Elsewhereof:</h2></div>
+<ul>
+  {% for post in site.posts %}
 
-<!-- Get the RSS API from the horse's mouth: https://developers.google.com/feed/v1/devguide -->
-<script type="text/javascript" src="https://www.google.com/jsapi"></script>
-<script type="text/javascript">
-google.load("feeds", "1");
-function initialize() {
-var feed = new google.feeds.Feed("http://medium.com/feed/@robsafar");
-feed.load(function(result) {
-if (!result.error) {
-var container = document.getElementById("feed");
-for (var i = 0; i < result.feed.entries.length; i++) {
-var entry = result.feed.entries[i];
-var div = document.createElement("div");
-div.className = "feedMedium";
-var link = div.appendChild(document.createElement("a"));
-link.href = entry.link;
-link.appendChild(document.createTextNode(entry.title));
-var span = div.appendChild(document.createElement("span"));
-var info = entry.contentSnippet.replace("Continue reading on Medium", "");
-span.innerHTML = ' - ' + info;
-container.appendChild(div);
-}
-}
-});
-}
-google.setOnLoadCallback(initialize);
-</script>
+    {% unless post.next %}
+      <h3>{{ post.date | date: '%Y' }}</h3>
+    {% else %}
+      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+      {% if year != nyear %}
+        <h3>{{ post.date | date: '%Y' }}</h3>
+      {% endif %}
+    {% endunless %}
+
+    <li>{{ post.date | date:"%d %b" }} &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+

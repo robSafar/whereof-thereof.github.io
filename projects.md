@@ -10,7 +10,7 @@ This a straight-up, ongoing list of my projects. You can find most of these on [
 
 This is a little cybertext project, using the method of John Cayley's *Book Unbound* applied to Jorge Luis Borges' *Pierre Menard, Author of the Quixote*.
 
-* [Read the experiment](/MenardUnbound)
+* [Read the experiment](/MenardUnbound.html)
 * [Read about the experiment](/pierre-menard-author-quixote-unbound)
 
 ## Understanding Media: The Extensions of Memes

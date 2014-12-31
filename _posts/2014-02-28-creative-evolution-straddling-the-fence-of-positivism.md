@@ -2,6 +2,7 @@
 layout: post
 title: "Creative Evolution: straddling the fence of positivism?"
 permalink: creative-evolution-straddling-the-fence-of-positivism
+tags: theory
 ---
 
 Vital process is the term used to describe what our understanding of media should shift to, away from a fascination with mere objects - phones, watches, TVs etc - and towards the social, biological and technical processes in which these objects are embedded. Vital process gives a more holistic picture of the ways of being that we find ourselves participating in when we engage with new media. This approach brings new and digital media study closer to anthropology, but with a particular (and conscientious) focus on ‘modern’ societies that have the economic power to wield these media technologies.

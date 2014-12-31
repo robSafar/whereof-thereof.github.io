@@ -2,6 +2,7 @@
 layout: post
 title: "Dear Esther"
 permalink: dear-esther
+tags: review
 ---
 
 There is a niche discipline amongst game makers that can be called Arthouse. While shooting, driving and galloping form the mainstay of interesting things to do in a video game, some try to give you something else to be impressed with, to compliment the instant gratification you need from caving in simulated people's heads with all manner of simulated objects. Then, some choose to break from that trend and go further - perhaps just to see what would happen, perhaps out of an avant garde esteem for their craft - and strip out the worn old modes of action gratification altogether. Few video games strip away the action to such a degree as *Dear Esther*, and fewer have the boldness to pursue such a minimalist course. But it certainly can pay off.

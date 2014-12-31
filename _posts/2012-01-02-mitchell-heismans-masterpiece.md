@@ -2,6 +2,7 @@
 layout: post
 title: "Mitchell Heisman's Masterpiece"
 permalink: mitchell-heismans-masterpiece
+tags: nihilism
 ---
 
 > On Sept. 18, Mitchell Heisman blew his brains out with a revolver on the steps of Harvard Memorial Church in front of a tour group of 30 people.

@@ -65,6 +65,8 @@
             
             <a href="/projects.html">Projects</a>&nbsp;
             
+            <a href="/tags/">Tags</a>&nbsp;
+            
             <a href="/archive.html">Archive</a>&nbsp;
             </small>
     </h3>
@@ -83,76 +85,127 @@
 <hr />
 
 <ul>
-  <li>
-    <p><a href="/haraways-theory-history-cyborg-manifesto"> Haraway’s Theory of History in the Cyborg Manifesto </a> » 28 Nov 2014</p>
-  </li>
-  <li>
-    <p><a href="/rss-via-api"> RSS via API </a> » 07 Nov 2014</p>
-  </li>
-  <li>
-    <p><a href="/my-first-markdown-post"> My first markdown post </a> » 27 Jul 2014</p>
-  </li>
-  <li>
-    <p><a href="/i-have-these-memories-from-my-life-none-of-them-happened"> I have these memories from my life. None of them happened… </a> » 10 Jul 2014</p>
-  </li>
-  <li>
-    <p><a href="/pierre-menard-author-quixote-unbound"> Pierre Menard, Author of the Quixote, Unbound </a> » 13 Jun 2014</p>
-  </li>
-  <li>
-    <p><a href="/biopolitics-panoptical-light-web"> Biopolitics of the Panoptical ‘Light’ Web </a> » 21 Apr 2014</p>
-  </li>
-  <li>
-    <p><a href="/creative-evolution-straddling-the-fence-of-positivism"> Creative Evolution: straddling the fence of positivism? </a> » 28 Feb 2014</p>
-  </li>
-  <li>
-    <p><a href="/arbitrariness-taxonomy"> On the arbitrariness of taxonomy </a> » 15 Jan 2014</p>
-  </li>
-  <li>
-    <p><a href="/iconography-technology-religion"> Iconography of the Technology Religion </a> » 14 Oct 2013</p>
-  </li>
-  <li>
-    <p><a href="/time-causes-yet-more-controversy"> Time Causes Yet More Controversy </a> » 29 Oct 2012</p>
-  </li>
-  <li>
-    <p><a href="/dear-esther"> Dear Esther </a> » 04 Sep 2012</p>
-  </li>
-  <li>
-    <p><a href="/nihilism-suicide"> Nihilism and Suicide </a> » 05 Jun 2012</p>
-  </li>
-  <li>
-    <p><a href="/mitchell-heismans-masterpiece"> Mitchell Heisman’s Masterpiece </a> » 02 Jan 2012</p>
-  </li>
+  
+
+    
+      <h3>2014</h3>
+    
+
+    <li>28 Nov &raquo; <a href="/haraways-theory-history-cyborg-manifesto">Haraway's Theory of History in the Cyborg Manifesto</a></li>
+  
+
+    
+      
+      
+      
+    
+
+    <li>07 Nov &raquo; <a href="/rss-via-api">RSS via API</a></li>
+  
+
+    
+      
+      
+      
+    
+
+    <li>27 Jul &raquo; <a href="/my-first-markdown-post">My first markdown post</a></li>
+  
+
+    
+      
+      
+      
+    
+
+    <li>10 Jul &raquo; <a href="/i-have-these-memories-from-my-life-none-of-them-happened">I have these memories from my life. None of them happened…</a></li>
+  
+
+    
+      
+      
+      
+    
+
+    <li>13 Jun &raquo; <a href="/pierre-menard-author-quixote-unbound">Pierre Menard, Author of the Quixote, Unbound</a></li>
+  
+
+    
+      
+      
+      
+    
+
+    <li>21 Apr &raquo; <a href="/biopolitics-panoptical-light-web">Biopolitics of the Panoptical 'Light' Web</a></li>
+  
+
+    
+      
+      
+      
+    
+
+    <li>28 Feb &raquo; <a href="/creative-evolution-straddling-the-fence-of-positivism">Creative Evolution: straddling the fence of positivism?</a></li>
+  
+
+    
+      
+      
+      
+    
+
+    <li>15 Jan &raquo; <a href="/arbitrariness-taxonomy">On the arbitrariness of taxonomy</a></li>
+  
+
+    
+      
+      
+      
+        <h3>2013</h3>
+      
+    
+
+    <li>14 Oct &raquo; <a href="/iconography-technology-religion">Iconography of the Technology Religion</a></li>
+  
+
+    
+      
+      
+      
+        <h3>2012</h3>
+      
+    
+
+    <li>29 Oct &raquo; <a href="/time-causes-yet-more-controversy">Time Causes Yet More Controversy</a></li>
+  
+
+    
+      
+      
+      
+    
+
+    <li>04 Sep &raquo; <a href="/dear-esther">Dear Esther</a></li>
+  
+
+    
+      
+      
+      
+    
+
+    <li>05 Jun &raquo; <a href="/nihilism-suicide">Nihilism and Suicide</a></li>
+  
+
+    
+      
+      
+      
+    
+
+    <li>02 Jan &raquo; <a href="/mitchell-heismans-masterpiece">Mitchell Heisman's Masterpiece</a></li>
+  
 </ul>
-
-<div id="feed"><h2>Elsewhereof:</h2></div>
-
-<!-- Get the RSS API from the horse's mouth: https://developers.google.com/feed/v1/devguide -->
-<script type="text/javascript" src="https://www.google.com/jsapi"></script>
-
-<script type="text/javascript">
-google.load("feeds", "1");
-function initialize() {
-var feed = new google.feeds.Feed("http://medium.com/feed/@robsafar");
-feed.load(function(result) {
-if (!result.error) {
-var container = document.getElementById("feed");
-for (var i = 0; i < result.feed.entries.length; i++) {
-var entry = result.feed.entries[i];
-var div = document.createElement("div");
-div.className = "feedMedium";
-var link = div.appendChild(document.createElement("a"));
-link.href = entry.link;
-link.appendChild(document.createTextNode(entry.title));
-var span = div.appendChild(document.createElement("span"));
-var info = entry.contentSnippet.replace("Continue reading on Medium", "");
-span.innerHTML = ' - ' + info;
-container.appendChild(div);
-}
-}
-});
-}
-google.setOnLoadCallback(initialize);
-</script>
 
 
 </div>
@@ -163,7 +216,6 @@ google.setOnLoadCallback(initialize);
 <div class="social">
     <a href="http://github.com/whereof-thereof" target="blank"><img src="https://whereofthereofmedia.s3.amazonaws.com/icon-github.png" alt="GitHub"></a>
     <a href="http://twitter.com/robsafar" target="blank"><img src="https://whereofthereofmedia.s3.amazonaws.com/icon-twitter.png" alt="Twitter"></a>
-    <a href="http://medium.com/@robsafar" target="blank"><img src="https://whereofthereofmedia.s3.amazonaws.com/icon-medium.png" alt="Medium"></a>
 </div>
 <div><p><a href="../sitemap.xml">Sitemap</a> &bull; <a href="../atom.xml">RSS</a></p></div>
 <p><sub>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.</sub></p>

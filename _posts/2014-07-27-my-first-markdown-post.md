@@ -2,13 +2,14 @@
 layout: post
 title: "My first markdown post"
 permalink: my-first-markdown-post
+tags: code text
 ---
 
 I spent yesterday setting up my GitHub Pages site to use Jekyll, rather than the custom Bootstrap static markup I was using previously. I had wanted more control (and less *clutter*) than provided by Blogger and Tumblr (paying a monthly fee to have a WordPress site seemed excessive for my requirements), so I had cobbled together a basic framework that I was manually copying across to new `.html` files when new pages needed to be made. It wasn't too conducive to mobile contributions.
 
 In fact, the last iteration of `whereof.thereof.co.uk` wasn't really a blog at all, rather a landing page with a link to my single completed project. I'd been blogging using [Medium](http://medium.com/@robsafar), which is a fine platform in itself, but for its simplicity and elegance I had sacrificed customisability. I'm thinking of bringing across a couple of select articles, and may well continue to use Medium for articles proper.
 
-But this is now my blog. Quick, off-the-cuff brain dumps and tailored, code-dependent pieces alike will find their home here - bearing in mind the medium itself. Blogging hosted on GitHub motivates a certain kind of writing, whereas hosting on Medium motivates something a little different. 
+But this is now my blog. Quick, off-the-cuff brain dumps and tailored, code-dependent pieces alike will find their home here - bearing in mind the medium itself. Blogging hosted on GitHub motivates a certain kind of writing, whereas hosting on Medium motivates something a little different.
 
 Does this matter at all in the hypertextual environment? Do people pay any attention to the CMS or server software that the content they're engaging utilises? I think it matters to me, in the same way a nice notebook inspires a different kind of writing than a napkin might. Medium tends towards the older, typewriter style approach to writing (while remaining authentically hypertextual and markup-cognizant), whereas GitHub and GitHub Pages tends much more towards writing prose and code texts using a *computer*.
 

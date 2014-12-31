@@ -2,6 +2,7 @@
 layout: post
 title: "Iconography of the Technology Religion"
 permalink: iconography-technology-religion
+tags: myth theory taxonomy
 ---
 
 ![An iPhone Odyssey](http://i.imgur.com/zo3TEax.png)

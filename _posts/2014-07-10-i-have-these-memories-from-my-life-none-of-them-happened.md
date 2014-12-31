@@ -2,6 +2,7 @@
 layout: post
 title: "I have these memories from my life. None of them happened…"
 permalink: i-have-these-memories-from-my-life-none-of-them-happened
+tags: theory virtuality
 ---
 
 ##The relationship between the virtual and the real

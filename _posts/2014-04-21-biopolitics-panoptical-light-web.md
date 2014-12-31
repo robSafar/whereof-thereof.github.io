@@ -2,6 +2,7 @@
 layout: post
 title: "Biopolitics of the Panoptical 'Light' Web"
 permalink: biopolitics-panoptical-light-web
+tags: theory
 ---
 
 Visiting a website is a complex undertaking, though less so for the visitor themselves. While retrieving information, making a purchase or disseminating your latest selfie is a task that website providers go to great lengths to make as easy to do as possible, the mechanics of what actually occurs during each of these tasks is growing increasingly intricate. The process by which the apparatuses are optimised is inherently responsive — and in order to respond one must first observe.

@@ -4,7 +4,7 @@
  <title>situationi.st</title>
  <link href="http://situationi.st/atom.xml" rel="self"/>
  <link href="http://situationi.st/"/>
- <updated>2014-12-31T13:42:43+00:00</updated>
+ <updated>2014-12-31T16:19:16+00:00</updated>
  <id>http://situationi.st</id>
  <author>
    <name>Rob Safar</name>
@@ -142,9 +142,40 @@
 
 &lt;p&gt;I’ve also added a class to each entry-containing &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt;, so I can style them a little easier. In my stylesheets, I’ve principally used a rule referring to &lt;code&gt;#feed div { }&lt;/code&gt; to catch all feed entries in that space, but as I’ll want to add other feeds in there in the future, this extra class will allow me to add styles for individual feeds/platforms.&lt;/p&gt;
 
-&lt;p&gt;And that’s it! You should be able to see my version in action at the bottom of the &lt;a href=&quot;http://whereof.thereof.co.uk&quot;&gt;whereof.thereof homepage&lt;/a&gt; and on the &lt;a href=&quot;http://whereof.thereof.co.uk/archive&quot;&gt;Archive&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;And that’s it! You should be able to see my version in action at the bottom of this page.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;postscript: I should also note that all of the above code works just fine in your &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; rather than in the &lt;code&gt;&amp;lt;head&amp;gt;&lt;/code&gt; (as recommended on the &lt;a href=&quot;https://developers.google.com/feed/v1/devguide&quot;&gt;Feed API page&lt;/a&gt;), which I opted for as adding extra code to all of my pages might have been redundant.&lt;/em&gt;&lt;/p&gt;
+
+&lt;div id=&quot;feed&quot;&gt;&lt;h2&gt;Elsewhereof:&lt;/h2&gt;&lt;/div&gt;
+
+&lt;!-- Get the RSS API from the horse&#39;s mouth: https://developers.google.com/feed/v1/devguide --&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;https://www.google.com/jsapi&quot;&gt;&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+google.load(&quot;feeds&quot;, &quot;1&quot;);
+function initialize() {
+var feed = new google.feeds.Feed(&quot;http://medium.com/feed/@robsafar&quot;);
+feed.load(function(result) {
+if (!result.error) {
+var container = document.getElementById(&quot;feed&quot;);
+for (var i = 0; i &lt; result.feed.entries.length; i++) {
+var entry = result.feed.entries[i];
+var div = document.createElement(&quot;div&quot;);
+div.className = &quot;feedMedium&quot;;
+var link = div.appendChild(document.createElement(&quot;a&quot;));
+link.href = entry.link;
+link.appendChild(document.createTextNode(entry.title));
+var span = div.appendChild(document.createElement(&quot;span&quot;));
+var info = entry.contentSnippet.replace(&quot;Continue reading on Medium&quot;, &quot;&quot;);
+span.innerHTML = &#39; - &#39; + info;
+container.appendChild(div);
+}
+}
+});
+}
+google.setOnLoadCallback(initialize);
+&lt;/script&gt;
+
 </content>
  </entry>
  
@@ -157,7 +188,7 @@
 
 &lt;p&gt;In fact, the last iteration of &lt;code&gt;whereof.thereof.co.uk&lt;/code&gt; wasn’t really a blog at all, rather a landing page with a link to my single completed project. I’d been blogging using &lt;a href=&quot;http://medium.com/@robsafar&quot;&gt;Medium&lt;/a&gt;, which is a fine platform in itself, but for its simplicity and elegance I had sacrificed customisability. I’m thinking of bringing across a couple of select articles, and may well continue to use Medium for articles proper.&lt;/p&gt;
 
-&lt;p&gt;But this is now my blog. Quick, off-the-cuff brain dumps and tailored, code-dependent pieces alike will find their home here - bearing in mind the medium itself. Blogging hosted on GitHub motivates a certain kind of writing, whereas hosting on Medium motivates something a little different. &lt;/p&gt;
+&lt;p&gt;But this is now my blog. Quick, off-the-cuff brain dumps and tailored, code-dependent pieces alike will find their home here - bearing in mind the medium itself. Blogging hosted on GitHub motivates a certain kind of writing, whereas hosting on Medium motivates something a little different.&lt;/p&gt;
 
 &lt;p&gt;Does this matter at all in the hypertextual environment? Do people pay any attention to the CMS or server software that the content they’re engaging utilises? I think it matters to me, in the same way a nice notebook inspires a different kind of writing than a napkin might. Medium tends towards the older, typewriter style approach to writing (while remaining authentically hypertextual and markup-cognizant), whereas GitHub and GitHub Pages tends much more towards writing prose and code texts using a &lt;em&gt;computer&lt;/em&gt;.&lt;/p&gt;
 

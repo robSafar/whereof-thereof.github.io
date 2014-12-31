@@ -2,6 +2,7 @@
 layout: post
 title: "Haraway's Theory of History in the Cyborg Manifesto"
 permalink: haraways-theory-history-cyborg-manifesto
+tags: theory myth
 ---
 
 Donna Haraway’s approach to media history is characterised by both a rejection of technological determinism and a sensitivity to the ideological impacts that media have. Though still utterly anthropocentric, this approach doesn’t merely put humans at the centre of history but also begins to undermine the conception of an easily taxonomised and identified humanity. Human history for Haraway isn’t a rigid procession of cause determining effect, but a process of becoming that depends upon human history’s conception of itself, via the medium of myth.

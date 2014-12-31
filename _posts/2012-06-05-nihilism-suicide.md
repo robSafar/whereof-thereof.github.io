@@ -2,6 +2,7 @@
 layout: post
 title: "Nihilism and Suicide"
 permalink: nihilism-suicide
+tags: theory nihilism
 ---
 
 In the second part of his introduction, titled *An experiment in Nihilism*, Mitchell introduces the task at hand. This is perhaps the most crucial part of his piece, if it is to be treated with any seriousness. What is the philosophical problem that he intends to address, if any? We find what might be his crucial question in the following:

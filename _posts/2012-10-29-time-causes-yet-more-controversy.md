@@ -2,6 +2,7 @@
 layout: post
 title: "Time Causes Yet More Controversy"
 permalink: time-causes-yet-more-controversy
+tags: myth taxonomy
 ---
 
 As the title indicates, Time is creating quite a stir once again as disgruntled logical positivists have infiltrated the Greenwich Observatory and started mucking about.

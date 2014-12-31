@@ -2,6 +2,7 @@
 layout: post
 title: "RSS via API"
 permalink: rss-via-api
+tags: code
 ---
 
 The latest addition to this site is another piece of rudimentary JavaScripting. The trouble with maintaining blogs with a particular remit is that it often makes sense to set up a new blog for every topic you want to write about. Sure - you can divide one blog into categories, but unless you're an organisation with so much content that it would be impossible to navigate otherwise, there are advantages to having one place where you talk about one thing, and so on. If someone lands on my site to read a post about Drupal, they're not really likely to then go on to read something I've written about technological determinism straight afterwards just because it's on the same domain. Whatever, I'm sure there are counter-arguments on either side, but I'm very much used to having my digital footprint spread over several different sites.
@@ -90,6 +91,38 @@ google.setOnLoadCallback(initialize);
 
 I've also added a class to each entry-containing `<div>`, so I can style them a little easier. In my stylesheets, I've principally used a rule referring to `#feed div { }` to catch all feed entries in that space, but as I'll want to add other feeds in there in the future, this extra class will allow me to add styles for individual feeds/platforms.
 
-And that's it! You should be able to see my version in action at the bottom of the [whereof.thereof homepage](http://whereof.thereof.co.uk) and on the [Archive](http://whereof.thereof.co.uk/archive). 
+And that's it! You should be able to see my version in action at the bottom of this page.
 
 *postscript: I should also note that all of the above code works just fine in your `<body>` rather than in the `<head>` (as recommended on the [Feed API page](https://developers.google.com/feed/v1/devguide)), which I opted for as adding extra code to all of my pages might have been redundant.*
+
+
+
+<div id="feed"><h2>Elsewhereof:</h2></div>
+
+
+<!-- Get the RSS API from the horse's mouth: https://developers.google.com/feed/v1/devguide -->
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript">
+google.load("feeds", "1");
+function initialize() {
+var feed = new google.feeds.Feed("http://medium.com/feed/@robsafar");
+feed.load(function(result) {
+if (!result.error) {
+var container = document.getElementById("feed");
+for (var i = 0; i < result.feed.entries.length; i++) {
+var entry = result.feed.entries[i];
+var div = document.createElement("div");
+div.className = "feedMedium";
+var link = div.appendChild(document.createElement("a"));
+link.href = entry.link;
+link.appendChild(document.createTextNode(entry.title));
+var span = div.appendChild(document.createElement("span"));
+var info = entry.contentSnippet.replace("Continue reading on Medium", "");
+span.innerHTML = ' - ' + info;
+container.appendChild(div);
+}
+}
+});
+}
+google.setOnLoadCallback(initialize);
+</script>

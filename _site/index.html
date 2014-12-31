@@ -65,6 +65,8 @@
             
             <a href="/projects.html">Projects</a>&nbsp;
             
+            <a href="/tags/">Tags</a>&nbsp;
+            
             <a href="/archive.html">Archive</a>&nbsp;
             </small>
     </h1>
@@ -72,71 +74,68 @@
 
     <div class="container content">
 
-      <h2>Hereof:</h2>
-<div class="related">
-    <ul class="related-posts">
-        
-        <li>
-            <h3>
-                <a href="/haraways-theory-history-cyborg-manifesto">
-                    Haraway's Theory of History in the Cyborg Manifesto
-                    <small>28 Nov 2014</small>
-                </a>
-            </h3>
-        </li>
-        
-        <li>
-            <h3>
-                <a href="/rss-via-api">
-                    RSS via API
-                    <small>07 Nov 2014</small>
-                </a>
-            </h3>
-        </li>
-        
-        <li>
-            <h3>
-                <a href="/my-first-markdown-post">
-                    My first markdown post
-                    <small>27 Jul 2014</small>
-                </a>
-            </h3>
-        </li>
-        
-        <li>
-            <h3>
-                <a href="/i-have-these-memories-from-my-life-none-of-them-happened">
-                    I have these memories from my life. None of them happened…
-                    <small>10 Jul 2014</small>
-                </a>
-            </h3>
-        </li>
-        
-        <li>
-            <h3>
-                <a href="/pierre-menard-author-quixote-unbound">
-                    Pierre Menard, Author of the Quixote, Unbound
-                    <small>13 Jun 2014</small>
-                </a>
-            </h3>
-        </li>
-        
-    </ul>
-</div>
-
-<!--<div class="posts">
-  
-</div>-->
-
       
-      <div id="feed"><h2>Elsewhereof:</h2></div>
+
+    </div>
+
+    <div class="container content">
+      <h2>Here:</h2>
+        <div class="related">
+            <ul class="related-posts">
+                
+                <li>
+                    <h3>
+                        <a href="/haraways-theory-history-cyborg-manifesto">
+                            Haraway's Theory of History in the Cyborg Manifesto
+                            <small>28 Nov 2014</small>
+                        </a>
+                    </h3>
+                </li>
+                
+                <li>
+                    <h3>
+                        <a href="/rss-via-api">
+                            RSS via API
+                            <small>07 Nov 2014</small>
+                        </a>
+                    </h3>
+                </li>
+                
+                <li>
+                    <h3>
+                        <a href="/my-first-markdown-post">
+                            My first markdown post
+                            <small>27 Jul 2014</small>
+                        </a>
+                    </h3>
+                </li>
+                
+                <li>
+                    <h3>
+                        <a href="/i-have-these-memories-from-my-life-none-of-them-happened">
+                            I have these memories from my life. None of them happened…
+                            <small>10 Jul 2014</small>
+                        </a>
+                    </h3>
+                </li>
+                
+                <li>
+                    <h3>
+                        <a href="/pierre-menard-author-quixote-unbound">
+                            Pierre Menard, Author of the Quixote, Unbound
+                            <small>13 Jun 2014</small>
+                        </a>
+                    </h3>
+                </li>
+                
+            </ul>
+        </div>
 
       <div class="footer">
         <div class="g-person" data-href="//plus.google.com/u/0/107210640760865930787" data-layout="landscape" data-rel="author" rel="publisher">Rob Safar</div>
 <div class="social">
     <a href="http://github.com/whereof-thereof" target="blank"><img src="https://whereofthereofmedia.s3.amazonaws.com/icon-github.png" alt="GitHub"></a>
     <a href="http://twitter.com/robsafar" target="blank"><img src="https://whereofthereofmedia.s3.amazonaws.com/icon-twitter.png" alt="Twitter"></a>
-    <a href="http://medium.com/@robsafar" target="blank"><img src="https://whereofthereofmedia.s3.amazonaws.com/icon-medium.png" alt="Medium"></a>
 </div>
 <div><p><a href="../sitemap.xml">Sitemap</a> &bull; <a href="../atom.xml">RSS</a></p></div>
 <p><sub>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.</sub></p>
@@ -153,32 +152,6 @@
       </div>
     </div>
 
-<!-- Get the RSS API from the horse's mouth: https://developers.google.com/feed/v1/devguide -->
-<script type="text/javascript" src="https://www.google.com/jsapi"></script>
-<script type="text/javascript">
-    google.load("feeds", "1");
-    function initialize() {
-        var feed = new google.feeds.Feed("http://medium.com/feed/@robsafar");
-        feed.load(function(result) {
-                  if (!result.error) {
-                  var container = document.getElementById("feed");
-                  for (var i = 0; i < result.feed.entries.length; i++) {
-                  var entry = result.feed.entries[i];
-                  var div = document.createElement("div");
-                  div.className = "feedMedium";
-                  var link = div.appendChild(document.createElement("a"));
-                  link.href = entry.link;
-                  link.appendChild(document.createTextNode(entry.title));
-                  var span = div.appendChild(document.createElement("span"));
-                  var info = entry.contentSnippet.replace("Continue reading on Medium", "");
-                  span.innerHTML = ' - ' + info;
-                  container.appendChild(div);
-                  }
-                  }
-                  });
-    }
-google.setOnLoadCallback(initialize);
-    </script>
 
   </body>
 </html>

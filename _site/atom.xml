@@ -4,7 +4,7 @@
  <title>situationi.st</title>
  <link href="http://situationi.st/atom.xml" rel="self"/>
  <link href="http://situationi.st/"/>
- <updated>2014-12-30T14:30:48+00:00</updated>
+ <updated>2014-12-31T13:42:43+00:00</updated>
  <id>http://situationi.st</id>
  <author>
    <name>Rob Safar</name>
@@ -282,14 +282,11 @@
   &lt;p&gt;The visible work left by this novelist is easily and briefly enumerated…&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;My new experiment, hopefully featuring a Twitter card too. Hopefully. Blog to follow.  &lt;a href=&quot;http://t.co/qyGmOztUgp&quot;&gt;http://t.co/qyGmOztUgp&lt;/a&gt;&lt;/p&gt;&amp;mdash; rob safar (@robsafar) &lt;a href=&quot;https://twitter.com/robsafar/status/477174747131052032&quot;&gt;June 12, 2014&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
 &lt;p&gt;I’d encountered &lt;em&gt;&lt;a href=&quot;http://muse.jhu.edu/journals/postmodern_culture/v007/7.3cayley.html&quot;&gt;Book Unbound&lt;/a&gt;&lt;/em&gt; by John Cayley when reading Espen Aarseth’s &lt;em&gt;Cybertext: Perspectives on Ergodic Literature&lt;/em&gt; as an example of a cybertextual narratonomy at play. Published online in 1997, the text can be divided into array and algorithm. The array is a collection of sentences and phrases that, by means of the algorithm, are assembled through some ‘non-trivial’ effort from the reader to make up the text. Upon reading about it, my first reaction was to check if there exists an iPhone app which simulates it. To my knowledge, no such app exists on any mobile platform. Rather than wait until I learn Objective-C or Java (likely many years ahead, if ever) I have opted to emulate this textonomy using JavaScript and HTML. At least no install is required.&lt;/p&gt;
 
 &lt;p&gt;However, lacking the original &lt;em&gt;Book Unbound&lt;/em&gt; from which to obtain that array, another source of content was needed. A result of lacking the original and having read some enthusiastic remarks about it, I was loathe to write my own. The romantic, perhaps naive, impression I have is of a work comprised of elements that are specifically designed to be encountered cybertextually, almost like the ‘fortunes’ from a cookie but more modular and poetic. My poetry is much worse than my prose.&lt;/p&gt;
 
-&lt;p&gt;Aarseth mentioned two different short stories by Jorge Luis Borges in his book, which is always a pleasure to see, but I was surprised when &lt;em&gt;Pierre Menard, Author of the Quixote&lt;/em&gt; didn’t appear in his discussion of poststructuralism’s position that any text can be read subjectively. I can only assume that two Borges references was plenty for one chapter. The Menard recounts a story about the work of a 20th century author who takes it upon himself to write the &lt;em&gt;Quixote&lt;/em&gt; — not to rewrite Cervantes’ &lt;em&gt;Quixote&lt;/em&gt;, but to write it. Borges’ description goes well beyond any paultry poststructuralist statement of the subjectivity of reading and into the subjectivity of writing.&lt;/p&gt;
+&lt;p&gt;Aarseth mentioned two different short stories by Jorge Luis Borges in his book, which is always a pleasure to see, but I was surprised when &lt;em&gt;Pierre Menard, Author of the Quixote&lt;/em&gt; didn’t appear in his discussion of poststructuralism’s position that any text can be read subjectively. I can only assume that two Borges references was plenty for one chapter. The &lt;em&gt;Menard&lt;/em&gt; recounts a story about the work of a 20th century author who takes it upon himself to write the &lt;em&gt;Quixote&lt;/em&gt; — not to rewrite Cervantes’ &lt;em&gt;Quixote&lt;/em&gt;, but to write it. Borges’ description goes well beyond any paultry poststructuralist statement of the subjectivity of reading and into the subjectivity of writing.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;It is a revelation to compare Menard’s Don Quixote with Cervantes’. The latter, for example, wrote (part one, chapter nine):&lt;/p&gt;

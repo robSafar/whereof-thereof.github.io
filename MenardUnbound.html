@@ -21,19 +21,19 @@
         <meta name="twitter:image:src" content="https://whereofthereofmedia.s3.amazonaws.com/DonQuixote-1-9.jpg"/>
         <!-- Google Analytics -->
         <script>
-            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-             (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-             m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-             })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-             ga('create', 'UA-50409670-1', 'thereof.co.uk');
-             ga('send', 'pageview');
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+          ga('create', 'UA-37330641-1', 'auto');
+          ga('send', 'pageview');
         </script>
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <script>
             function addLexias()
             {
                 var totalLexias = 145;
-                
+
                 // Hide selected lexias
                 var i = 0;
                 while (i<=totalLexias) {
@@ -45,11 +45,11 @@
                     };
                     i++;
                 };
-                
+
                 // Add four lexias
                 var i = 1;
                 while (i<= 4) {
-                    
+
                     // Identify a dormant lexia
                     var randomId = Math.floor(Math.random() * totalLexias) + 1;
                     var currentLexia = document.getElementById('l'+randomId).className;
@@ -67,7 +67,7 @@
                         var currentLexia = document.getElementById('l'+randomId).className;
                     };
                     var lexiaId = randomId;
-                    
+
                     // Concat narrative with selected lexia
                     var strtext = document.getElementById('narrative').innerHTML;
                     var newtext = document.getElementById('l'+lexiaId).innerHTML;
@@ -79,7 +79,7 @@
                     var restext = strtext.concat(newtext);
                     document.getElementById('narrative').innerHTML = restext;
                     document.getElementById('l'+lexiaId).className = "deployed";
-                    
+
                     i++;
                 }; // endwhile Add four lexias
             };
@@ -119,8 +119,8 @@
     <body style="height: 100%;">
         <div class="masthead">
             <h3 class="masthead-title">
-                <a href="/" title="Home">Whereof, Thereof.</a>
-                <small>– ∀x (∃x) – </small>
+                <a href="/" title="Home">situationi.st</a>
+                <small>:rob safar</small>
             </h3>
         </div>
         <div class="full-hero">
@@ -128,7 +128,7 @@
                 <h1 style="color: #fff; font-size: 3em; font-weight: 700;">Pierre Menard, Unbound.</h1>
             </div>
         </div>
-        
+
         <div style="display: none;" id="arrayLexias">
             <span id="l1" class="dormant">Impardonable, therefore, are the omissions and additions perpetrated by Madame Henri Bachelier in a fallacious catalogue which a certain daily, whose <em>Protestant</em> tendency is no secret, has had the inconsideration to inflict upon its deplorable readers &ndash; though these be few and Calvinist, if not Masonic and circumcised.</span>
             <span id="l2" class="dormant">The true friends of Menard have viewed this catalogue with alarm and even with a certain melancholy.</span>
@@ -276,7 +276,7 @@
             <span id="l144" class="dormant">This technique fills the most placid works with adventure.</span>
             <span id="l145" class="dormant">To attribute the <em>Imitatio Christi</em> to Louis Ferdinand C&eacute;line or to James Joyce, is this not a sufficient renovation of its tenuous spiritual indications?</span>
         </div>
-        
+
         <div class="container">
             <div class="row clearfix">
                 <p id="jswarning"><sup>If you visit this page without JavaScript enabled, you're gonna have a bad time.</sup></p>

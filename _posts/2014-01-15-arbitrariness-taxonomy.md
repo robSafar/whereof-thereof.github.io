@@ -2,7 +2,7 @@
 layout: post
 title: "On the arbitrariness of taxonomy"
 permalink: arbitrariness-taxonomy
-tags: theory
+tags: theory nihilism
 ---
 
 > "All categorisation is arbitrary"

@@ -97,7 +97,7 @@ And that's it! You should be able to see my version in action at the bottom of t
 
 
 
-<div id="feed"><h2>Elsewhereof:</h2></div>
+<div id="feed"><h3>Elsewhereof:</h3></div>
 
 
 <!-- Get the RSS API from the horse's mouth: https://developers.google.com/feed/v1/devguide -->

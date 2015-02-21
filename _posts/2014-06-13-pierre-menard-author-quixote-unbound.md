@@ -2,6 +2,7 @@
 layout: post
 title: "Pierre Menard, Author of the Quixote, Unbound"
 permalink: pierre-menard-author-quixote-unbound
+image: http://i.imgur.com/gMmnLxI.png
 tags: myth text code theory
 ---
 

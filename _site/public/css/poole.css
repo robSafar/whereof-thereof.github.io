@@ -54,7 +54,7 @@ body {
 
 html {
   font-family: "Arapey", serif;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.5;
 }
 @media (min-width: 38em) {
@@ -87,6 +87,7 @@ a:focus {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Antic Didone", serif;
+  margin-top: 1.5rem;
   margin-bottom: 1rem;
   font-weight: bold;
   line-height: 1.25;
@@ -117,8 +118,9 @@ p {
   word-wrap: break-word;
 }
 
-.post p:first-of-type { font-size: 1.2em; margin-bottom: 2em; }
+.post p:first-of-type { font-size: 1.2em; margin-bottom: 1.3em; }
 .post p:first-of-type::first-letter { font-size: 2em; }
+div.main-content { text-align: center; }
 
 strong {
   color: #303030;
@@ -244,6 +246,9 @@ img {
   margin: 0 0 1rem;
   border-radius: 5px;
 }
+
+.post img:first-of-type { margin-left: auto; margin-right: auto; }
+ul.related-posts img { margin-left: auto; margin-right: auto; }
 
 /* Tables */
 table {

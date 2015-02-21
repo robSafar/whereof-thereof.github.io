@@ -2,6 +2,7 @@
 layout: post
 title: "I have these memories from my life. None of them happened…"
 permalink: i-have-these-memories-from-my-life-none-of-them-happened
+image: http://i.imgur.com/vh5ZXOV.png
 tags: theory virtuality
 ---
 

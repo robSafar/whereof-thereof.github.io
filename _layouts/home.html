@@ -6,7 +6,7 @@
   <body>
 
 
-<div class="masthead" {% if page.title == "Home" %}style="width: 100%; height: 90%; background-image: url('https://whereofthereofmedia.s3.amazonaws.com/reflection.jpg'); background-position: center top; background-attachment: fixed; background-repeat: no-repeat;"{% endif %}>
+<div class="masthead" {% if page.title == "Home" %}style="width: 100%; height: 90%; background-image: url('{% for post in site.posts limit:1 %}{% if post.image %}{{ post.image }}{% else %}https://whereofthereofmedia.s3.amazonaws.com/reflection.jpg{% endif %}{% endfor %}'); background-position: center top; background-attachment: fixed; background-repeat: no-repeat;"{% endif %}>
     <h1 class="masthead-title" {% if page.title == "Home" %}style="background-color: #fff; border: 5px solid rgb(127, 127, 127); border: 5px solid rgba(255, 255, 255, .5); -webkit-background-clip: padding-box; background-clip: padding-box; margin-top: 200px; padding: 10px 0;"{% endif %}>
         <a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a>
         <small>{{ site.tagline }}</small>
@@ -16,24 +16,34 @@
     </h1>
 </div>
 
-    <div class="container content">
+    <div class="container content main-content">
 
       {{ content }}
 
     </div>
 
     <div class="container content">
-      <h2>Here:</h2>
+      
+      {% for post in site.posts limit:1 %}
+        <h2><a href="{{ post.url }}">{{ post.title }} <small>:{{ post.date | date_to_string }}</small></a></h2>
+        <p>{{ post.content | strip_html | truncatewords:100}}</p>
+        <p><a href="{{ post.url }}">Read more...</a></p>
+      {% endfor %}
+      
         <div class="related">
             <ul class="related-posts">
-                {% for post in site.posts limit:5 %}
+                {% for post in site.posts limit:5 offset:1 %}
                 <li>
+                    {% if post.image %}
+                        <a href="{{ post.url }}"><img src="{{ post.image }}" title="{{ post.title }}"></a>
+                    {% endif %}
                     <h3>
                         <a href="{{ post.url }}">
                             {{ post.title }}
-                            <small>{{ post.date | date_to_string }}</small>
+                            <small>:{{ post.date | date_to_string }}</small>
                         </a>
                     </h3>
+                    <p>{{ post.content | strip_html | truncatewords:25}}</p>
                 </li>
                 {% endfor %}
             </ul>

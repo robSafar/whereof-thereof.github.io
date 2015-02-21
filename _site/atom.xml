@@ -4,7 +4,7 @@
  <title>situationi.st</title>
  <link href="http://situationi.st/atom.xml" rel="self"/>
  <link href="http://situationi.st/"/>
- <updated>2015-02-21T12:51:37+00:00</updated>
+ <updated>2015-02-21T15:52:27+00:00</updated>
  <id>http://situationi.st</id>
  <author>
    <name>Rob Safar</name>
@@ -142,10 +142,10 @@
  </entry>
  
  <entry>
-   <title>RSS via API</title>
-   <link href="http://situationi.st//rss-via-api"/>
+   <title>Using Feed API for RSS (down with widgets!)</title>
+   <link href="http://situationi.st//google-feed-api-rss"/>
    <updated>2014-11-07T00:00:00+00:00</updated>
-   <id>http://situationi.st/rss-via-api</id>
+   <id>http://situationi.st/google-feed-api-rss</id>
    <content type="html">&lt;p&gt;The latest addition to this site is another piece of rudimentary JavaScripting. The trouble with maintaining blogs with a particular remit is that it often makes sense to set up a new blog for every topic you want to write about. Sure - you can divide one blog into categories, but unless you’re an organisation with so much content that it would be impossible to navigate otherwise, there are advantages to having one place where you talk about one thing, and so on. If someone lands on my site to read a post about Drupal, they’re not really likely to then go on to read something I’ve written about technological determinism straight afterwards just because it’s on the same domain. Whatever, I’m sure there are counter-arguments on either side, but I’m very much used to having my digital footprint spread over several different sites.&lt;/p&gt;
 
 &lt;p&gt;That said, I do see advantages to being able to tie all these things together into some slightly more consistent ‘digital identity’. &lt;a href=&quot;http://twitter.com/robsafar&quot;&gt;My Twitter profile&lt;/a&gt;, &lt;a href=&quot;http://plus.google.com/u/0/+RobSafar&quot;&gt;my Google+ persona&lt;/a&gt;, &lt;a href=&quot;http://github.com/whereof-thereof&quot;&gt;my Github account&lt;/a&gt;, &lt;a href=&quot;http://medium.com/@robsafar&quot;&gt;my Medium blogs&lt;/a&gt; and so on all link to &lt;code&gt;whereof.thereof.co.uk&lt;/code&gt;, so it makes sense to have this as my &lt;em&gt;Rome&lt;/em&gt;, where all roads lead. As I’m preparing to set up another blog (though I’m undecided which platform will be best suited to it) there’s going to be a greater need to tie these things together.&lt;/p&gt;

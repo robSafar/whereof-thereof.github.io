@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "RSS via API"
-permalink: rss-via-api
+title: "Using Feed API for RSS (down with widgets!)"
+permalink: google-feed-api-rss
+image: http://i.imgur.com/M3Tpe1e.png
 tags: code
 ---
 

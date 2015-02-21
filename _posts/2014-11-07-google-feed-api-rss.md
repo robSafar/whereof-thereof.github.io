@@ -2,7 +2,7 @@
 layout: post
 title: "Using Feed API for RSS (down with widgets!)"
 permalink: google-feed-api-rss
-image: http://i.imgur.com/M3Tpe1e.png
+image: http://i.imgur.com/kw3Daz4.jpg
 tags: code
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Haraway's Theory of History in the Cyborg Manifesto"
 permalink: haraways-theory-history-cyborg-manifesto
-image: http://i.imgur.com/XcOArbK.png
+image: http://i.imgur.com/MSZEcvD.jpg
 tags: theory myth
 ---
 

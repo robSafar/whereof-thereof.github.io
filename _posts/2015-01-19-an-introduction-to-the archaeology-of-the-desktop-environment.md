@@ -2,7 +2,7 @@
 layout: post
 title: "An Introduction to the Archaeology of the Desktop Environment"
 permalink: an-introduction-to-the-archaeology-of-the-desktop-environment
-image: http://i.imgur.com/521V901.png
+image: http://i.imgur.com/30NSPzG.jpg
 tags: theory virtuality
 ---
 

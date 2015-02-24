@@ -28,4 +28,4 @@ Perhaps if I can get the hang of integrating [rich snippets and structured data]
 
 I love the simple flexibility of Jekyll!
 
-*postscript: I'll also maintain a list of the crucial resources used to build this site in the [About](http://whereof.thereof.co.uk/about) page.*
+*postscript: I'll also maintain a list of the crucial resources used to build this site in the [About](/about) page.*

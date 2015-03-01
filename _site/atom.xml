@@ -4,7 +4,7 @@
  <title>situationi.st</title>
  <link href="http://situationi.st/atom.xml" rel="self"/>
  <link href="http://situationi.st/"/>
- <updated>2015-02-21T22:27:09+00:00</updated>
+ <updated>2015-03-01T15:03:36+00:00</updated>
  <id>http://situationi.st</id>
  <author>
    <name>Rob Safar</name>
@@ -260,6 +260,8 @@ container.appendChild(div);
 google.setOnLoadCallback(initialize);
 &lt;/script&gt;
 
+&lt;hr /&gt;
+
 </content>
  </entry>
  
@@ -291,7 +293,7 @@ google.setOnLoadCallback(initialize);
 
 &lt;p&gt;I love the simple flexibility of Jekyll!&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;postscript: I’ll also maintain a list of the crucial resources used to build this site in the &lt;a href=&quot;http://whereof.thereof.co.uk/about&quot;&gt;About&lt;/a&gt; page.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;postscript: I’ll also maintain a list of the crucial resources used to build this site in the &lt;a href=&quot;/about&quot;&gt;About&lt;/a&gt; page.&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  

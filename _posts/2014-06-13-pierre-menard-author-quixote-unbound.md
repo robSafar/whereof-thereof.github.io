@@ -32,7 +32,7 @@ The result of this attempted synthesis is a division of the Menard into its 146 
 
 > *Of 146 lexias, lexia[0] is always first, and can only be present or absent for any permutation: so double the factorial of the total lexias minus one gives us the number of possible permutations.*
 
-> 145! x 2 = 1609585211494398388969805851559612554219994878015001232689490562094230824747293042821700963759679298454878596460597830039626216443303327319144883218817113835478298631811985622823733271572151049203671631285586605008486400000000000000000000000000000000000
+> 145! x 2<br> =1609585211494398388969805851559612554219994878015001232689490562094230824747293042821700963759679298454878596460597830039626216443303327319144883218817113835478298631811985622823733271572151049203671631285586605008486400000000000000000000000000000000000
 
 Once the experiment was made, it seemed appropriate to write some text about the (cyber-)re-texting of a text about a modernist re-texting of a text. Hence the piece you are reading now.
 
@@ -60,4 +60,4 @@ If anybody can point me in the direction of the original *Book Unbound* HyperCar
 
 <hr>
 
-* [Read Pierre Menard, Unbound](http://whereof.thereof.co.uk/MenardUnbound)
+* [Read Pierre Menard, Unbound](http://situationi.st/MenardUnbound.html)

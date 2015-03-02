@@ -4,7 +4,7 @@
  <title>situationi.st</title>
  <link href="http://situationi.st/atom.xml" rel="self"/>
  <link href="http://situationi.st/"/>
- <updated>2015-03-01T15:03:36+00:00</updated>
+ <updated>2015-03-02T18:10:50+00:00</updated>
  <id>http://situationi.st</id>
  <author>
    <name>Rob Safar</name>
@@ -183,7 +183,17 @@
 
 &lt;p&gt;I’m not going to note which feed url you need to switch out (c’mon), but I will provide the JS to have this render as a linked title followed by the post description. I’ll also demonstrate what I needed to do to get rid of the afore-mentioned “Continue reading on Medium” text.&lt;/p&gt;
 
-&lt;p&gt;So firstly we want to wrap the inserted title with an &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt; element so we can make it a link. You’ll see above that the line &lt;code&gt;div.appendChild(document.createTextNode(entry.title));&lt;/code&gt; adds the &lt;code&gt;title&lt;/code&gt; to the &lt;code&gt;div&lt;/code&gt;, which puts it at the top of that little hierarchy. Let’s break that up a little. On the line above, we see that the entry’s &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt; is being created, so straight after that is where we want to insert our opening &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt; with the following: &lt;code&gt;var link = div.appendChild(document.createElement(&quot;a&quot;));&lt;/code&gt;. All we need to do then is specify the address we want this &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt; to direct towards, so we’ll follow that line with &lt;code&gt;link.href = entry.link;&lt;/code&gt;. All that’s required now is to ensure that the title text is actually added inside the link rather than appended afterwards within the &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt;, so we’ll need to replace the ‘entry.title’ line as follows: &lt;code&gt;link.appendChild(document.createTextNode(entry.title));&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;So firstly we want to wrap the inserted title with an &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt; element so we can make it a link. You’ll see above that the line: &lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;div.appendChild(document.createTextNode(entry.title));&lt;/code&gt; &lt;/p&gt;
+
+&lt;p&gt;adds the &lt;code&gt;title&lt;/code&gt; to the &lt;code&gt;div&lt;/code&gt;, which puts it at the top of that little hierarchy. Let’s break that up a little. On the line above, we see that the entry’s &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt; is being created, so straight after that is where we want to insert our opening &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt; with the following: &lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;var link = div.appendChild(document.createElement(&quot;a&quot;));&lt;/code&gt; &lt;/p&gt;
+
+&lt;p&gt;All we need to do then is specify the address we want this &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt; to direct towards, so we’ll follow that line with &lt;code&gt;link.href = entry.link;&lt;/code&gt;. All that’s required now is to ensure that the title text is actually added inside the link rather than appended afterwards within the &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt;, so we’ll need to replace the ‘entry.title’ line as follows: &lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;link.appendChild(document.createTextNode(entry.title));&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;You’ll see in that last instance we only replaced the first variable, from &lt;code&gt;div.&lt;/code&gt; to &lt;code&gt;link.&lt;/code&gt;. That’s it - you’ve turned the title into a link to that particular item. Now the last line in this code is only rounding off the entry, so just before that you’ll want to add your description. I used the following:&lt;/p&gt;
 
@@ -438,7 +448,7 @@ google.setOnLoadCallback(initialize);
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;145! x 2 = 1609585211494398388969805851559612554219994878015001232689490562094230824747293042821700963759679298454878596460597830039626216443303327319144883218817113835478298631811985622823733271572151049203671631285586605008486400000000000000000000000000000000000&lt;/p&gt;
+  &lt;p&gt;145! x 2&lt;br /&gt; =1609585211494398388969805851559612554219994878015001232689490562094230824747293042821700963759679298454878596460597830039626216443303327319144883218817113835478298631811985622823733271572151049203671631285586605008486400000000000000000000000000000000000&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Once the experiment was made, it seemed appropriate to write some text about the (cyber-)re-texting of a text about a modernist re-texting of a text. Hence the piece you are reading now.&lt;/p&gt;

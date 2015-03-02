@@ -72,12 +72,12 @@
 </div>
 
 
-    <div class="container content">
+    <div class="container">
 
       
       
 
-      <div class="post">
+      <div class="post content">
   <h1 class="post-title">Using Feed API for RSS (down with widgets!)</h1>
   <span class="post-date">07 Nov 2014 - by <span itemscope itemtype="http://data-vocabulary.org/Person"><span itemprop="name">Rob Safar</span></span></span>
   
@@ -120,7 +120,17 @@
 
 <p>I’m not going to note which feed url you need to switch out (c’mon), but I will provide the JS to have this render as a linked title followed by the post description. I’ll also demonstrate what I needed to do to get rid of the afore-mentioned “Continue reading on Medium” text.</p>
 
-<p>So firstly we want to wrap the inserted title with an <code>&lt;a&gt;</code> element so we can make it a link. You’ll see above that the line <code>div.appendChild(document.createTextNode(entry.title));</code> adds the <code>title</code> to the <code>div</code>, which puts it at the top of that little hierarchy. Let’s break that up a little. On the line above, we see that the entry’s <code>&lt;div&gt;</code> is being created, so straight after that is where we want to insert our opening <code>&lt;a&gt;</code> with the following: <code>var link = div.appendChild(document.createElement("a"));</code>. All we need to do then is specify the address we want this <code>&lt;a&gt;</code> to direct towards, so we’ll follow that line with <code>link.href = entry.link;</code>. All that’s required now is to ensure that the title text is actually added inside the link rather than appended afterwards within the <code>&lt;div&gt;</code>, so we’ll need to replace the ‘entry.title’ line as follows: <code>link.appendChild(document.createTextNode(entry.title));</code>.</p>
+<p>So firstly we want to wrap the inserted title with an <code>&lt;a&gt;</code> element so we can make it a link. You’ll see above that the line: </p>
+
+<p><code>div.appendChild(document.createTextNode(entry.title));</code> </p>
+
+<p>adds the <code>title</code> to the <code>div</code>, which puts it at the top of that little hierarchy. Let’s break that up a little. On the line above, we see that the entry’s <code>&lt;div&gt;</code> is being created, so straight after that is where we want to insert our opening <code>&lt;a&gt;</code> with the following: </p>
+
+<p><code>var link = div.appendChild(document.createElement("a"));</code> </p>
+
+<p>All we need to do then is specify the address we want this <code>&lt;a&gt;</code> to direct towards, so we’ll follow that line with <code>link.href = entry.link;</code>. All that’s required now is to ensure that the title text is actually added inside the link rather than appended afterwards within the <code>&lt;div&gt;</code>, so we’ll need to replace the ‘entry.title’ line as follows: </p>
+
+<p><code>link.appendChild(document.createTextNode(entry.title));</code></p>
 
 <p>You’ll see in that last instance we only replaced the first variable, from <code>div.</code> to <code>link.</code>. That’s it - you’ve turned the title into a link to that particular item. Now the last line in this code is only rounding off the entry, so just before that you’ll want to add your description. I used the following:</p>
 

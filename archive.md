@@ -21,7 +21,7 @@ I had the pleasure of being interviewed by *Det Kreativa Facket* about using ope
       {% endif %}
     {% endunless %}
 
-    <li>{{ post.date | date:"%d %b" }} &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+<li>{{ post.date | date:"%d&nbsp;%b" }} &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
 

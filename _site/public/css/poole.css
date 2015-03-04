@@ -12,7 +12,7 @@
  * Designed, built, and released under MIT license by @mdo. Learn more at
  * https://github.com/poole/poole.
  *
- * Edits for http://whereof.thereof.co.uk by http://twitter.com/robsafar
+ * Modified by http://twitter.com/robsafar
  */
 
 
@@ -53,9 +53,10 @@ body {
 }
 
 html {
-  font-family: "Arapey", serif;
+  font-family: "Lato", serif;
   font-size: 16px;
   line-height: 1.5;
+  font-weight: 400;
 }
 @media (min-width: 38em) {
   html {
@@ -86,7 +87,7 @@ a:focus {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Libre Baskerville", serif;
+    font-weight: 900;;
   margin-top: 1.5rem;
   margin-bottom: 1rem;
   font-weight: bold;
@@ -95,19 +96,19 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 2.5rem;
+  font-size: 3rem;
 }
 h2 {
   margin-top: 1.5rem;
-  font-size: 1.8rem;
+  font-size: 2rem;
 }
 h3 {
   margin-top: 1.5rem;
-  font-size: 1.5rem;
+  font-size: 1.8rem;
 }
 h4, h5, h6 {
   margin-top: 1rem;
-  font-size: 1rem;
+  font-size: 1.3rem;
 }
 
 /* Body text */
@@ -121,7 +122,7 @@ p {
 .content p { text-align: justify; }
 .content h1, .content h2 { text-align: center; }
 .post p:first-of-type { font-size: 1.2em; margin-bottom: 1.3em; }
-.post p:first-of-type::first-letter { font-size: 2em; }
+.post p:first-of-type::first-letter { font-size: 1.3em; }
 div.main-content { text-align: center; }
 
 strong {
@@ -169,7 +170,7 @@ pre {
 }
 code {
   padding: .25em .5em;
-  font-size: 75%;
+  font-size: 85%;
   color: #bf616a;
   background-color: #f9f9f9;
   border-radius: 3px;
@@ -330,7 +331,7 @@ tbody tr:nth-child(odd) th {
   max-width: 30rem;
   margin-left: auto;
   margin-right: auto;
-  font-size: 1.25rem;
+  font-size: 1.5rem;
 }
 .masthead-title a {
   color: #505050;

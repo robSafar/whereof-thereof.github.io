@@ -487,3 +487,23 @@ a.pagination-item:hover {
     .page ul { display: inline-block; }
 }*/
 
+
+/*
+ * Footer widgets
+ *
+ */
+
+#footer-widgets {
+  margin-bottom: 20px;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media (min-width: 800px) {
+  #footer-widgets { width:800px; }
+}
+
+.fwidget {
+  width: 400px;
+  float: left;
+}

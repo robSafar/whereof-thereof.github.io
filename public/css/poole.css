@@ -475,18 +475,6 @@ a.pagination-item:hover {
  * Keeping the custom whereof.thereof styling separate, pending better organisation
  */
 
-#feed { margin: 1rem auto; display: inline-block; }
-#feed div { width: 17rem; height: 7rem; overflow: hidden; margin: 0.5rem; padding: 1rem; border-radius: 0.3rem; float: left; box-shadow: 3px 3px 7px #515151; }
-.feedMedium { background: url('https://s3-eu-west-1.amazonaws.com/whereofthereofmedia/icon_feed-medium.png') no-repeat right bottom; }
-@media (max-width: 48rem) {
-    #feed { width: 18rem; margin-left: auto; margin-right: auto; display: block; }
-}
-
-/* @media (min-width: 48rem) {
-    .page ul li { width: 40%; float: left; margin-left: 5%; margin-right: 5%;}
-    .page ul { display: inline-block; }
-}*/
-
 
 /*
  * Footer widgets
@@ -496,6 +484,7 @@ a.pagination-item:hover {
 #footer-widgets {
   margin-bottom: 20px;
   width: 400px;
+  max-width: 100%;
   margin-left: auto;
   margin-right: auto;
   display: block;
@@ -506,5 +495,6 @@ a.pagination-item:hover {
 
 .fwidget {
   width: 400px;
+  max-width: 100%;
   float: left;
 }

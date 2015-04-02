@@ -6,7 +6,7 @@ image: http://i.imgur.com/j7PHYDu.jpg
 tags: myth text code theory
 ---
 
-##An experiment in cybertext
+##An experiment in cybertext.
 
 > The visible work left by this novelist is easily and briefly enumerated…
 

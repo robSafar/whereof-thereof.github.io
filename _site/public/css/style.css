@@ -1,0 +1,253 @@
+/**
+ * Typography
+ */
+/* general typography */
+body {
+  font-family: 'Open Sans', sans-serif;
+  word-wrap: break-word; }
+
+h1, h2, h3, h4 {
+  font-family: 'Inconsolata', monospace;
+  line-height: 4rem; }
+
+.body-container {
+  font-size: 1.6rem;
+  line-height: 170%; }
+  .body-container h1, .body-container h2, .body-container h3, .body-container h4, .body-container h5, .body-container h6, .body-container p, .body-container pre, .body-container ul, .body-container ol, .body-container blockquote, .body-container hr, .body-container dl, .body-container table, .body-container .message, .body-container .gist {
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3rem; }
+
+.body-container p {
+  text-align: justify; }
+
+blockquote blockquote {
+  border-left: none; }
+
+.footnotes p {
+  font-size: 1.5rem;
+  text-align: left; }
+
+/* spacing */
+.post-title {
+  margin-bottom: 4rem; }
+
+.site-footer {
+  text-align: center; }
+
+section {
+  overflow: hidden; }
+
+.main section.posts h2, p.post-preview {
+  text-align: center;
+  line-height: 1.4;
+  padding: 2px 0;
+  margin: 20px auto;
+  margin-top: 10%; }
+
+.main section.posts h2 a {
+  color: #fff; }
+
+.main section.posts h2 a:hover {
+  color: #fff; }
+
+.main section.posts h2 span, p.post-preview span {
+  background-color: #272727;
+  color: #fff;
+  display: inline;
+  padding: 0.45rem;
+  /* Needs prefixing */
+  box-decoration-break: clone; }
+
+p.post-preview {
+  max-width: 700px; }
+
+/* <pre> code syntax highlighting (taken directly from Jekyll's default styles) */
+.highlight {
+  background: #fff; }
+  .highlight .c {
+    color: #998;
+    font-style: italic; }
+  .highlight .err {
+    color: #a61717;
+    background-color: #e3d2d2; }
+  .highlight .highlight .k {
+    font-weight: bold; }
+  .highlight .o {
+    font-weight: bold; }
+  .highlight .cm {
+    color: #998;
+    font-style: italic; }
+  .highlight .cp {
+    color: #999;
+    font-weight: bold; }
+  .highlight .c1 {
+    color: #998;
+    font-style: italic; }
+  .highlight .cs {
+    color: #999;
+    font-weight: bold;
+    font-style: italic; }
+  .highlight .gd {
+    color: #000;
+    background-color: #fdd; }
+  .highlight .gd .x {
+    color: #000;
+    background-color: #faa; }
+  .highlight .ge {
+    font-style: italic; }
+  .highlight .gr {
+    color: #a00; }
+  .highlight .gh {
+    color: #999; }
+  .highlight .gi {
+    color: #000;
+    background-color: #dfd; }
+  .highlight .gi .x {
+    color: #000;
+    background-color: #afa; }
+  .highlight .go {
+    color: #888; }
+  .highlight .gp {
+    color: #555; }
+  .highlight .gs {
+    font-weight: bold; }
+  .highlight .gu {
+    color: #aaa; }
+  .highlight .gt {
+    color: #a00; }
+  .highlight .kc {
+    font-weight: bold; }
+  .highlight .kd {
+    font-weight: bold; }
+  .highlight .kp {
+    font-weight: bold; }
+  .highlight .kr {
+    font-weight: bold; }
+  .highlight .kt {
+    color: #458;
+    font-weight: bold; }
+  .highlight .m {
+    color: #099; }
+  .highlight .s {
+    color: #d14; }
+  .highlight .na {
+    color: #008080; }
+  .highlight .nb {
+    color: #0086B3; }
+  .highlight .nc {
+    color: #458;
+    font-weight: bold; }
+  .highlight .no {
+    color: #008080; }
+  .highlight .ni {
+    color: #800080; }
+  .highlight .ne {
+    color: #900;
+    font-weight: bold; }
+  .highlight .nf {
+    color: #900;
+    font-weight: bold; }
+  .highlight .nn {
+    color: #555; }
+  .highlight .nt {
+    color: #000080; }
+  .highlight .nv {
+    color: #008080; }
+  .highlight .ow {
+    font-weight: bold; }
+  .highlight .w {
+    color: #bbb; }
+  .highlight .mf {
+    color: #099; }
+  .highlight .mh {
+    color: #099; }
+  .highlight .mi {
+    color: #099; }
+  .highlight .mo {
+    color: #099; }
+  .highlight .sb {
+    color: #d14; }
+  .highlight .sc {
+    color: #d14; }
+  .highlight .sd {
+    color: #d14; }
+  .highlight .s2 {
+    color: #d14; }
+  .highlight .se {
+    color: #d14; }
+  .highlight .sh {
+    color: #d14; }
+  .highlight .si {
+    color: #d14; }
+  .highlight .sx {
+    color: #d14; }
+  .highlight .sr {
+    color: #009926; }
+  .highlight .s1 {
+    color: #d14; }
+  .highlight .ss {
+    color: #990073; }
+  .highlight .bp {
+    color: #999; }
+  .highlight .vc {
+    color: #008080; }
+  .highlight .vg {
+    color: #008080; }
+  .highlight .vi {
+    color: #008080; }
+  .highlight .il {
+    color: #099; }
+
+/**
+ * Layout
+ */
+.site-footer {
+  margin-top: 10%; }
+
+.site-header nav {
+  display: inline;
+  float: right; }
+
+/**
+ * Iconography
+ */
+.social-media-list {
+  list-style-type: none; }
+
+.icon > svg {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  vertical-align: middle; }
+
+.icon > svg path {
+  fill: #828282; }
+
+/**
+ * Images
+ */
+.section-image {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+  z-index: -5; }
+
+figure {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+  max-width: 100%; }
+
+header figure {
+  margin-bottom: 3rem; }
+
+.post-header img, .post-content img {
+  max-width: 100%;
+  height: auto; }
+
+img + .caption {
+  font-style: italic;
+  text-align: center; }

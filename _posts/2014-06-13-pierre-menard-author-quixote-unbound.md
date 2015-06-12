@@ -1,14 +1,16 @@
 ---
 layout: post
 title: "Pierre Menard, Author of the Quixote, Unbound"
+subtitle: "An experiment in cybertext."
+teaser: "...and a demonstration that deconstruction doesn't always lead to a better narrative experience..."
+author: Rob Safar
 permalink: pierre-menard-author-quixote-unbound
 image: http://i.imgur.com/j7PHYDu.jpg
-tags: myth text code theory
 ---
 
-##An experiment in cybertext.
-
 > The visible work left by this novelist is easily and briefly enumerated…
+
+* [Read Pierre Menard, Unbound](http://whereof.thereof.co.uk/MenardUnbound.html)
 
 I’d encountered *[Book Unbound](http://muse.jhu.edu/journals/postmodern_culture/v007/7.3cayley.html)* by John Cayley when reading Espen Aarseth’s *Cybertext: Perspectives on Ergodic Literature* as an example of a cybertextual narratonomy at play. Published online in 1997, the text can be divided into array and algorithm. The array is a collection of sentences and phrases that, by means of the algorithm, are assembled through some ‘non-trivial’ effort from the reader to make up the text. Upon reading about it, my first reaction was to check if there exists an iPhone app which simulates it. To my knowledge, no such app exists on any mobile platform. Rather than wait until I learn Objective-C or Java (likely many years ahead, if ever) I have opted to emulate this textonomy using JavaScript and HTML. At least no install is required.
 
@@ -16,23 +18,21 @@ However, lacking the original *Book Unbound* from which to obtain that array, an
 
 Aarseth mentioned two different short stories by Jorge Luis Borges in his book, which is always a pleasure to see, but I was surprised when *Pierre Menard, Author of the Quixote* didn’t appear in his discussion of poststructuralism’s position that any text can be read subjectively. I can only assume that two Borges references was plenty for one chapter. The *Menard* recounts a story about the work of a 20th century author who takes it upon himself to write the *Quixote* — not to rewrite Cervantes’ *Quixote*, but to write it. Borges’ description goes well beyond any paultry poststructuralist statement of the subjectivity of reading and into the subjectivity of writing.
 
-> It is a revelation to compare Menard’s Don Quixote with Cervantes’. The latter, for example, wrote (part one, chapter nine):
-
->>truth, whose mother is history, rival of time, depository of deeds, witness of the past, exemplar and adviser to the present, and the future’s counselor.
-
-> Written in the seventeenth century, written by the “lay genius” Cervantes, this enumeration is a mere rhetorical praise of history. Menard, on the other hand, writes:
-
->>truth, whose mother is history, rival of time, depository of deeds, witness of the past, exemplar and adviser to the present, and the future’s counselor.
-
+> It is a revelation to compare Menard’s Don Quixote with Cervantes’. The latter, for example, wrote (part one, chapter nine): 
+>
+>> "truth, whose mother is history, rival of time, depository of deeds, witness of the past, exemplar and adviser to the present, and the future’s counselor." 
+>
+> Written in the seventeenth century, written by the “lay genius” Cervantes, this enumeration is a mere rhetorical praise of history. Menard, on the other hand, writes: 
+>
+>> "truth, whose mother is history, rival of time, depository of deeds, witness of the past, exemplar and adviser to the present, and the future’s counselor." 
+>
 > History, the mother of truth: the idea is astounding. Menard, a contemporary of William James, does not define history as an inquiry into reality but as its origin. Historical truth, for him, is not what has happened; it is what we judge to have happened. The final phrases — exemplar and adviser to the present, and the future’s counselor — are brazenly pragmatic.
 
 It made only too much sense to re-text the *Menard*. It’s well meta.
 
-The result of this attempted synthesis is a division of the Menard into its 146 respective sentences and their treatment as lexias, or at least ‘sub-’lexias where opportunities for intervention are presented between them. The reader has the option to add more lexias or to remove lexias, creating their own reordered version of the original (translated) text. Arriving at a modified factorial of this arrangement*, we find that there are over **1.6 × 10^252** permutations of this work — plenty to regard each journey through the text as unique. Even reading perpetually at 1 permutation per minute, it would still take more than 3.7 x 10^244 millennia to read every one, even if each possible permutation was encountered respectively and we treated as identical different ways of arriving at the same permutation.
+The result of this attempted synthesis is a division of the Menard into its 146 respective sentences and their treatment as lexias, or at least ‘sub-’lexias where opportunities for intervention are presented between them. The reader has the option to add more lexias or to remove lexias, creating their own reordered version of the original (translated) text. Arriving at a modified factorial of this arrangement[^fn-lexia_count], we find that there are over **1.6 × 10^252** permutations of this work — plenty to regard each journey through the text as unique. Even reading perpetually at 1 permutation per minute, it would still take more than 3.7 x 10^244 millennia to read every one, even if each possible permutation was encountered respectively and we treated as identical different ways of arriving at the same permutation.
 
-> *Of 146 lexias, lexia[0] is always first, and can only be present or absent for any permutation: so double the factorial of the total lexias minus one gives us the number of possible permutations.*
-
-> 145! x 2<br> =1609585211494398388969805851559612554219994878015001232689490562094230824747293042821700963759679298454878596460597830039626216443303327319144883218817113835478298631811985622823733271572151049203671631285586605008486400000000000000000000000000000000000
+[^fn-lexia_count]: Of 146 lexias, lexia[0] is always first, and can only be present or absent for any permutation: so double the factorial of the total lexias minus one gives us the number of possible permutations. 145! x 2 = 1609585211494398388969805851559612554219994878015001232689490562094230824747293042821700963759679298454878596460597830039626216443303327319144883218817113835478298631811985622823733271572151049203671631285586605008486400000000000000000000000000000000000
 
 Once the experiment was made, it seemed appropriate to write some text about the (cyber-)re-texting of a text about a modernist re-texting of a text. Hence the piece you are reading now.
 
@@ -58,6 +58,4 @@ The apparent absence of *Book Unbound* is a deep shame. It would have been bette
 
 If anybody can point me in the direction of the original *Book Unbound* HyperCard file, I would be extremely grateful.
 
-<hr>
-
-* [Read Pierre Menard, Unbound](http://situationi.st/MenardUnbound.html)
+* [Read Pierre Menard, Unbound](http://whereof.thereof.co.uk/MenardUnbound.html)

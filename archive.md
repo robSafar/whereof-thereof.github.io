@@ -1,12 +1,9 @@
 ---
 layout: page
 title: Archive
+permalink: /archive/
+glyph: glyphicon-book
 ---
-
-I had the pleasure of being interviewed by *Det Kreativa Facket* about using open source software in the NGO world - [Filosofi ner på kodnivå](http://www.dik.se/nyheter/2014/okt/filosofi-ner-paa-kodnivaa/) *("Philosophy Down to the Code Level" in Swedish)*.
-
-<hr>
-
 
 <ul>
   {% for post in site.posts %}

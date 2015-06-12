@@ -1,25 +1,14 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      pygments
+# Site settings
+title: "Whereof, Thereof."
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  I'm Rob Safar and whereof.thereof is where I keep some of my things. I'm based in London, UK and do Internet things.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://whereof.thereof.co.uk" # the base hostname & protocol for your site
+twitter_username: robsafar
+github_username:  whereof-thereof
 
-# Permalinks
-permalink:        /:title/
-
-# Setup
-title:            situationi.st
-tagline:          :rob safar
-url:              http://situationi.st
-baseurl:          /
-author:
-  name:           Rob Safar
-  url:            https://twitter.com/robsafar
-  email:          whereof@thereof.co.uk
-
-# Custom vars
-version:          1.0.0
-repository:       https://github.com/whereof-thereof/whereof-thereof.github.io
-
-pages_list:
-
+# Build settings
+markdown: kramdown
 gems:
   - jekyll-sitemap

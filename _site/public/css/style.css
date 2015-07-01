@@ -7,8 +7,10 @@ body {
   word-wrap: break-word; }
 
 h1, h2, h3, h4 {
-  font-family: 'Inconsolata', monospace;
-  line-height: 4rem; }
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 5rem;
+  line-height: 5rem;
+  margin-top: 3rem; }
 
 .body-container {
   font-size: 1.6rem;
@@ -30,6 +32,9 @@ blockquote blockquote {
   text-align: left; }
 
 /* spacing */
+.site-title {
+  font-size: 10rem; }
+
 .post-title {
   margin-bottom: 4rem; }
 
@@ -41,7 +46,7 @@ section {
 
 .main section.posts h2, p.post-preview {
   text-align: center;
-  line-height: 1.4;
+  line-height: 1.7;
   padding: 2px 0;
   margin: 20px auto;
   margin-top: 10%; }

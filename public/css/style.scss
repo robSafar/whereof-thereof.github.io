@@ -25,6 +25,9 @@ h1, h2, h3, h4 {
     margin-top: 3rem;
 }
 
+h1 a.site-title { font-size: 10rem; }
+h3 a.site-title { font-size: 4rem; }
+
 .body-container {
     font-size: 1.6rem;
     line-height: 170%;
@@ -55,8 +58,6 @@ blockquote blockquote {
 /* spacing */
 
 
-
-h1 a.site-title { font-size: 10rem; }
 
 .post-title { margin-bottom: 4rem; }
 

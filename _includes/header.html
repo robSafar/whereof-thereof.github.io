@@ -2,7 +2,7 @@
 
   <div class="container">
 
-    {% if page.layout == 'home' %}<h1>{% else %}<h3>{% endif %}
+    {% if page.layout == 'home' %}<h1>{% else %}<h2>{% endif %}
       <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>&nbsp;
       <nav class="site-nav">
         <small>{% for page in site.pages %}
@@ -18,7 +18,7 @@
           {% endunless %}
         {% endfor %}</small>
       </nav>
-    {% if page.layout == 'home' %}</h1>{% else %}</h3>{% endif %}
+    {% if page.layout == 'home' %}</h1>{% else %}</h2>{% endif %}
 
 
   </div>

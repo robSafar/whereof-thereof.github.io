@@ -14,26 +14,28 @@
 
 /* general typography */
 
-body { 
-    font-family: 'Rosario', sans-serif;
-    word-wrap: break-word; 
+body {
+    font-family: 'Fira Sans', sans-serif;
+    word-wrap: break-word;
 }
-h1, h2, h3, h4 {
+h1, h2, h3, h4, h5 {
+    font-family: 'Oswald', sans-serif;
     font-size: 5rem;
     line-height: 5rem;
     margin-top: 3rem;
 }
 
-h1 a.site-title { font-size: 8rem; }
+h1 a.site-title { font-size: 6rem; }
 .home-header h1 { margin-top: 150px; }
-h3 a.site-title { font-size: 4rem; }
+h2 a.site-title { font-size: 3rem; }
+h1 .site-nav small, h2 .site-nav small { font-size: 2.5rem; }
 
 .body-container {
     font-size: 1.6rem;
-    line-height: 170%;
+    line-height: 200%;
 
-    h1, h2, h3, h4, h5, h6, p, pre, ul, ol, blockquote, hr, dl, table, .message, .gist { 
-    max-width: 750px; 
+    h1, h2, h3, h4, h5, h6, p, pre, ul, ol, blockquote, hr, dl, table, .message, .gist {
+    max-width: 750px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 3rem;
@@ -48,8 +50,8 @@ blockquote blockquote {
     border-left: none;
 }
 
-.footnotes p { 
-    font-size: 1.5rem; 
+.footnotes p {
+    font-size: 1.5rem;
     text-align: left;
 }
 
@@ -67,22 +69,22 @@ section {
     overflow: hidden;
 }
 
-.main section.posts h2, p.post-preview { 
-    text-align: center; 
-    line-height: 1.7; 
-    padding: 2px 0; 
+.main section.posts h2, p.post-preview {
+    text-align: center;
+    line-height: 1.7;
+    padding: 2px 0;
     margin: 20px auto;
     margin-top: 10%;
 }
-.main section.posts h2 a { 
+.main section.posts h2 a {
     color: #fff;
 }
-.main section.posts h2 a:hover { 
+.main section.posts h2 a:hover {
     color: #fff;
 }
 .main section.posts h2 span, p.post-preview span {
     background-color: #272727;
-    color: #fff; 
+    color: #fff;
     display: inline;
     padding: 0.45rem;
 
@@ -221,7 +223,7 @@ figure {
  header figure {
     margin-bottom: 3rem;
  }
- 
+
  .post-header img, .post-content img {
     max-width: 100%;
     height: auto;

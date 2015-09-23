@@ -3,18 +3,30 @@
  */
 /* general typography */
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Fira Sans', sans-serif;
   word-wrap: break-word; }
 
-h1, h2, h3, h4 {
-  font-family: 'Open Sans Condensed', sans-serif;
+h1, h2, h3, h4, h5 {
+  font-family: 'Oswald', sans-serif;
   font-size: 5rem;
   line-height: 5rem;
   margin-top: 3rem; }
 
+h1 a.site-title {
+  font-size: 6rem; }
+
+.home-header h1 {
+  margin-top: 150px; }
+
+h2 a.site-title {
+  font-size: 3rem; }
+
+h1 .site-nav small, h2 .site-nav small {
+  font-size: 2.5rem; }
+
 .body-container {
   font-size: 1.6rem;
-  line-height: 170%; }
+  line-height: 200%; }
   .body-container h1, .body-container h2, .body-container h3, .body-container h4, .body-container h5, .body-container h6, .body-container p, .body-container pre, .body-container ul, .body-container ol, .body-container blockquote, .body-container hr, .body-container dl, .body-container table, .body-container .message, .body-container .gist {
     max-width: 750px;
     margin-left: auto;
@@ -32,9 +44,6 @@ blockquote blockquote {
   text-align: left; }
 
 /* spacing */
-.site-title {
-  font-size: 10rem; }
-
 .post-title {
   margin-bottom: 4rem; }
 

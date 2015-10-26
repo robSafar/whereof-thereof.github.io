@@ -6,16 +6,19 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Archive</title>
+  <title>whereof|t͍ͩ̈̆̌̿͊̕͜hereö̡̪̲̲̻̗͖̯͕̌ͦ͞f</title>
   <meta name="description" content="whereof|t͍ͩ̈̆̌̿͊̕͜hereö̡̪̲̲̻̗͖̯͕̌ͦ͞f
 ">
 
   <link rel="stylesheet" href="/public/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="/public/css/style.css">
   <link href='https://fonts.googleapis.com/css?family=Fira+Sans:400,400italic|Fira+Mono' rel='stylesheet' type='text/css'>
-  <link rel="canonical" href="http://whereof.thereof.co.uk/archive/">
+  <link rel="canonical" href="http://whereof.thereof.co.uk/index2.html">
   <link rel="alternate" type="application/rss+xml" title="whereof|t͍ͩ̈̆̌̿͊̕͜hereö̡̪̲̲̻̗͖̯͕̌ͦ͞f" href="http://whereof.thereof.co.uk/feed.xml" />
 
+  
+    <script src="/public/js/onepagescroll/onepagescroll.min.js"></script>
+    <link rel="stylesheet" href="/public/js/onepagescroll/onepage-scroll.css">
   
 
 <script>
@@ -34,11 +37,14 @@
 
   <body>
 
-    <header class="site-header">
+    <div class="main">
+  <section class="posts">
+    <div class="home-header">
+      <header class="site-header">
 
   <div class="container">
 
-    <h2>
+    <h1>
       <a class="site-title" href="/">whereof|t͍ͩ̈̆̌̿͊̕͜hereö̡̪̲̲̻̗͖̯͕̌ͦ͞f</a>&nbsp;
       <nav class="site-nav">
         <small>
@@ -83,54 +89,58 @@
           
         </small>
       </nav>
-    </h2>
+    </h1>
 
 
   </div>
 
 </header>
 
-
-    <div class="container body-container">
-      <div class="wrapper">
-        <div class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">Archive</h1>
-    
-  </header>
-
-  <article class="post-content">
-    <ul>
-  
-
-    
-      <h3>2015</h3>
-    
-
-<li>09&nbsp;Jun &raquo; <a href="/intro-to-quixotic-bootstrap-jekyll">Quixotic Bootstrap Jekyll</a></li>
-  
-
-    
-      
-      
-      
-        <h3>2014</h3>
-      
-    
-
-<li>13&nbsp;Jun &raquo; <a href="/pierre-menard-author-quixote-unbound">Pierre Menard, Author of the Quixote, Unbound</a></li>
-  
-</ul>
-
-
-  </article>
-
-</div>
-
-      </div>
     </div>
-
+    <article>
+      <h2>Hi.</h2>
+    </article>
+  </section>
+  
+    <section class="posts">
+      <h2>
+        <span>
+          <a class="post-link" href="/intro-to-quixotic-bootstrap-jekyll">Quixotic Bootstrap Jekyll</a>
+          <small>An introduction.</small>
+        </span>
+      </h2>
+      <p class="post-preview">
+        <span>
+          
+            A word or two about the theme for this site, and how you can use it too.
+          
+        </span>
+      </p>
+      
+        <img class="section-image" src="http://i.imgur.com/p4BzalZ.jpg">
+      
+    </section>
+  
+    <section class="posts">
+      <h2>
+        <span>
+          <a class="post-link" href="/pierre-menard-author-quixote-unbound">Pierre Menard, Author of the Quixote, Unbound</a>
+          <small>An experiment in cybertext.</small>
+        </span>
+      </h2>
+      <p class="post-preview">
+        <span>
+          
+            ...and a demonstration that deconstruction doesn't always lead to a better narrative experience...
+          
+        </span>
+      </p>
+      
+        <img class="section-image" src="http://i.imgur.com/j7PHYDu.jpg">
+      
+    </section>
+  
+  <section>
     <footer class="site-footer">
 
   <div class="container">
@@ -186,6 +196,27 @@
   </div>
 
 </footer>
+
+  </section>
+</div>
+
+<script>
+  onePageScroll(".main", {
+   sectionContainer: "section",     // sectionContainer accepts any kind of selector in case you don't want to use section
+   easing: "ease",                  // Easing options accepts the CSS3 easing animation such "ease", "linear", "ease-in", 
+                                    // "ease-out", "ease-in-out", or even cubic bezier value such as "cubic-bezier(0.175, 0.885, 0.420, 1.310)"
+   animationTime: 750,             // AnimationTime let you define how long each section takes to animate
+   pagination: true,                // You can either show or hide the pagination. Toggle true for show, false for hide.
+   updateURL: false,                // Toggle this true if you want the URL to be updated automatically when the user scroll to each page.
+   beforeMove: function(index) {},  // This option accepts a callback function. The function will be called before the page moves.
+   afterMove: function(index) {},   // This option accepts a callback function. The function will be called after the page moves.
+   loop: false,                     // You can have the page loop back to the top/bottom when the user navigates at up/down on the first/last page.
+   keyboard: true,                  // You can activate the keyboard controls
+   responsiveFallback: false        // You can fallback to normal page scroll by defining the width of the browser in which
+                                    // you want the responsive fallback to be triggered. For example, set this to 600 and whenever 
+                                    // the browser's width is less than 600, the fallback will kick in.
+});
+</script>
 
 
   </body>

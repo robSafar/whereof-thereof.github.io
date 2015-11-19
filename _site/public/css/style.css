@@ -7,7 +7,6 @@ body {
   word-wrap: break-word; }
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Fira Mono', monospace;
   font-size: 5rem;
   line-height: 5rem;
   margin-top: 3rem; }
@@ -45,37 +44,15 @@ blockquote blockquote {
 
 /* spacing */
 .post-title {
-  margin-bottom: 4rem; }
+  margin-bottom: 4rem;
+  font-size: 15rem;
+  line-height: 12rem; }
 
 .site-footer {
   text-align: center; }
 
 section {
   overflow: hidden; }
-
-.main section.posts h2, p.post-preview {
-  text-align: center;
-  line-height: 1.7;
-  padding: 2px 0;
-  margin: 20px auto;
-  margin-top: 10%; }
-
-.main section.posts h2 a {
-  color: #fff; }
-
-.main section.posts h2 a:hover {
-  color: #fff; }
-
-.main section.posts h2 span, p.post-preview span {
-  background-color: #272727;
-  color: #fff;
-  display: inline;
-  padding: 0.45rem;
-  /* Needs prefixing */
-  box-decoration-break: clone; }
-
-p.post-preview {
-  max-width: 700px; }
 
 /* <pre> code syntax highlighting (taken directly from Jekyll's default styles) */
 .highlight {
@@ -243,11 +220,8 @@ p.post-preview {
  * Images
  */
 .section-image {
-  position: absolute;
-  right: 0px;
-  bottom: 0px;
-  height: 100%;
-  z-index: -5; }
+  max-width: 100%;
+  height: auto; }
 
 figure {
   margin-left: auto;

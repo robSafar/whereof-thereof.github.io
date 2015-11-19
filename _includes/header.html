@@ -4,6 +4,7 @@
 
     {% if page.layout == 'home' %}<h1>{% else %}<h2>{% endif %}
       <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>&nbsp;
+      {% if page.layout == 'home' %}
       <nav class="site-nav">
         <small>{% for page in site.pages %}
           {% unless page.exclude_from_nav %}
@@ -18,6 +19,7 @@
           {% endunless %}
         {% endfor %}</small>
       </nav>
+      {% endif %}
     {% if page.layout == 'home' %}</h1>{% else %}</h2>{% endif %}
 
 

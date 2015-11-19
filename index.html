@@ -23,7 +23,11 @@ layout: home
         </span>
       </p>
       {% if post.image %}
-        <figure><img class="section-image" src="{{ post.image }}"></figure>
+        <figure>
+          <a href="{{ post.url | prepend: site.baseurl }}">
+            <img class="section-image" src="{{ post.image }}">
+          </a>
+        </figure>
       {% endif %}
     </div>
   {% endfor %}

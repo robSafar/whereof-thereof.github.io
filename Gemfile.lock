@@ -65,7 +65,7 @@ GEM
       rb-kqueue (>= 0.2)
     maruku (0.7.0)
     minitest (5.4.0)
-    nokogiri (1.5.6)
+    nokogiri (1.8.2)
     parslet (1.5.0)
       blankslate (~> 2.0)
     posix-spawn (0.3.8)
